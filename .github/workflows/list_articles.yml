@@ -42,7 +42,7 @@ jobs:
       with:
         github-token: ${{ secrets.SIMPREAD }}
           commit-message: "Create/Refresh article list"
-          files: README.md
+          file: README.md
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
