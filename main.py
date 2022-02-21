@@ -9,7 +9,7 @@ def read_list_files(sourcepath, md_name ="README.md"):
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths_temp = (glob.glob(source_dir))
     filepaths = [p.replace(" ", "%20") for p in filepaths_temp]
-    filenames = [p.split('/')[-1].split('.')[0] for p in filepaths]
+    filenames = [p.split('/')[-1].split('.')[0] for p in filepaths_temp]
 
     with open(md_name, "w") as f:
         f.write(f"# Saved readings from SimpRead\n\n")
