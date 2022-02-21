@@ -1,0 +1,48 @@
+name: Generate article list
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: askming
+  GITHUB_EMAIL: askming@gmail.com
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+
+  steps:
+    - name: Set up GH repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Configure pip cache
+      uses: actions/cache@v1
+      id: pip-cache
+      with:
+        path: venv
+        key: pip-1-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          pip-
+    
+    - name: Run Python script
+      run: |
+        source venv/bin/activate
+        python main.py
+    
+    - name: Commit/Push changes 
+      uses: github-actions-x/commit@v2.6
+      with:
+        github-token: ${{ secrets.SIMPREAD }}
+          commit-message: "Create/Refresh article list"
+          files: README.md
+          rebase: 'true'
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
