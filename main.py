@@ -7,7 +7,7 @@ SOURCE = './Saved_Reading'
 def read_list_files(sourcepath, md_name ="./README.md"):
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
-    filepaths.sort(key=os.path.getctime) # sort file by creation date
+    filepaths.sort(key=os.path.getmtime) # sort file by creation date
 
     with open(md_name, "w") as f:
         current_year = ''
@@ -17,7 +17,7 @@ def read_list_files(sourcepath, md_name ="./README.md"):
             filepath_i = filepaths[i].replace(" ", "%20")
             filename = filepaths[i].split('/')[-1].split('.')[0]
             stat = os.stat(filepaths[i])
-            created_date = datetime.datetime.fromtimestamp(stat.st_birthtime).date()
+            created_date = datetime.datetime.fromtimestamp(stat.st_mtime).date()
 
             if created_date.year != current_year:
                 f.write(f"## {created_date.year}\n\n")
