@@ -34,8 +34,8 @@ jobs:
       
       - name: Run Python script
         run: |
-          # python -m venv env
-          # source env/bin/activate
+          python -m venv env
+          source env/bin/activate
           python main.py
       
       - name: Commit/Push changes 
