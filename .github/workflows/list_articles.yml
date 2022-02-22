@@ -33,11 +33,15 @@ jobs:
       #     restore-keys: |
       #       pip-
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install --upgrade pip
+          source env/bin/activate
+          python -m venv env
+          pip install -r requirements.txt
+        if: steps.pip-cache.outputs.cache-hit != 'true'
       
       - name: Run Python script
         run: |
-          python3.9 -m venv env
           source env/bin/activate
           python main.py
       
