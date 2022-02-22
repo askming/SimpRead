@@ -1,6 +1,6 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-02-21_
+_last updated on 2022-02-22_
 
 - [坚果云 + Zotero+Typora+RSS， 我的终极文献阅读解决方案！](./Saved_Reading/坚果云%20+%20Zotero+Typora+RSS，%20我的终极文献阅读解决方案！.md)
 
@@ -69,6 +69,8 @@ _last updated on 2022-02-21_
 - [Be Careful When Interpreting Predictive Models in Search of Causal Insights | by Scott Lundberg | May, 2021 | Towards Data Science](./Saved_Reading/Be%20Careful%20When%20Interpreting%20Predictive%20Models%20in%20Search%20of%20Causal%20Insights%20|%20by%20Scott%20Lundberg%20|%20May,%202021%20|%20Towards%20Data%20Science.md)
 
 - [The United States Constitution](./Saved_Reading/The%20United%20States%20Constitution.md)
+
+- [Buy Things, Not Experiences — harold lee](./Saved_Reading/Buy%20Things,%20Not%20Experiences%20—%20harold%20lee.md)
 
 - [Rondam Ramblings: A catalog of wealth-creation mechanisms](./Saved_Reading/Rondam%20Ramblings:%20A%20catalog%20of%20wealth-creation%20mechanisms.md)
 
