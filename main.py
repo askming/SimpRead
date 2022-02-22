@@ -18,6 +18,7 @@ def get_repo(user: Github, repo: str):
 def date_to_sort(repo, file_path):
     commits = repo.get_commits(path=file_path)
     date = commits[0].commit.committer.date
+    return(date)
 
 
 def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md"):
