@@ -12,7 +12,7 @@ def read_list_files(sourcepath, md_name ="./README.md"):
     filepaths = glob.glob(source_dir)
     sort_dates = []
     for i in range(len(filepaths)):
-        sort_dates.append(repo.get_commits(path=filepaths[i]).commits.commit.committer.date)
+        sort_dates.append(repo.get_commits(path=filepaths[i]).commits[0].commit.committer.date)
     print(sort_dates)
     filepaths.sort(key=os.path.getmtime) # sort file by creation date
 
