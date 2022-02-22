@@ -1,10 +1,13 @@
 import os
 import glob
+from github import Github
 import datetime
 
 SOURCE = './Saved_Reading'
 
 def read_list_files(sourcepath, md_name ="./README.md"):
+    g = Github()
+    repo = g.get_repo('askming/SimpRead')
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
     filepaths.sort(key=os.path.getmtime) # sort file by creation date
@@ -16,8 +19,9 @@ def read_list_files(sourcepath, md_name ="./README.md"):
         for i in range(len(filepaths)):  
             filepath_i = filepaths[i].replace(" ", "%20")
             filename = filepaths[i].split('/')[-1].split('.')[0]
-            stat = os.stat(filepaths[i])
-            created_date = datetime.datetime.fromtimestamp(stat.st_mtime).date()
+            commits = repo.get_commits(path=filepaths[i])
+            # stat = os.stat(filepaths[i])
+            created_date = datetime.datetime.fromtimestamp(commits[0].commit.committer.date).date()
 
             if created_date.year != current_year:
                 f.write(f"## {created_date.year}\n\n")
