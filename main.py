@@ -7,7 +7,7 @@ SOURCE = './Saved_Reading'
 def read_list_files(sourcepath, md_name ="./README.md"):
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
-    filepaths.sort(key=os.path.getctime) # sort file by created date
+    filepaths.sort(key=os.path.getctime) # sort file by creation date
 
     with open(md_name, "w") as f:
         current_year = ''
