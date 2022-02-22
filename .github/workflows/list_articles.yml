@@ -43,7 +43,7 @@ jobs:
       - name: Run Python script
         run: |
           source env/bin/activate
-          python main.py
+          python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
       
       - name: Commit/Push changes 
         uses: github-actions-x/commit@v2.6

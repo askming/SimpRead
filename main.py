@@ -2,12 +2,24 @@ import os
 import glob
 from github import Github
 import datetime
+import argparse
 
 SOURCE = './Saved_Reading'
 
-def read_list_files(sourcepath, md_name ="./README.md"):
-    g = Github()
-    repo = g.get_repo('askming/SimpRead')
+def get_me(user):
+    return user.get_user().login
+
+def login(token):
+    return Github(token)
+
+def get_repo(user: Github, repo: str):
+    return user.get_repo(repo)
+
+def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md"):
+    user = login(token)
+    me = get_me(user)
+    repo = get_repo(user, repo_name)
+
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
     sort_dates = []
@@ -15,7 +27,7 @@ def read_list_files(sourcepath, md_name ="./README.md"):
         commits = repo.get_commits(path=filepaths[i])
         sort_dates.append(commits[0].commit.committer.date)
     print(sort_dates)
-    filepaths.sort(key=os.path.getmtime) # sort file by creation date
+    filepaths.sort(key=sort_dates) # sort file by creation date
 
     with open(md_name, "w") as f:
         current_year = ''
@@ -34,4 +46,8 @@ def read_list_files(sourcepath, md_name ="./README.md"):
             f.write(f"- [{filename}]({filepath_i}), _added on {created_date}_\n\n")
 
 if __name__ == "__main__":
-    read_list_files(sourcepath=SOURCE)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
+    options = parser.parse_args()
+    read_list_files(options.github_token, options.repo_name)
