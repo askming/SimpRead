@@ -10,8 +10,10 @@ def read_list_files(sourcepath, md_name ="./README.md"):
     repo = g.get_repo('askming/SimpRead')
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
-    creation_dates = repo.get_commits(path=SOURCE).commits.commit.committer.date
-    print(creation_dates)
+    sort_dates = []
+    for i in range(len(filepaths)):
+        sort_dates.append(repo.get_commits(path=filepaths[i]).commits.commit.committer.date)
+    print(sort_dates)
     filepaths.sort(key=os.path.getmtime) # sort file by creation date
 
     with open(md_name, "w") as f:
