@@ -32,12 +32,6 @@ jobs:
           pip install -r requirements.txt
           python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
       
-      # - name: Run Python script
-      #   run: |
-      #     python -m venv env
-      #     source env/bin/activate
-      #     python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
-      
       - name: Commit/Push changes 
         uses: github-actions-x/commit@v2.6
         with:
