@@ -22,6 +22,7 @@ def read_list_files(sourcepath, md_name ="./README.md"):
             commits = repo.get_commits(path=filepaths[i])
             # stat = os.stat(filepaths[i])
             created_date = commits[0].commit.committer.date[:9]
+            year = commits[0].commit.committer.date[:3]
 
             if created_date.year != current_year:
                 f.write(f"## {created_date.year}\n\n")
