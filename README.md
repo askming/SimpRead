@@ -1,6 +1,6 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-02-22_
+_last updated on 2022-02-22; total 36 articles_
 
 - [ PPI 以及像素密度 | INFOLINK Blog](./Saved_Reading/%20PPI%20以及像素密度%20|%20INFOLINK%20Blog.md)
 
