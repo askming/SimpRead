@@ -7,7 +7,8 @@ SOURCE = './Saved_Reading'
 def read_list_files(sourcepath, md_name ="README.md"):
 
     source_dir = os.path.join(sourcepath, '*.md')
-    filepaths_temp = (glob.glob(source_dir))
+    filepaths_temp = glob.glob(source_dir)
+    filepaths_temp.sort()
     filepaths = [p.replace(" ", "%20") for p in filepaths_temp]
     filenames = [p.split('/')[-1].split('.')[0] for p in filepaths_temp]
 
