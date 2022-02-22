@@ -20,8 +20,8 @@ def read_list_files(sourcepath, md_name ="./README.md"):
             filepath_i = filepaths[i].replace(" ", "%20")
             filename = filepaths[i].split('/')[-1].split('.')[0]
             commits = repo.get_commits(path=filepaths[i])
-            created_date = str(commits[0].commit.committer.date)[:9]
-            created_year = str(commits[0].commit.committer.date)[:3]
+            created_date = str(commits[0].commit.committer.date)[:10]
+            created_year = str(commits[0].commit.committer.date)[:4]
 
             if created_year != current_year:
                 f.write(f"## {created_year}\n\n")
