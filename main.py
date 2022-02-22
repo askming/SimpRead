@@ -16,7 +16,7 @@ def read_list_files(sourcepath, md_name ="./README.md"):
         for i in range(len(filepaths)):  
             filepath_i = filepaths[i].replace(" ", "%20")
             filename = filepaths[i].split('/')[-1].split('.')[0]
-            fname = filepaths[i].split('/')
+            fname = filepaths[i].split('/')[-1]
             created_date = datetime.datetime.fromtimestamp(os.path.getctime(fname)).date()
 
             if created_date.year != current_year:
