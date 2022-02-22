@@ -24,8 +24,8 @@ def read_list_files(sourcepath, md_name ="./README.md"):
             created_year = str(commits[0].commit.committer.date)[:3]
 
             if created_year != current_year:
-                f.write(f"## {created_date.year}\n\n")
-                current_year = created_date.year
+                f.write(f"## {created_year}\n\n")
+                current_year = created_year
             f.write(f"- [{filename}]({filepath_i}), _added on {created_date}_\n\n")
 
 if __name__ == "__main__":
