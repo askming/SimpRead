@@ -17,8 +17,8 @@ def read_list_files(sourcepath, md_name ="./README.md"):
         for i in range(len(filepaths)):  
             filepath_i = filepaths[i].replace(" ", "%20")
             filename = filepaths[i].split('/')[-1].split('.')[0]
-            fname = pathlib.Path(filepaths[i].split('/')[-1])
-            created_date = datetime.datetime.fromtimestamp(fname.stat().st_ctime, tz=datetime.tzinfo.tzname("US/Pacific")).date()
+            # fname = pathlib.Path(filepaths[i].split('/')[-1])
+            created_date = datetime.datetime.fromtimestamp(filepaths[i].stat().st_ctime, tz=datetime.tzinfo.tzname("US/Pacific")).date()
 
             if created_date.year != current_year:
                 f.write(f"## {created_date.year}\n\n")
