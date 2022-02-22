@@ -14,7 +14,7 @@ def read_list_files(sourcepath, md_name ="README.md"):
 
     with open(md_name, "w") as f:
         f.write(f"# Saved readings from SimpRead\n\n")
-        f.write(f"_last updated on " + str(date.today()) + "_\n\n")   
+        f.write(f"_last updated on {str(date.today())}; total {len(filenames)} articles_\n\n")   
         for i in range(len(filepaths)):  
             f.write(f"- [{filenames[i]}]({filepaths[i]})\n\n")
 
