@@ -25,7 +25,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
     source_dir = os.path.join(sourcepath, '*.md')
     filepaths = glob.glob(source_dir)
     
-    filepaths.sort(key=lambda path: date_to_sort(repo=repo, file_path=path)) # sort file by creation date
+    filepaths.sort(key=lambda path: date_to_sort(repo=repo, file_path=path), reverse=True) # sort file by creation date
 
     with open(md_name, "w") as f:
         current_year = ''
