@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-02-23; total 37 articles_
+_last updated on 2022-02-26; total 38 articles_
 
 ## 2022
+
+- [The list of 2021 visualization lists](./Saved_Reading/The%20list%20of%202021%20visualization%20lists.md), _added on 2022-02-26_
 
 - [🚀 Deploying any app to GitHub Pages | by Chetan Raj | JavaScript in Plain English](./Saved_Reading/🚀%20Deploying%20any%20app%20to%20GitHub%20Pages%20|%20by%20Chetan%20Raj%20|%20JavaScript%20in%20Plain%20English.md), _added on 2022-02-22_
 
