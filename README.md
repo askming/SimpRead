@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-02-26; total 38 articles_
+_last updated on 2022-02-26; total 39 articles_
 
 ## 2022
+
+- [Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index](./Saved_Reading/Career%20Advice%20Nobody%20Gave%20Me:%20Never%20Ignore%20a%20Recruiter%20|%20by%20Alex%20Chesser%20|%20Feb,%202022%20|%20Index.md), _added on 2022-02-26_
 
 - [The list of 2021 visualization lists](./Saved_Reading/The%20list%20of%202021%20visualization%20lists.md), _added on 2022-02-26_
 
