@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-02-26; total 39 articles_
+_last updated on 2022-02-27; total 40 articles_
 
 ## 2022
+
+- [know how your org works (or how to become a more effective engineer) | by Cindy Sridharan | Jan, 2022 | Medium](./Saved_Reading/know%20how%20your%20org%20works%20(or%20how%20to%20become%20a%20more%20effective%20engineer)%20|%20by%20Cindy%20Sridharan%20|%20Jan,%202022%20|%20Medium.md), _added on 2022-02-27_
 
 - [Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index](./Saved_Reading/Career%20Advice%20Nobody%20Gave%20Me:%20Never%20Ignore%20a%20Recruiter%20|%20by%20Alex%20Chesser%20|%20Feb,%202022%20|%20Index.md), _added on 2022-02-26_
 
