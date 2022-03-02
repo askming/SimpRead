@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-03-01; total 41 articles_
+_last updated on 2022-03-02; total 42 articles_
 
 ## 2022
+
+- [Modern JavaScript Explained For Dinosaurs | by Peter Jang | Node](./Saved_Reading/Modern%20JavaScript%20Explained%20For%20Dinosaurs%20|%20by%20Peter%20Jang%20|%20Node.js%20Collection%20|%20Medium.md), _added on 2022-03-02_
 
 - [The Economics of Data Businesses - by Abraham Thomas](./Saved_Reading/The%20Economics%20of%20Data%20Businesses%20-%20by%20Abraham%20Thomas.md), _added on 2022-03-01_
 
