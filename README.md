@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-03-02; total 42 articles_
+_last updated on 2022-03-08; total 43 articles_
 
 ## 2022
+
+- [如何在一个全新的领域展开学习 | ichn-hu's blog](./Saved_Reading/如何在一个全新的领域展开学习%20|%20ichn-hu's%20blog.md), _added on 2022-03-08_
 
 - [Modern JavaScript Explained For Dinosaurs | by Peter Jang | Node](./Saved_Reading/Modern%20JavaScript%20Explained%20For%20Dinosaurs%20|%20by%20Peter%20Jang%20|%20Node.js%20Collection%20|%20Medium.md), _added on 2022-03-02_
 
