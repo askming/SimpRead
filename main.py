@@ -41,7 +41,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
             if created_year != current_year:
                 f.write(f"## {created_year}\n\n")
                 current_year = created_year
-            f.write(f"- [{filename}]({filepath_i}), _added on {created_date}_\n\n")
+            f.write(f"- [ ] [{filename}]({filepath_i}), _added on {created_date}_\n\n")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
