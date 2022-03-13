@@ -4,11 +4,11 @@ _last updated on 2022-03-13; total 44 articles_
 
 ## 2022
 
-- [x] [The lazy way to being outstanding: go after hard things](./Saved_Reading/The%20lazy%20way%20to%20being%20outstanding:%20go%20after%20hard%20things.%20-%20Artur%20Piszek.md), _added on 2022-03-13_
+- [ ] [The lazy way to being outstanding: go after hard things](./Saved_Reading/The%20lazy%20way%20to%20being%20outstanding:%20go%20after%20hard%20things.%20-%20Artur%20Piszek.md), _added on 2022-03-13_
 
-- [x] [如何在一个全新的领域展开学习 | ichn-hu's blog](./Saved_Reading/如何在一个全新的领域展开学习%20|%20ichn-hu's%20blog.md), _added on 2022-03-08_
+- [ ] [如何在一个全新的领域展开学习 | ichn-hu's blog](./Saved_Reading/如何在一个全新的领域展开学习%20|%20ichn-hu's%20blog.md), _added on 2022-03-08_
 
-- [x] [Modern JavaScript Explained For Dinosaurs | by Peter Jang | Node](./Saved_Reading/Modern%20JavaScript%20Explained%20For%20Dinosaurs%20|%20by%20Peter%20Jang%20|%20Node.js%20Collection%20|%20Medium.md), _added on 2022-03-02_
+- [ ] [Modern JavaScript Explained For Dinosaurs | by Peter Jang | Node](./Saved_Reading/Modern%20JavaScript%20Explained%20For%20Dinosaurs%20|%20by%20Peter%20Jang%20|%20Node.js%20Collection%20|%20Medium.md), _added on 2022-03-02_
 
 - [ ] [The Economics of Data Businesses - by Abraham Thomas](./Saved_Reading/The%20Economics%20of%20Data%20Businesses%20-%20by%20Abraham%20Thomas.md), _added on 2022-03-01_
 
@@ -20,7 +20,7 @@ _last updated on 2022-03-13; total 44 articles_
 
 - [ ] [🚀 Deploying any app to GitHub Pages | by Chetan Raj | JavaScript in Plain English](./Saved_Reading/🚀%20Deploying%20any%20app%20to%20GitHub%20Pages%20|%20by%20Chetan%20Raj%20|%20JavaScript%20in%20Plain%20English.md), _added on 2022-02-22_
 
-- [x] [Buy Things, Not Experiences — harold lee](./Saved_Reading/Buy%20Things,%20Not%20Experiences%20—%20harold%20lee.md), _added on 2022-02-22_
+- [ ] [Buy Things, Not Experiences — harold lee](./Saved_Reading/Buy%20Things,%20Not%20Experiences%20—%20harold%20lee.md), _added on 2022-02-22_
 
 - [ ] [ PPI 以及像素密度 | INFOLINK Blog](./Saved_Reading/%20PPI%20以及像素密度%20|%20INFOLINK%20Blog.md), _added on 2022-02-21_
 
@@ -30,17 +30,17 @@ _last updated on 2022-03-13; total 44 articles_
 
 - [ ] [是谁夺走了美国人的数学能力？ –美国百年数学战争演义 | Ivy League Education Center](./Saved_Reading/是谁夺走了美国人的数学能力？%20–美国百年数学战争演义%20|%20Ivy%20League%20Education%20Center.md), _added on 2022-02-14_
 
-- [x] [孤独之下，独居时代丨青山资本 2021 年度消费报告](./Saved_Reading/孤独之下，独居时代丨青山资本%202021%20年度消费报告.md), _added on 2022-01-30_
+- [ ] [孤独之下，独居时代丨青山资本 2021 年度消费报告](./Saved_Reading/孤独之下，独居时代丨青山资本%202021%20年度消费报告.md), _added on 2022-01-30_
 
 - [ ] [5 种生存结—你需要知道的强大的救生结](./Saved_Reading/5%20种生存结—你需要知道的强大的救生结.md), _added on 2022-01-28_
 
-- [x] [Salary Negotiation: Make More Money, Be More Valued               |         Kalzumeus Software](./Saved_Reading/Salary%20Negotiation:%20Make%20More%20Money,%20Be%20More%20Valued%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20|%20%20%20%20%20%20%20%20%20Kalzumeus%20Software.md), _added on 2022-01-28_
+- [ ] [Salary Negotiation: Make More Money, Be More Valued               |         Kalzumeus Software](./Saved_Reading/Salary%20Negotiation:%20Make%20More%20Money,%20Be%20More%20Valued%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20|%20%20%20%20%20%20%20%20%20Kalzumeus%20Software.md), _added on 2022-01-28_
 
 - [ ] [The Spacing Effect: How to Improve Learning and Maximize Retention - Farnam Street](./Saved_Reading/The%20Spacing%20Effect:%20How%20to%20Improve%20Learning%20and%20Maximize%20Retention%20-%20Farnam%20Street.md), _added on 2022-01-27_
 
-- [x] [李录：市场的疯狂和暴跌可以服务于你](./Saved_Reading/李录：市场的疯狂和暴跌可以服务于你.md), _added on 2022-01-06_
+- [ ] [李录：市场的疯狂和暴跌可以服务于你](./Saved_Reading/李录：市场的疯狂和暴跌可以服务于你.md), _added on 2022-01-06_
 
-- [x] [How I got wealthy without working too hard [Extended]](./Saved_Reading/How%20I%20got%20wealthy%20without%20working%20too%20hard%20[Extended].md), _added on 2022-01-04_
+- [ ] [How I got wealthy without working too hard [Extended]](./Saved_Reading/How%20I%20got%20wealthy%20without%20working%20too%20hard%20[Extended].md), _added on 2022-01-04_
 
 ## 2021
 
