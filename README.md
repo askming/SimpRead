@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-03-08; total 43 articles_
+_last updated on 2022-03-13; total 44 articles_
 
 ## 2022
+
+- [The lazy way to being outstanding: go after hard things](./Saved_Reading/The%20lazy%20way%20to%20being%20outstanding:%20go%20after%20hard%20things.%20-%20Artur%20Piszek.md), _added on 2022-03-13_
 
 - [如何在一个全新的领域展开学习 | ichn-hu's blog](./Saved_Reading/如何在一个全新的领域展开学习%20|%20ichn-hu's%20blog.md), _added on 2022-03-08_
 
