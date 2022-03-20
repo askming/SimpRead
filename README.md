@@ -4,7 +4,7 @@ _last updated on 2022-03-20; total 63 articles_
 
 ## 2022
 
-_total 38 articles_
+_38 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
@@ -13,6 +13,8 @@ _total 38 articles_
 - [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
 
 - [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+<details><summary>Show more</summary>
 
 - [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
 
@@ -80,11 +82,13 @@ _total 38 articles_
 
 - [李录：市场的疯狂和暴跌可以服务于你](./Saved_Reading/李录：市场的疯狂和暴跌可以服务于你.md), _added on 2022-01-06_
 
+</details>
+
 - [How I got wealthy without working too hard [Extended]](./Saved_Reading/How%20I%20got%20wealthy%20without%20working%20too%20hard%20[Extended].md), _added on 2022-01-04_
 
 ## 2021
 
-_total 25 articles_
+_25 articles_
 
 - [My Path to Financial Independence as a Software Engineer – Software the Hard way](./Saved_Reading/My%20Path%20to%20Financial%20Independence%20as%20a%20Software%20Engineer%20–%20Software%20the%20Hard%20way.md), _added on 2021-12-30_
 
@@ -93,6 +97,8 @@ _total 25 articles_
 - [a16z 合伙人对话 Paradigm 合伙人：我们第一次把经济系统内嵌到了互联网里 — Mirror](./Saved_Reading/a16z%20合伙人对话%20Paradigm%20合伙人：我们第一次把经济系统内嵌到了互联网里%20—%20Mirror.md), _added on 2021-12-22_
 
 - [Rondam Ramblings: A catalog of wealth-creation mechanisms](./Saved_Reading/Rondam%20Ramblings:%20A%20catalog%20of%20wealth-creation%20mechanisms.md), _added on 2021-11-23_
+
+<details><summary>Show more</summary>
 
 - [My Top 10 Money Rules](./Saved_Reading/My%20Top%2010%20Money%20Rules.md), _added on 2021-11-23_
 
@@ -133,6 +139,8 @@ _total 25 articles_
 - [Building Effective Data Science Teams | RStudio BlogRStudio Blog](./Saved_Reading/Building%20Effective%20Data%20Science%20Teams%20|%20RStudio%20BlogRStudio%20Blog.md), _added on 2021-06-22_
 
 - [A Visual Exploration of Gaussian ProcessesA Visual Exploration of Gaussian Processes](./Saved_Reading/A%20Visual%20Exploration%20of%20Gaussian%20ProcessesA%20Visual%20Exploration%20of%20Gaussian%20Processes.md), _added on 2021-06-22_
+
+</details>
 
 - [Be Careful When Interpreting Predictive Models in Search of Causal Insights | by Scott Lundberg | May, 2021 | Towards Data Science](./Saved_Reading/Be%20Careful%20When%20Interpreting%20Predictive%20Models%20in%20Search%20of%20Causal%20Insights%20|%20by%20Scott%20Lundberg%20|%20May,%202021%20|%20Towards%20Data%20Science.md), _added on 2021-06-22_
 
