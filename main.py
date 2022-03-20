@@ -44,7 +44,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
             created_year = str(commits[0].commit.committer.date)[:4]
 
             if created_year != current_year:
-                c = 1
+                c = 0
                 f.write(f"## {created_year}\n\n")
                 f.write(f"_{file_years_count[created_year]} articles_\n\n")
                 current_year = created_year        
