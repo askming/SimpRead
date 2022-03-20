@@ -44,10 +44,16 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
             created_year = str(commits[0].commit.committer.date)[:4]
 
             if created_year != current_year:
+                c = 1
                 f.write(f"## {created_year}\n\n")
-                f.write(f"_total {file_years_count[created_year]} articles_\n\n")
-                current_year = created_year
+                f.write(f"_{file_years_count[created_year]} articles_\n\n")
+                current_year = created_year        
+            if c == 5:
+                f.write("<details><summary>Show more</summary>\n\n")
             f.write(f"- [{filename}]({filepath_i}), _added on {created_date}_\n\n")
+            c += 1
+            if c == file_years_count[current_year]:
+                f.write("</details>\n\n")   
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
