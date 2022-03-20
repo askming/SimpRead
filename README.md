@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-03-13; total 44 articles_
+_last updated on 2022-03-20; total 45 articles_
 
 ## 2022
+
+- [复盘 ASML 发展历程，探寻本土光刻产业链投资机会](./Saved_Reading/复盘%20ASML%20发展历程，探寻本土光刻产业链投资机会.pdf), _added on 2022-03-20_
 
 - [The lazy way to being outstanding: go after hard things](./Saved_Reading/The%20lazy%20way%20to%20being%20outstanding:%20go%20after%20hard%20things.%20-%20Artur%20Piszek.md), _added on 2022-03-13_
 
