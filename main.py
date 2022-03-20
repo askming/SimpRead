@@ -29,7 +29,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
         filepaths = filepaths + glob.glob(source_dir)
     
     filepaths.sort(key=lambda path: date_to_sort(repo=repo, file_path=path), reverse=True) # sort file by creation date
-    file_years = [str(repo.get_commits(path=p)[0].commit.committer.date[:4]) for p in filepaths]
+    file_years = [str(repo.get_commits(path=p)[0].commit.committer.date)[:4] for p in filepaths]
     file_years_count = dict(zip(file_years, [file_years.count(y) for y in file_years])) # count NO of articles by year
 
     with open(md_name, "w") as f:
