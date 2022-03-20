@@ -14,9 +14,9 @@ _38 articles_
 
 - [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
-<details><summary>Show more</summary>
-
 - [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+<details><summary>Show more</summary>
 
 - [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
@@ -82,9 +82,9 @@ _38 articles_
 
 - [李录：市场的疯狂和暴跌可以服务于你](./Saved_Reading/李录：市场的疯狂和暴跌可以服务于你.md), _added on 2022-01-06_
 
-</details>
-
 - [How I got wealthy without working too hard [Extended]](./Saved_Reading/How%20I%20got%20wealthy%20without%20working%20too%20hard%20[Extended].md), _added on 2022-01-04_
+
+</details>
 
 ## 2021
 
@@ -98,9 +98,9 @@ _25 articles_
 
 - [Rondam Ramblings: A catalog of wealth-creation mechanisms](./Saved_Reading/Rondam%20Ramblings:%20A%20catalog%20of%20wealth-creation%20mechanisms.md), _added on 2021-11-23_
 
-<details><summary>Show more</summary>
-
 - [My Top 10 Money Rules](./Saved_Reading/My%20Top%2010%20Money%20Rules.md), _added on 2021-11-23_
+
+<details><summary>Show more</summary>
 
 - [How to Grow Sodium Chloride Crystals at Home](./Saved_Reading/How%20to%20Grow%20Sodium%20Chloride%20Crystals%20at%20Home.md), _added on 2021-11-20_
 
@@ -140,7 +140,7 @@ _25 articles_
 
 - [A Visual Exploration of Gaussian ProcessesA Visual Exploration of Gaussian Processes](./Saved_Reading/A%20Visual%20Exploration%20of%20Gaussian%20ProcessesA%20Visual%20Exploration%20of%20Gaussian%20Processes.md), _added on 2021-06-22_
 
-</details>
-
 - [Be Careful When Interpreting Predictive Models in Search of Causal Insights | by Scott Lundberg | May, 2021 | Towards Data Science](./Saved_Reading/Be%20Careful%20When%20Interpreting%20Predictive%20Models%20in%20Search%20of%20Causal%20Insights%20|%20by%20Scott%20Lundberg%20|%20May,%202021%20|%20Towards%20Data%20Science.md), _added on 2021-06-22_
+
+</details>
 
