@@ -1,8 +1,10 @@
 # Saved readings from SimpRead
 
-_last updated on 2022-03-20; total 45 articles_
+_last updated on 2022-03-20; total 46 articles_
 
 ## 2022
+
+- [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
 - [复盘 ASML 发展历程，探寻本土光刻产业链投资机会](./Saved_Reading/复盘%20ASML%20发展历程，探寻本土光刻产业链投资机会.pdf), _added on 2022-03-20_
 
