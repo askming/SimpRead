@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-03-20; total 63 articles_
+_last updated on 2022-03-25; total 64 articles_
 
 ## 2022
 
-_38 articles_
+_39 articles_
+
+- [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
@@ -14,9 +16,9 @@ _38 articles_
 
 - [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
-
 <details><summary>Show more</summary>
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
 
 - [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
