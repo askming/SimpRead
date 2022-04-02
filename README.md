@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-03-25; total 64 articles_
+_last updated on 2022-04-02; total 65 articles_
 
 ## 2022
 
-_39 articles_
+_40 articles_
+
+- [Managing people 🤯 | Andreas Klinger](./Saved_Reading/Managing%20people%20🤯%20|%20Andreas%20Klinger.md), _added on 2022-04-02_
 
 - [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
 
@@ -14,9 +16,9 @@ _39 articles_
 
 - [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
 <details><summary>Show more</summary>
+
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
 
