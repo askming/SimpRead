@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-10; total 66 articles_
+_last updated on 2022-04-11; total 67 articles_
 
 ## 2022
 
-_41 articles_
+_42 articles_
+
+- [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
 
 - [了解字体的基础知识](./Saved_Reading/了解字体的基础知识.md), _added on 2022-04-10_
 
@@ -14,9 +16,9 @@ _41 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
-
 <details><summary>Show more</summary>
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
 - [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
