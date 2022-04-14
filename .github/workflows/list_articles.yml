@@ -33,7 +33,7 @@ jobs:
           python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
       
       - name: Commit/Push changes 
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.SIMPREAD }}
           commit-message: "Create/Refresh article list"
