@@ -6,7 +6,7 @@ _last updated on 2022-04-21; total 68 articles_
 
 _43 articles_
 
-- [上海是预示未来一百年的大河 - 李承鹏 (@dayangelcp)](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏%20(@dayangelcp).pdf), _added on 2022-04-21_
+- [上海是预示未来一百年的大河 - 李承鹏](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏.pdf), _added on 2022-04-21_
 
 - [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
 
