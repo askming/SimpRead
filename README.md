@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-14; total 67 articles_
+_last updated on 2022-04-21; total 68 articles_
 
 ## 2022
 
-_42 articles_
+_43 articles_
+
+- [上海是预示未来一百年的大河 - 李承鹏 (@dayangelcp)](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏%20(@dayangelcp).pdf), _added on 2022-04-21_
 
 - [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
 
@@ -14,9 +16,9 @@ _42 articles_
 
 - [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
 
-- [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
-
 <details><summary>Show more</summary>
+
+- [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
 - [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
