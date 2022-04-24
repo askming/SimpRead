@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-24; total 70 articles_
+_last updated on 2022-04-24; total 71 articles_
 
 ## 2022
 
-_45 articles_
+_46 articles_
+
+- [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-24_
 
 - [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-24_
 
@@ -14,9 +16,9 @@ _45 articles_
 
 - [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
 
-- [了解字体的基础知识](./Saved_Reading/了解字体的基础知识.md), _added on 2022-04-10_
-
 <details><summary>Show more</summary>
+
+- [了解字体的基础知识](./Saved_Reading/了解字体的基础知识.md), _added on 2022-04-10_
 
 - [Managing people 🤯 | Andreas Klinger](./Saved_Reading/Managing%20people%20🤯%20|%20Andreas%20Klinger.md), _added on 2022-04-02_
 
