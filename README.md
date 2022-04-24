@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-24; total 69 articles_
+_last updated on 2022-04-24; total 70 articles_
 
 ## 2022
 
-_44 articles_
+_45 articles_
+
+- [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-24_
 
 - [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-24_
 
@@ -14,9 +16,9 @@ _44 articles_
 
 - [了解字体的基础知识](./Saved_Reading/了解字体的基础知识.md), _added on 2022-04-10_
 
-- [Managing people 🤯 | Andreas Klinger](./Saved_Reading/Managing%20people%20🤯%20|%20Andreas%20Klinger.md), _added on 2022-04-02_
-
 <details><summary>Show more</summary>
+
+- [Managing people 🤯 | Andreas Klinger](./Saved_Reading/Managing%20people%20🤯%20|%20Andreas%20Klinger.md), _added on 2022-04-02_
 
 - [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
 
