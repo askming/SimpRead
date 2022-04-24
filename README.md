@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-21; total 68 articles_
+_last updated on 2022-04-24; total 69 articles_
 
 ## 2022
 
-_43 articles_
+_44 articles_
+
+- [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-24_
 
 - [上海是预示未来一百年的大河 - 李承鹏](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏.pdf), _added on 2022-04-21_
 
@@ -14,9 +16,9 @@ _43 articles_
 
 - [Managing people 🤯 | Andreas Klinger](./Saved_Reading/Managing%20people%20🤯%20|%20Andreas%20Klinger.md), _added on 2022-04-02_
 
-- [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
-
 <details><summary>Show more</summary>
+
+- [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-25_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
