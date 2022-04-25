@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-04-24; total 71 articles_
+_last updated on 2022-04-25; total 72 articles_
 
 ## 2022
 
-_46 articles_
+_47 articles_
+
+- [How I read papers](./Saved_Reading/How%20I%20read%20papers.pdf), _added on 2022-04-25_
 
 - [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-24_
 
@@ -14,9 +16,9 @@ _46 articles_
 
 - [上海是预示未来一百年的大河 - 李承鹏](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏.pdf), _added on 2022-04-21_
 
-- [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
-
 <details><summary>Show more</summary>
+
+- [以一万防万一 ---- 从概率角度看QL](./Saved_Reading/以一万防万一%20----%20从概率角度看QL.pdf), _added on 2022-04-11_
 
 - [了解字体的基础知识](./Saved_Reading/了解字体的基础知识.md), _added on 2022-04-10_
 
