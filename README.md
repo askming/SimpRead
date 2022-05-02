@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-05-02; total 73 articles_
+_last updated on 2022-05-02; total 74 articles_
 
 ## 2022
 
-_48 articles_
+_49 articles_
+
+- [25+ Years of Personal Knowledge Management](./Saved_Reading/25+%20Years%20of%20Personal%20Knowledge%20Management.%20From%20scattered%20ideas%20to%20networked%20thoughts.md), _added on 2022-05-02_
 
 - [The Technium: 103 Bits of Advice I Wish I Had Known](./Saved_Reading/The%20Technium:%20103%20Bits%20of%20Advice%20I%20Wish%20I%20Had%20Known.md), _added on 2022-05-02_
 
@@ -14,9 +16,9 @@ _48 articles_
 
 - [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-24_
 
-- [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-24_
-
 <details><summary>Show more</summary>
+
+- [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-24_
 
 - [上海是预示未来一百年的大河 - 李承鹏](./Saved_Reading/上海是预示未来一百年的大河%20-%20李承鹏.pdf), _added on 2022-04-21_
 
