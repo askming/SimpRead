@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-05-05; total 77 articles_
+_last updated on 2022-05-05; total 78 articles_
 
 ## 2022
 
-_52 articles_
+_53 articles_
+
+- [Carl Jung on How to Live and the Origin of “Do the Next Right Thing” – The Marginalian](./Saved_Reading/Carl%20Jung%20on%20How%20to%20Live%20and%20the%20Origin%20of%20“Do%20the%20Next%20Right%20Thing”%20–%20The%20Marginalian.md), _added on 2022-05-05_
 
 - [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
 
@@ -14,9 +16,9 @@ _52 articles_
 
 - [25+ Years of Personal Knowledge Management](./Saved_Reading/25+%20Years%20of%20Personal%20Knowledge%20Management.%20From%20scattered%20ideas%20to%20networked%20thoughts.md), _added on 2022-05-02_
 
-- [The Technium: 103 Bits of Advice I Wish I Had Known](./Saved_Reading/The%20Technium:%20103%20Bits%20of%20Advice%20I%20Wish%20I%20Had%20Known.md), _added on 2022-05-02_
-
 <details><summary>Show more</summary>
+
+- [The Technium: 103 Bits of Advice I Wish I Had Known](./Saved_Reading/The%20Technium:%20103%20Bits%20of%20Advice%20I%20Wish%20I%20Had%20Known.md), _added on 2022-05-02_
 
 - [How I read papers](./Saved_Reading/How%20I%20read%20papers.pdf), _added on 2022-04-25_
 
