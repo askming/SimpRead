@@ -1,10 +1,14 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-05-05; total 75 articles_
+_last updated on 2022-05-05; total 77 articles_
 
 ## 2022
 
-_50 articles_
+_52 articles_
+
+- [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
+
+- [A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business - Farnam Street](./Saved_Reading/A%20Lesson%20on%20Elementary%20Worldly%20Wisdom%20As%20It%20Relates%20To%20Investment%20Management%20&%20Business%20-%20Farnam%20Street.md), _added on 2022-05-05_
 
 - [[BetterExplained] 如何有效地记忆与学习 – 刘未鹏 | Mind Hacks](./Saved_Reading/[BetterExplained]%20如何有效地记忆与学习%20–%20刘未鹏%20|%20Mind%20Hacks.md), _added on 2022-05-05_
 
@@ -12,11 +16,11 @@ _50 articles_
 
 - [The Technium: 103 Bits of Advice I Wish I Had Known](./Saved_Reading/The%20Technium:%20103%20Bits%20of%20Advice%20I%20Wish%20I%20Had%20Known.md), _added on 2022-05-02_
 
+<details><summary>Show more</summary>
+
 - [How I read papers](./Saved_Reading/How%20I%20read%20papers.pdf), _added on 2022-04-25_
 
 - [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-24_
-
-<details><summary>Show more</summary>
 
 - [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-24_
 
