@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-05-02; total 74 articles_
+_last updated on 2022-05-05; total 75 articles_
 
 ## 2022
 
-_49 articles_
+_50 articles_
+
+- [[BetterExplained] 如何有效地记忆与学习 – 刘未鹏 | Mind Hacks](./Saved_Reading/[BetterExplained]%20如何有效地记忆与学习%20–%20刘未鹏%20|%20Mind%20Hacks.md), _added on 2022-05-05_
 
 - [25+ Years of Personal Knowledge Management](./Saved_Reading/25+%20Years%20of%20Personal%20Knowledge%20Management.%20From%20scattered%20ideas%20to%20networked%20thoughts.md), _added on 2022-05-02_
 
@@ -14,9 +16,9 @@ _49 articles_
 
 - [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-24_
 
-- [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-24_
-
 <details><summary>Show more</summary>
+
+- [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-24_
 
 - [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-24_
 
