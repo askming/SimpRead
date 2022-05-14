@@ -1,10 +1,12 @@
 # Saved readings from SimpRead & others
 
-_last updated on 2022-05-13; total 79 articles_
+_last updated on 2022-05-14; total 80 articles_
 
 ## 2022
 
-_54 articles_
+_55 articles_
+
+- [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](./Saved_Reading/The%20Painfully%20Shy%20Developer's%20Guide%20to%20Networking%20for%20a%20Better%20Job%20(Without%20Being%20Creepy).md), _added on 2022-05-14_
 
 - [Cable’s Last Laugh – Stratechery by Ben Thompson](./Saved_Reading/Cable’s%20Last%20Laugh%20–%20Stratechery%20by%20Ben%20Thompson.md), _added on 2022-05-13_
 
@@ -14,9 +16,9 @@ _54 articles_
 
 - [A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business - Farnam Street](./Saved_Reading/A%20Lesson%20on%20Elementary%20Worldly%20Wisdom%20As%20It%20Relates%20To%20Investment%20Management%20&%20Business%20-%20Farnam%20Street.md), _added on 2022-05-05_
 
-- [[BetterExplained] 如何有效地记忆与学习 – 刘未鹏 | Mind Hacks](./Saved_Reading/[BetterExplained]%20如何有效地记忆与学习%20–%20刘未鹏%20|%20Mind%20Hacks.md), _added on 2022-05-05_
-
 <details><summary>Show more</summary>
+
+- [[BetterExplained] 如何有效地记忆与学习 – 刘未鹏 | Mind Hacks](./Saved_Reading/[BetterExplained]%20如何有效地记忆与学习%20–%20刘未鹏%20|%20Mind%20Hacks.md), _added on 2022-05-05_
 
 - [25+ Years of Personal Knowledge Management](./Saved_Reading/25+%20Years%20of%20Personal%20Knowledge%20Management.%20From%20scattered%20ideas%20to%20networked%20thoughts.md), _added on 2022-05-02_
 
