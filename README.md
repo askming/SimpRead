@@ -1,10 +1,12 @@
-# Saved readings from SimpRead & others
+# Saved readings from the Internet (saved with SimpRead)
 
-_last updated on 2022-05-14; total 80 articles_
+_last updated on 2022-05-15; total 81 articles_
 
 ## 2022
 
-_55 articles_
+_56 articles_
+
+- [A Teacher in China Learns the Limits of Free Expression | The New Yorker](./Saved_Reading/A%20Teacher%20in%20China%20Learns%20the%20Limits%20of%20Free%20Expression%20|%20The%20New%20Yorker.pdf), _added on 2022-05-15_
 
 - [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](./Saved_Reading/The%20Painfully%20Shy%20Developer's%20Guide%20to%20Networking%20for%20a%20Better%20Job%20(Without%20Being%20Creepy).md), _added on 2022-05-14_
 
@@ -14,9 +16,9 @@ _55 articles_
 
 - [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
 
-- [A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business - Farnam Street](./Saved_Reading/A%20Lesson%20on%20Elementary%20Worldly%20Wisdom%20As%20It%20Relates%20To%20Investment%20Management%20&%20Business%20-%20Farnam%20Street.md), _added on 2022-05-05_
-
 <details><summary>Show more</summary>
+
+- [A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business - Farnam Street](./Saved_Reading/A%20Lesson%20on%20Elementary%20Worldly%20Wisdom%20As%20It%20Relates%20To%20Investment%20Management%20&%20Business%20-%20Farnam%20Street.md), _added on 2022-05-05_
 
 - [[BetterExplained] 如何有效地记忆与学习 – 刘未鹏 | Mind Hacks](./Saved_Reading/[BetterExplained]%20如何有效地记忆与学习%20–%20刘未鹏%20|%20Mind%20Hacks.md), _added on 2022-05-05_
 
