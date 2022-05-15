@@ -34,7 +34,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
 
     with open(md_name, "w") as f:
         current_year = ''
-        f.write(f"# Saved readings from SimpRead & others\n\n")
+        f.write(f"# Saved readings from the Internet (saved with SimpRead)\n\n")
         f.write(f"_last updated on {str(datetime.date.today())}; total {len(filepaths)} articles_\n\n")   
         for i in range(len(filepaths)):  
             filepath_i = filepaths[i].replace(" ", "%20")
