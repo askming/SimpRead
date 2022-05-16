@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-16; total 82 articles_
+_last updated on 2022-05-16; total 83 articles_
 
 ## 2022
 
-_57 articles_
+_58 articles_
+
+- [从 SEC 申报文件看推特收购案的细节 - Neverland](./Saved_Reading/从%20SEC%20申报文件看推特收购案的细节%20-%20Neverland.md), _added on 2022-05-16_
 
 - [Money Is the Megaphone of Identity](./Saved_Reading/Money%20Is%20the%20Megaphone%20of%20Identity.md), _added on 2022-05-16_
 
@@ -14,9 +16,9 @@ _57 articles_
 
 - [Cable’s Last Laugh – Stratechery by Ben Thompson](./Saved_Reading/Cable’s%20Last%20Laugh%20–%20Stratechery%20by%20Ben%20Thompson.md), _added on 2022-05-13_
 
-- [Carl Jung on How to Live and the Origin of “Do the Next Right Thing” – The Marginalian](./Saved_Reading/Carl%20Jung%20on%20How%20to%20Live%20and%20the%20Origin%20of%20“Do%20the%20Next%20Right%20Thing”%20–%20The%20Marginalian.md), _added on 2022-05-05_
-
 <details><summary>Show more</summary>
+
+- [Carl Jung on How to Live and the Origin of “Do the Next Right Thing” – The Marginalian](./Saved_Reading/Carl%20Jung%20on%20How%20to%20Live%20and%20the%20Origin%20of%20“Do%20the%20Next%20Right%20Thing”%20–%20The%20Marginalian.md), _added on 2022-05-05_
 
 - [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
 
