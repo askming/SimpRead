@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-16; total 81 articles_
+_last updated on 2022-05-16; total 82 articles_
 
 ## 2022
 
-_56 articles_
+_57 articles_
+
+- [Money Is the Megaphone of Identity](./Saved_Reading/Money%20Is%20the%20Megaphone%20of%20Identity.md), _added on 2022-05-16_
 
 - [A Teacher in China Learns the Limits of Free Expression | The New Yorker](./Saved_Reading/A%20Teacher%20in%20China%20Learns%20the%20Limits%20of%20Free%20Expression%20|%20The%20New%20Yorker.pdf), _added on 2022-05-15_
 
@@ -14,9 +16,9 @@ _56 articles_
 
 - [Carl Jung on How to Live and the Origin of “Do the Next Right Thing” – The Marginalian](./Saved_Reading/Carl%20Jung%20on%20How%20to%20Live%20and%20the%20Origin%20of%20“Do%20the%20Next%20Right%20Thing”%20–%20The%20Marginalian.md), _added on 2022-05-05_
 
-- [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
-
 <details><summary>Show more</summary>
+
+- [一份直面现实的时间管理指南｜生活奇旅 45](./Saved_Reading/一份直面现实的时间管理指南｜生活奇旅%2045.md), _added on 2022-05-05_
 
 - [A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business - Farnam Street](./Saved_Reading/A%20Lesson%20on%20Elementary%20Worldly%20Wisdom%20As%20It%20Relates%20To%20Investment%20Management%20&%20Business%20-%20Farnam%20Street.md), _added on 2022-05-05_
 
