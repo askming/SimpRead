@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-17; total 84 articles_
+_last updated on 2022-05-17; total 85 articles_
 
 ## 2022
 
-_59 articles_
+_60 articles_
+
+- [投资成功，是我们变成一个更好的人之后自然的结果](./Saved_Reading/投资成功，是我们变成一个更好的人之后自然的结果.pdf), _added on 2022-05-17_
 
 - [The Many Worlds of Enough](./Saved_Reading/The%20Many%20Worlds%20of%20Enough.md), _added on 2022-05-17_
 
@@ -14,9 +16,9 @@ _59 articles_
 
 - [A Teacher in China Learns the Limits of Free Expression | The New Yorker](./Saved_Reading/A%20Teacher%20in%20China%20Learns%20the%20Limits%20of%20Free%20Expression%20|%20The%20New%20Yorker.pdf), _added on 2022-05-15_
 
-- [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](./Saved_Reading/The%20Painfully%20Shy%20Developer's%20Guide%20to%20Networking%20for%20a%20Better%20Job%20(Without%20Being%20Creepy).md), _added on 2022-05-14_
-
 <details><summary>Show more</summary>
+
+- [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](./Saved_Reading/The%20Painfully%20Shy%20Developer's%20Guide%20to%20Networking%20for%20a%20Better%20Job%20(Without%20Being%20Creepy).md), _added on 2022-05-14_
 
 - [Cable’s Last Laugh – Stratechery by Ben Thompson](./Saved_Reading/Cable’s%20Last%20Laugh%20–%20Stratechery%20by%20Ben%20Thompson.md), _added on 2022-05-13_
 
