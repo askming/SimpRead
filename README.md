@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-18; total 86 articles_
+_last updated on 2022-05-23; total 87 articles_
 
 ## 2022
 
-_61 articles_
+_62 articles_
+
+- [Advanced exploratory data analysis (EDA) with Python | by Michael Notter | EPFL Extension School | Medium](./Saved_Reading/Advanced%20exploratory%20data%20analysis%20(EDA)%20with%20Python%20|%20by%20Michael%20Notter%20|%20EPFL%20Extension%20School%20|%20Medium.md), _added on 2022-05-23_
 
 - [A Personal Digital Reset](./Saved_Reading/A%20Personal%20Digital%20Reset.md), _added on 2022-05-18_
 
@@ -14,9 +16,9 @@ _61 articles_
 
 - [从 SEC 申报文件看推特收购案的细节 - Neverland](./Saved_Reading/从%20SEC%20申报文件看推特收购案的细节%20-%20Neverland.md), _added on 2022-05-16_
 
-- [Money Is the Megaphone of Identity](./Saved_Reading/Money%20Is%20the%20Megaphone%20of%20Identity.md), _added on 2022-05-16_
-
 <details><summary>Show more</summary>
+
+- [Money Is the Megaphone of Identity](./Saved_Reading/Money%20Is%20the%20Megaphone%20of%20Identity.md), _added on 2022-05-16_
 
 - [A Teacher in China Learns the Limits of Free Expression | The New Yorker](./Saved_Reading/A%20Teacher%20in%20China%20Learns%20the%20Limits%20of%20Free%20Expression%20|%20The%20New%20Yorker.pdf), _added on 2022-05-15_
 
