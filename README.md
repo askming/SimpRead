@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-24; total 88 articles_
+_last updated on 2022-05-25; total 89 articles_
 
 ## 2022
 
-_63 articles_
+_64 articles_
+
+- [张益唐 天才的野心](./Saved_Reading/张益唐%20天才的野心.md), _added on 2022-05-25_
 
 - [生物分析专栏 | 眼科用药的药代动力学和生物分析](./Saved_Reading/生物分析专栏%20|%20眼科用药的药代动力学和生物分析.md), _added on 2022-05-24_
 
@@ -14,9 +16,9 @@ _63 articles_
 
 - [投资成功，是我们变成一个更好的人之后自然的结果](./Saved_Reading/投资成功，是我们变成一个更好的人之后自然的结果.pdf), _added on 2022-05-17_
 
-- [The Many Worlds of Enough](./Saved_Reading/The%20Many%20Worlds%20of%20Enough.md), _added on 2022-05-17_
-
 <details><summary>Show more</summary>
+
+- [The Many Worlds of Enough](./Saved_Reading/The%20Many%20Worlds%20of%20Enough.md), _added on 2022-05-17_
 
 - [从 SEC 申报文件看推特收购案的细节 - Neverland](./Saved_Reading/从%20SEC%20申报文件看推特收购案的细节%20-%20Neverland.md), _added on 2022-05-16_
 
