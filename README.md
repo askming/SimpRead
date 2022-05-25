@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-05-25; total 89 articles_
+_last updated on 2022-05-25; total 90 articles_
 
 ## 2022
 
-_64 articles_
+_65 articles_
+
+- [在成都街头遇见何伟](./Saved_Reading/在成都街头遇见何伟.md), _added on 2022-05-25_
 
 - [张益唐 天才的野心](./Saved_Reading/张益唐%20天才的野心.md), _added on 2022-05-25_
 
@@ -14,9 +16,9 @@ _64 articles_
 
 - [A Personal Digital Reset](./Saved_Reading/A%20Personal%20Digital%20Reset.md), _added on 2022-05-18_
 
-- [投资成功，是我们变成一个更好的人之后自然的结果](./Saved_Reading/投资成功，是我们变成一个更好的人之后自然的结果.pdf), _added on 2022-05-17_
-
 <details><summary>Show more</summary>
+
+- [投资成功，是我们变成一个更好的人之后自然的结果](./Saved_Reading/投资成功，是我们变成一个更好的人之后自然的结果.pdf), _added on 2022-05-17_
 
 - [The Many Worlds of Enough](./Saved_Reading/The%20Many%20Worlds%20of%20Enough.md), _added on 2022-05-17_
 
