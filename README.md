@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-06-16; total 91 articles_
+_last updated on 2022-06-16; total 92 articles_
 
 ## 2022
 
-_66 articles_
+_67 articles_
+
+- [8 surprising ways how to use Jupyter Notebook | MLJAR](./Saved_Reading/8%20surprising%20ways%20how%20to%20use%20Jupyter%20Notebook%20|%20MLJAR.md), _added on 2022-06-16_
 
 - [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews - Master How To Learn](./Saved_Reading/Why%20I%20Switched%20to%20SuperMemo%20After%20Using%20Anki%20for%205%20Years,%20With%20Over%2050k%20Cards%20and%20420k%20Total%20Reviews%20-%20Master%20How%20To%20Learn.md), _added on 2022-06-16_
 
@@ -14,9 +16,9 @@ _66 articles_
 
 - [生物分析专栏 | 眼科用药的药代动力学和生物分析](./Saved_Reading/生物分析专栏%20|%20眼科用药的药代动力学和生物分析.md), _added on 2022-05-24_
 
-- [Advanced exploratory data analysis (EDA) with Python | by Michael Notter | EPFL Extension School | Medium](./Saved_Reading/Advanced%20exploratory%20data%20analysis%20(EDA)%20with%20Python%20|%20by%20Michael%20Notter%20|%20EPFL%20Extension%20School%20|%20Medium.md), _added on 2022-05-23_
-
 <details><summary>Show more</summary>
+
+- [Advanced exploratory data analysis (EDA) with Python | by Michael Notter | EPFL Extension School | Medium](./Saved_Reading/Advanced%20exploratory%20data%20analysis%20(EDA)%20with%20Python%20|%20by%20Michael%20Notter%20|%20EPFL%20Extension%20School%20|%20Medium.md), _added on 2022-05-23_
 
 - [A Personal Digital Reset](./Saved_Reading/A%20Personal%20Digital%20Reset.md), _added on 2022-05-18_
 
@@ -66,37 +68,37 @@ _66 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
-
-- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
-
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
-- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
-
-- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
-
-- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
-
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
-
-- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
 
 - [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
 
-- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
+- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
 
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
-- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
 
 - [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
 
-- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
+- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
+
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+
+- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+
+- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+
+- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
