@@ -1,10 +1,14 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-06-26; total 93 articles_
+_last updated on 2022-06-29; total 95 articles_
 
 ## 2022
 
-_68 articles_
+_70 articles_
+
+- [ 如何（不）认识自己](./Saved_Reading/%20如何（不）认识自己.md), _added on 2022-06-29_
+
+- [Deploying your Dash App to Heroku — THE MAGICAL GUIDE | Towards Data Science](./Saved_Reading/Deploying%20your%20Dash%20App%20to%20Heroku — THE%20MAGICAL%20GUIDE%20|%20Towards%20Data%20Science.md), _added on 2022-06-26_
 
 - [How to deploy a simple Python app using nothing but Github and Heroku | by Austin Lasseter | Medium](./Saved_Reading/How%20to%20deploy%20a%20simple%20Python%20app%20using%20nothing%20but%20Github%20and%20Heroku%20|%20by%20Austin%20Lasseter%20|%20Medium.md), _added on 2022-06-26_
 
@@ -12,11 +16,11 @@ _68 articles_
 
 - [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews - Master How To Learn](./Saved_Reading/Why%20I%20Switched%20to%20SuperMemo%20After%20Using%20Anki%20for%205%20Years,%20With%20Over%2050k%20Cards%20and%20420k%20Total%20Reviews%20-%20Master%20How%20To%20Learn.md), _added on 2022-06-16_
 
+<details><summary>Show more</summary>
+
 - [在成都街头遇见何伟](./Saved_Reading/在成都街头遇见何伟.md), _added on 2022-05-25_
 
 - [张益唐 天才的野心](./Saved_Reading/张益唐%20天才的野心.md), _added on 2022-05-25_
-
-<details><summary>Show more</summary>
 
 - [生物分析专栏 | 眼科用药的药代动力学和生物分析](./Saved_Reading/生物分析专栏%20|%20眼科用药的药代动力学和生物分析.md), _added on 2022-05-24_
 
