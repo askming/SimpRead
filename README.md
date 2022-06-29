@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-06-29; total 95 articles_
+_last updated on 2022-06-29; total 96 articles_
 
 ## 2022
 
-_70 articles_
+_71 articles_
+
+- [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
 
 - [ 如何（不）认识自己](./Saved_Reading/%20如何（不）认识自己.md), _added on 2022-06-29_
 
@@ -14,9 +16,9 @@ _70 articles_
 
 - [8 surprising ways how to use Jupyter Notebook | MLJAR](./Saved_Reading/8%20surprising%20ways%20how%20to%20use%20Jupyter%20Notebook%20|%20MLJAR.md), _added on 2022-06-16_
 
-- [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews - Master How To Learn](./Saved_Reading/Why%20I%20Switched%20to%20SuperMemo%20After%20Using%20Anki%20for%205%20Years,%20With%20Over%2050k%20Cards%20and%20420k%20Total%20Reviews%20-%20Master%20How%20To%20Learn.md), _added on 2022-06-16_
-
 <details><summary>Show more</summary>
+
+- [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews - Master How To Learn](./Saved_Reading/Why%20I%20Switched%20to%20SuperMemo%20After%20Using%20Anki%20for%205%20Years,%20With%20Over%2050k%20Cards%20and%20420k%20Total%20Reviews%20-%20Master%20How%20To%20Learn.md), _added on 2022-06-16_
 
 - [在成都街头遇见何伟](./Saved_Reading/在成都街头遇见何伟.md), _added on 2022-05-25_
 
