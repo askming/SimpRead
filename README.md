@@ -6,7 +6,7 @@ _last updated on 2022-07-01; total 97 articles_
 
 _72 articles_
 
-- [blog](./Saved_Reading/blog.fidelramos.net%20–%20My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
+- [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
 - [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
 
