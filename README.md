@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-06-29; total 96 articles_
+_last updated on 2022-07-01; total 97 articles_
 
 ## 2022
 
-_71 articles_
+_72 articles_
+
+- [blog](./Saved_Reading/blog.fidelramos.net%20–%20My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
 - [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
 
@@ -14,9 +16,9 @@ _71 articles_
 
 - [How to deploy a simple Python app using nothing but Github and Heroku | by Austin Lasseter | Medium](./Saved_Reading/How%20to%20deploy%20a%20simple%20Python%20app%20using%20nothing%20but%20Github%20and%20Heroku%20|%20by%20Austin%20Lasseter%20|%20Medium.md), _added on 2022-06-26_
 
-- [8 surprising ways how to use Jupyter Notebook | MLJAR](./Saved_Reading/8%20surprising%20ways%20how%20to%20use%20Jupyter%20Notebook%20|%20MLJAR.md), _added on 2022-06-16_
-
 <details><summary>Show more</summary>
+
+- [8 surprising ways how to use Jupyter Notebook | MLJAR](./Saved_Reading/8%20surprising%20ways%20how%20to%20use%20Jupyter%20Notebook%20|%20MLJAR.md), _added on 2022-06-16_
 
 - [Why I Switched to SuperMemo After Using Anki for 5 Years, With Over 50k Cards and 420k Total Reviews - Master How To Learn](./Saved_Reading/Why%20I%20Switched%20to%20SuperMemo%20After%20Using%20Anki%20for%205%20Years,%20With%20Over%2050k%20Cards%20and%20420k%20Total%20Reviews%20-%20Master%20How%20To%20Learn.md), _added on 2022-06-16_
 
