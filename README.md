@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-01; total 97 articles_
+_last updated on 2022-07-02; total 98 articles_
 
 ## 2022
 
-_72 articles_
+_73 articles_
+
+- [4G Spaces](./Saved_Reading/4G%20Spaces.md), _added on 2022-07-02_
 
 - [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
@@ -14,9 +16,9 @@ _72 articles_
 
 - [Deploying your Dash App to Heroku — THE MAGICAL GUIDE | Towards Data Science](./Saved_Reading/Deploying%20your%20Dash%20App%20to%20Heroku — THE%20MAGICAL%20GUIDE%20|%20Towards%20Data%20Science.md), _added on 2022-06-26_
 
-- [How to deploy a simple Python app using nothing but Github and Heroku | by Austin Lasseter | Medium](./Saved_Reading/How%20to%20deploy%20a%20simple%20Python%20app%20using%20nothing%20but%20Github%20and%20Heroku%20|%20by%20Austin%20Lasseter%20|%20Medium.md), _added on 2022-06-26_
-
 <details><summary>Show more</summary>
+
+- [How to deploy a simple Python app using nothing but Github and Heroku | by Austin Lasseter | Medium](./Saved_Reading/How%20to%20deploy%20a%20simple%20Python%20app%20using%20nothing%20but%20Github%20and%20Heroku%20|%20by%20Austin%20Lasseter%20|%20Medium.md), _added on 2022-06-26_
 
 - [8 surprising ways how to use Jupyter Notebook | MLJAR](./Saved_Reading/8%20surprising%20ways%20how%20to%20use%20Jupyter%20Notebook%20|%20MLJAR.md), _added on 2022-06-16_
 
