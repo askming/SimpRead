@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-02; total 98 articles_
+_last updated on 2022-07-05; total 99 articles_
 
 ## 2022
 
-_73 articles_
+_74 articles_
+
+- [Life Is Not Short | DKB Show](./Saved_Reading/Life%20Is%20Not%20Short%20|%20DKB%20Show.md), _added on 2022-07-05_
 
 - [我的大学](./Saved_Reading/我的大学.md), _added on 2022-07-02_
 
@@ -14,9 +16,9 @@ _73 articles_
 
 - [ 如何（不）认识自己](./Saved_Reading/%20如何（不）认识自己.md), _added on 2022-06-29_
 
-- [Deploying your Dash App to Heroku — THE MAGICAL GUIDE | Towards Data Science](./Saved_Reading/Deploying%20your%20Dash%20App%20to%20Heroku — THE%20MAGICAL%20GUIDE%20|%20Towards%20Data%20Science.md), _added on 2022-06-26_
-
 <details><summary>Show more</summary>
+
+- [Deploying your Dash App to Heroku — THE MAGICAL GUIDE | Towards Data Science](./Saved_Reading/Deploying%20your%20Dash%20App%20to%20Heroku — THE%20MAGICAL%20GUIDE%20|%20Towards%20Data%20Science.md), _added on 2022-06-26_
 
 - [How to deploy a simple Python app using nothing but Github and Heroku | by Austin Lasseter | Medium](./Saved_Reading/How%20to%20deploy%20a%20simple%20Python%20app%20using%20nothing%20but%20Github%20and%20Heroku%20|%20by%20Austin%20Lasseter%20|%20Medium.md), _added on 2022-06-26_
 
