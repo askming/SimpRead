@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-16; total 100 articles_
+_last updated on 2022-07-16; total 101 articles_
 
 ## 2022
 
-_75 articles_
+_76 articles_
+
+- [How to Calm the Anxious Brain](./Saved_Reading/How%20to%20Calm%20the%20Anxious%20Brain.md), _added on 2022-07-16_
 
 - [A recipe recommendation system](./Saved_Reading/A%20recipe%20recommendation%20system.md), _added on 2022-07-16_
 
@@ -14,9 +16,9 @@ _75 articles_
 
 - [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
-- [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
-
 <details><summary>Show more</summary>
+
+- [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
 
 - [ 如何（不）认识自己](./Saved_Reading/%20如何（不）认识自己.md), _added on 2022-06-29_
 
