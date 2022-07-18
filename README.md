@@ -1,6 +1,6 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-16; total 101 articles_
+_last updated on 2022-07-18; total 101 articles_
 
 ## 2022
 
