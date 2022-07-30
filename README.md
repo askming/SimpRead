@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-18; total 101 articles_
+_last updated on 2022-07-30; total 102 articles_
 
 ## 2022
 
-_76 articles_
+_77 articles_
+
+- [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
 - [How to Calm the Anxious Brain](./Saved_Reading/How%20to%20Calm%20the%20Anxious%20Brain.md), _added on 2022-07-16_
 
@@ -14,9 +16,9 @@ _76 articles_
 
 - [我的大学](./Saved_Reading/我的大学.md), _added on 2022-07-02_
 
-- [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
-
 <details><summary>Show more</summary>
+
+- [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
 - [我在南大的七年](./Saved_Reading/我在南大的七年.md), _added on 2022-06-29_
 
@@ -86,37 +88,37 @@ _76 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
-- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
-
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
-- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
-
-- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
-
 - [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
 
-- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
 - [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
 
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
+
+- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
 
 - [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
 
+- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
+
 - [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
 
-- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
+- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
 
 - [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
 
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
 - [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+
+- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
