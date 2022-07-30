@@ -1,10 +1,14 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-30; total 102 articles_
+_last updated on 2022-07-30; total 104 articles_
 
 ## 2022
 
-_77 articles_
+_79 articles_
+
+- [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
+
+- [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
 
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
@@ -12,11 +16,11 @@ _77 articles_
 
 - [A recipe recommendation system](./Saved_Reading/A%20recipe%20recommendation%20system.md), _added on 2022-07-16_
 
+<details><summary>Show more</summary>
+
 - [Life Is Not Short | DKB Show](./Saved_Reading/Life%20Is%20Not%20Short%20|%20DKB%20Show.md), _added on 2022-07-05_
 
 - [我的大学](./Saved_Reading/我的大学.md), _added on 2022-07-02_
-
-<details><summary>Show more</summary>
 
 - [My free-software photography workflow](./Saved_Reading/My%20free-software%20photography%20workflow.md), _added on 2022-07-01_
 
