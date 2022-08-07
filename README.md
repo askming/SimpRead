@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-07-30; total 104 articles_
+_last updated on 2022-08-07; total 105 articles_
 
 ## 2022
 
-_79 articles_
+_80 articles_
+
+- [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
 - [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
 
@@ -14,9 +16,9 @@ _79 articles_
 
 - [How to Calm the Anxious Brain](./Saved_Reading/How%20to%20Calm%20the%20Anxious%20Brain.md), _added on 2022-07-16_
 
-- [A recipe recommendation system](./Saved_Reading/A%20recipe%20recommendation%20system.md), _added on 2022-07-16_
-
 <details><summary>Show more</summary>
+
+- [A recipe recommendation system](./Saved_Reading/A%20recipe%20recommendation%20system.md), _added on 2022-07-16_
 
 - [Life Is Not Short | DKB Show](./Saved_Reading/Life%20Is%20Not%20Short%20|%20DKB%20Show.md), _added on 2022-07-05_
 
