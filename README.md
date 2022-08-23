@@ -6,7 +6,7 @@ _last updated on 2022-08-23; total 108 articles_
 
 _83 articles_
 
-- [如果能获得某位友人终身收入的 10% 你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的%2010%%20你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
+- [如果能获得某位友人终身收入的10%你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的10%你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
