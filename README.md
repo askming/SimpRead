@@ -1,22 +1,28 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-08-23; total 107 articles_
+_last updated on 2022-08-23; total 110 articles_
 
 ## 2022
 
-_82 articles_
+_85 articles_
+
+- [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
+
+- [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
+
+- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
 - [“宇宙药厂” 辉瑞是如何炼成的？](./Saved_Reading/“宇宙药厂”%20辉瑞是如何炼成的？.md), _added on 2022-08-08_
+
+<details><summary>Show more</summary>
 
 - [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
 - [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
 
 - [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
-
-<details><summary>Show more</summary>
 
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
