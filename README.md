@@ -1,12 +1,10 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-08-23; total 108 articles_
+_last updated on 2022-08-23; total 107 articles_
 
 ## 2022
 
-_83 articles_
-
-- [如果能获得某位友人终身收入的10%你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的10%你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
+_82 articles_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
@@ -16,9 +14,9 @@ _83 articles_
 
 - [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
 
-<details><summary>Show more</summary>
-
 - [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
+
+<details><summary>Show more</summary>
 
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
