@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-08-23; total 110 articles_
+_last updated on 2022-08-24; total 111 articles_
 
 ## 2022
 
-_85 articles_
+_86 articles_
+
+- [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
 - [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
@@ -14,9 +16,9 @@ _85 articles_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
-- [“宇宙药厂” 辉瑞是如何炼成的？](./Saved_Reading/“宇宙药厂”%20辉瑞是如何炼成的？.md), _added on 2022-08-08_
-
 <details><summary>Show more</summary>
+
+- [“宇宙药厂” 辉瑞是如何炼成的？](./Saved_Reading/“宇宙药厂”%20辉瑞是如何炼成的？.md), _added on 2022-08-08_
 
 - [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
