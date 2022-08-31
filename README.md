@@ -1,10 +1,12 @@
 # Saved readings from the Internet (with SimpRead)
 
-_last updated on 2022-08-24; total 111 articles_
+_last updated on 2022-08-31; total 112 articles_
 
 ## 2022
 
-_86 articles_
+_87 articles_
+
+- [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
 
 - [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
@@ -14,9 +16,9 @@ _86 articles_
 
 - [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
 
-- [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
-
 <details><summary>Show more</summary>
+
+- [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
 - [“宇宙药厂” 辉瑞是如何炼成的？](./Saved_Reading/“宇宙药厂”%20辉瑞是如何炼成的？.md), _added on 2022-08-08_
 
