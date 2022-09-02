@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-01; total 112 articles_
+_last updated on 2022-09-02; total 113 articles_
 
 ## 2022
 
-_87 articles_
+_88 articles_
+
+- [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
 
 - [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
 
@@ -14,9 +16,9 @@ _87 articles_
 
 - [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
 
-- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
-
 <details><summary>Show more</summary>
+
+- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
