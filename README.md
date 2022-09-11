@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-02; total 113 articles_
+_last updated on 2022-09-11; total 114 articles_
 
 ## 2022
 
-_88 articles_
+_89 articles_
+
+- [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
 
 - [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
 
@@ -14,9 +16,9 @@ _88 articles_
 
 - [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
-- [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
-
 <details><summary>Show more</summary>
+
+- [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
 
 - [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
 
