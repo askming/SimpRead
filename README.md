@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-11; total 114 articles_
+_last updated on 2022-09-12; total 115 articles_
 
 ## 2022
 
-_89 articles_
+_90 articles_
+
+- [The link between personality and success | The Economist](./Saved_Reading/The%20link%20between%20personality%20and%20success%20|%20The%20Economist.md), _added on 2022-09-12_
 
 - [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
 
@@ -14,9 +16,9 @@ _89 articles_
 
 - [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
-- [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
-
 <details><summary>Show more</summary>
+
+- [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
 - [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
 
