@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-12; total 115 articles_
+_last updated on 2022-09-17; total 116 articles_
 
 ## 2022
 
-_90 articles_
+_91 articles_
+
+- [How to Pick a Career (That Actually Fits You) — Wait But Why](./Saved_Reading/How%20to%20Pick%20a%20Career%20(That%20Actually%20Fits%20You)%20—%20Wait%20But%20Why.md), _added on 2022-09-17_
 
 - [The link between personality and success | The Economist](./Saved_Reading/The%20link%20between%20personality%20and%20success%20|%20The%20Economist.md), _added on 2022-09-12_
 
@@ -14,9 +16,9 @@ _90 articles_
 
 - [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
 
-- [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
-
 <details><summary>Show more</summary>
+
+- [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
 - [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
