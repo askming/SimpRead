@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-17; total 116 articles_
+_last updated on 2022-09-17; total 117 articles_
 
 ## 2022
 
-_91 articles_
+_92 articles_
+
+- [Bayesian inference at scale: Running AB tests with millions of observations - PyMC Labs](./Saved_Reading/Bayesian%20inference%20at%20scale:%20Running%20AB%20tests%20with%20millions%20of%20observations%20-%20PyMC%20Labs.md), _added on 2022-09-17_
 
 - [How to Pick a Career (That Actually Fits You) — Wait But Why](./Saved_Reading/How%20to%20Pick%20a%20Career%20(That%20Actually%20Fits%20You)%20—%20Wait%20But%20Why.md), _added on 2022-09-17_
 
@@ -14,9 +16,9 @@ _91 articles_
 
 - [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
 
-- [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
-
 <details><summary>Show more</summary>
+
+- [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
 
 - [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
