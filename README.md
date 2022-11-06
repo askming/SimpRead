@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-09-17; total 117 articles_
+_last updated on 2022-11-06; total 118 articles_
 
 ## 2022
 
-_92 articles_
+_93 articles_
+
+- [谈谈眼下渐趋清晰的趋势 - by 徒步的骑手 - 《困而学之》](./Saved_Reading/谈谈眼下渐趋清晰的趋势%20-%20by%20徒步的骑手%20-%20《困而学之》.pdf), _added on 2022-11-06_
 
 - [Bayesian inference at scale: Running AB tests with millions of observations - PyMC Labs](./Saved_Reading/Bayesian%20inference%20at%20scale:%20Running%20AB%20tests%20with%20millions%20of%20observations%20-%20PyMC%20Labs.md), _added on 2022-09-17_
 
@@ -14,19 +16,19 @@ _92 articles_
 
 - [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
 
-- [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
-
 <details><summary>Show more</summary>
+
+- [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
 
 - [The Dangerous Populist Science of Yuval Noah Harari ❧ Current Affairs](./Saved_Reading/The%20Dangerous%20Populist%20Science%20of%20Yuval%20Noah%20Harari%20❧%20Current%20Affairs.md), _added on 2022-08-31_
 
 - [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
+- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
+
 - [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-23_
 
 - [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-23_
-
-- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-23_
 
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-23_
 
@@ -118,13 +120,13 @@ _92 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
-- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
-
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
-
 - [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
 
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
 - [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
 
@@ -132,23 +134,23 @@ _92 articles_
 
 - [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
 
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
-- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
-
-- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
-
-- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
-
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
-
-- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
 
+- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
+
 - [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
+
+- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
