@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-11-06; total 118 articles_
+_last updated on 2022-11-12; total 119 articles_
 
 ## 2022
 
-_93 articles_
+_94 articles_
+
+- [Changing times (or, why is every layoff 10-15%_)](./Saved_Reading/Changing%20times%20(or,%20why%20is%20every%20layoff%2010-15%_).md), _added on 2022-11-12_
 
 - [谈谈眼下渐趋清晰的趋势 - by 徒步的骑手 - 《困而学之》](./Saved_Reading/谈谈眼下渐趋清晰的趋势%20-%20by%20徒步的骑手%20-%20《困而学之》.pdf), _added on 2022-11-06_
 
@@ -14,9 +16,9 @@ _93 articles_
 
 - [The link between personality and success | The Economist](./Saved_Reading/The%20link%20between%20personality%20and%20success%20|%20The%20Economist.md), _added on 2022-09-12_
 
-- [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
-
 <details><summary>Show more</summary>
+
+- [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
 
 - [博士毕业去修摩托，值吗？](./Saved_Reading/博士毕业去修摩托，值吗？.md), _added on 2022-09-02_
 
