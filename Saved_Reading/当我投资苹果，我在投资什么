@@ -1,0 +1,294 @@
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zlthinker.github.io](https://zlthinker.github.io/%E5%BD%93%E6%88%91%E6%8A%95%E8%B5%84%E8%8B%B9%E6%9E%9C%E6%88%91%E5%9C%A8%E6%8A%95%E8%B5%84%E4%BB%80%E4%B9%88)
+
+![](https://zlthinker.github.io/images/apple_store.jpg)
+
+<table><thead><tr><th>&nbsp;</th><th>2021 Q1</th><th>2021 Q2</th><th>2021 Q3</th><th>2021 Q4</th><th>2022 Q1</th><th>2022 Q2</th></tr></thead><tbody><tr><td>EPS</td><td>1.68</td><td>1.40</td><td>1.30</td><td>1.24</td><td><strong>2.10</strong></td><td><strong>1.52</strong></td></tr></tbody></table>
+
+2022 财年第一和第二季度苹果的 EPS 分别增长了 25% 和 8.6%。好消息是时局动荡的第二季度 (01/2022~03/2022) 仍然保持了高个位数的增长。坏消息是，增长显然是放缓的。
+
+按照悲观的预期，接下来的三四季度苹果的 EPS 同比没有增长，那么 2022 全年的 EPS 是 6.16。考虑到苹果又通过了 900 亿美金的股票回购方案，预计能给 EPS 带来 2% 的提振，至 6.28。分别按照 15 倍、20 倍和 25 倍 PE 计算，苹果 2022 财年末 (今年九月底) 的估值如下表所示。
+
+截至今日 (01/05/2022), 苹果的股价正好在 157 附近，顶着估值上限。要想腾出利润空间，至少应该在估值中位 126 的价格买入。希望市场能给到机会～
+
+<table><thead><tr><th>&nbsp;</th><th>2022 财年末股价</th></tr></thead><tbody><tr><td>PE=25</td><td>157</td></tr><tr><td>PE=20</td><td>126</td></tr><tr><td>PE=15</td><td>94</td></tr></tbody></table>
+
+*   [财报 Rolling Update](#财报rolling-update)
+*   [看现在 – 苹果的财报](#看现在--苹果的财报)
+    *   [利润表 (2021 财年)](#利润表-2021财年)
+        *   [收入产品构成](#收入产品构成)
+        *   [服务收入构成](#服务收入构成)
+        *   [收入地区构成](#收入地区构成)
+        *   [横向对比：苹果 v.s. 小米](#横向对比苹果vs小米)
+    *   [资产负债表 (2021 财年末)](#资产负债表-2021财年末)
+        *   [资产构成](#资产构成)
+        *   [负债构成](#负债构成)
+        *   [资产负债比例](#资产负债比例)
+    *   [现金流量表 (2021 财年)](#现金流量表-2021财年)
+*   [看过去](#看过去)
+    *   [收入的增长](#收入的增长)
+    *   [iPhone 的销量](#iphone的销量)
+    *   [服务收入的增长](#服务收入的增长)
+    *   [利润的增长](#利润的增长)
+    *   [市场份额](#市场份额)
+        *   [iPhone](#iphone)
+        *   [Mac](#mac)
+        *   [iPad](#ipad)
+*   [看未来](#看未来)
+    *   [2022 收入预测](#2022收入预测)
+    *   [股票回购](#股票回购)
+*   [看估值](#看估值)
+    *   [2022 股价预测](#2022股价预测)
+*   [Reference](#reference)
+
+格雷厄姆曾经说过，买入一个公司的股票，意味着拥有了 “a standpoint of the shareholder as the part owner of various businesses”. 因此，在投资一家公司之前，了解这家公司的 business 就非常重要。带着 business owner 的角色，我们从现在、过去、未来、估值这四个角度来研究一下苹果。
+
+苹果 2021 财年在 2021 年 9 月 25 日这天结束。差不多在同一天，iPhone13 发布。每年苹果都用这样的方式辞旧迎新，开启一个全新的财年。
+
+下面，我们将具体分析苹果 2021 财年的三大财务报表，即利润表、资产负债表和现金流量表，来看看在这个非凡的 2021 年，苹果交出了一份怎样的成绩单。
+
+利润表 (2021 财年)
+-------------
+
+苹果的收入来源于产品和服务两部分。产品占了收入的 80% 以上，服务收入不到 20%。
+
+但是产品的毛利率只有 35.3%，服务的毛利率达到 70%，接近两倍。所以，看毛利润的话，产品和服务的比例变成了 69% v.s. 31%.
+
+总体来看，苹果的毛利率达到了 41.8%，是不错的。苹果的管理运营也做得非常好，扣除掉经营开销，仍然保留了接近 30% 的利润率。
+
+([下面](https://zlthinker.github.io/%E5%BD%93%E6%88%91%E6%8A%95%E8%B5%84%E8%8B%B9%E6%9E%9C%E6%88%91%E5%9C%A8%E6%8A%95%E8%B5%84%E4%BB%80%E4%B9%88#%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94%E8%8B%B9%E6%9E%9Cvs%E5%B0%8F%E7%B1%B3)还会将苹果的毛利率和小米进行对比，我们可以看到苹果的毛利有多厉害！)
+
+<table><thead><tr><th>&nbsp;</th><th>产品</th><th>服务</th><th>总和</th></tr></thead><tbody><tr><td>总收入</td><td>297,392</td><td>68,425</td><td>365,817</td></tr><tr><td>收入占比</td><td>81.2%</td><td>18.8%</td><td>100%</td></tr><tr><td>毛利润</td><td>105,126</td><td>47,710</td><td>152,836</td></tr><tr><td>毛利润占比</td><td>68.8%</td><td>31.2%</td><td>100%</td></tr><tr><td>毛利率</td><td>35.3%</td><td>70.0%</td><td>41.8%</td></tr><tr><td>经营利润</td><td>&nbsp;</td><td>&nbsp;</td><td>108,949</td></tr><tr><td>经营利润率</td><td>&nbsp;</td><td>&nbsp;</td><td>29.8%</td></tr><tr><td>EPS</td><td>&nbsp;</td><td>&nbsp;</td><td>5.67</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+#### 收入产品构成
+
+从收入的产品构成来看，iPhone 占到了收入的半壁江山。可见 iPhone 对苹果的战略地位。**同时，这也是一个潜在风险，一旦 iPhone 的收入在未来出现下滑，将会非常影响苹果的收益。**
+
+服务收入是第二大头，占了 19% 左右的营收。考虑到服务的毛利率是产品的两倍，服务带来的利润占比更高。因此，服务性收入对苹果的重要性越来越大。
+
+<table><thead><tr><th>&nbsp;</th><th>收入</th><th>比例</th></tr></thead><tbody><tr><td>iPhone</td><td>191,973</td><td>52.5%</td></tr><tr><td>Services</td><td>68,425</td><td>18.8%</td></tr><tr><td>Wearables, Home and Accessories</td><td>38,367</td><td>10.4%</td></tr><tr><td>Mac</td><td>35,190</td><td>9.6%</td></tr><tr><td>iPad</td><td>31,862</td><td>8.7%</td></tr><tr><td>总和</td><td>365,817</td><td>100%</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+#### 服务收入构成
+
+下面我们来看看服务收入的组成。
+
+苹果的服务矩阵是非常多元的。由于这方面的资料有限，笔者只找到 2020 年服务收入的粗略估计，如下表所示。
+
+不出意外，苹果近三分之一的服务收入来源于 AppStore。
+
+比较令人好奇的是，Licensing 这一项名列第二，占了服务收入的近 1/5. 这一项中，一个有意思的收入是，谷歌为了让谷歌搜索成为 Safari 浏览器打开时的默认搜索引擎，在 2020 年支付了苹果数十亿美金。这个事实让笔者特别震惊，因为以下两点：
+
+1.  苹果的生态系统和用户的确非常有变现价值，仅仅是改一下 Safari 的默认浏览器这么一件小事，就可以坐收数十亿美金的纯利润。
+2.  搜素引擎真的非常非常挣钱！！以至于为了 Safari 的流量，谷歌愿意花这么大的手笔。Anyway, 谷歌付给苹果的 licensing 费用，总是能从消费者身上赚回来的！
+
+服务收入中排名第三的居然是 Apple Care。这部分费用可以被认为是苹果产品收入的延续。**所以，笔者建议消费者买 iPhone 时就不要买 Apple care 了，因为统计下来，消费者是亏钱的，苹果公司是挣钱的。**
+
+<table><thead><tr><th>&nbsp;</th><th>收入</th><th>比例</th></tr></thead><tbody><tr><td>AppStore</td><td>18</td><td>33.5%</td></tr><tr><td>Licensing</td><td>10.5</td><td>19.6%</td></tr><tr><td>Apple Care &amp; Others</td><td>8.8</td><td>16.4%</td></tr><tr><td>Apple Music</td><td>6.7</td><td>12.5%</td></tr><tr><td>iCloud</td><td>4.7</td><td>8.8%</td></tr><tr><td>Third-Party Subscriptions</td><td>4.6</td><td>8.6%</td></tr><tr><td>总和</td><td>53.7</td><td>100%</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in billions</i></td></tr></tbody></table>
+
+#### 收入地区构成
+
+从地区上看，美洲贡献了 40% 以上的收入。欧洲其次，贡献了接近四分之一的收入。大中华区位列第三，比例接近 20%。这三个地区加起来已经占据了苹果收入的 85%。非洲、印度、东南亚虽然加起来有接近一半的世界人口，但是却只是在其他的 7.2% 的收入里面，可见世界贫富差距之大！
+
+<table><thead><tr><th>&nbsp;</th><th>收入</th><th>比例</th></tr></thead><tbody><tr><td>美洲</td><td>153,306</td><td>41.9%</td></tr><tr><td>欧洲</td><td>89,307</td><td>24.4%</td></tr><tr><td>大中华</td><td>68,366</td><td>18.7%</td></tr><tr><td>日本</td><td>28,482</td><td>7.8%</td></tr><tr><td>其他</td><td>26,356</td><td>7.2%</td></tr><tr><td>总和</td><td>365,817</td><td>100%</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+#### 横向对比：苹果 v.s. 小米
+
+这里，笔者将苹果和小米 (2020 财年) 进行对比。小米和苹果的营收结构非常类似，手机的收入占到了 60% 以上，其次是物联网设备和服务收入。
+
+遗憾的是，小米智能手机的毛利率只有可怜的 8.7%，智能家居的毛利率也只有 12.8%，和苹果硬件产品 35.3% 的毛利率相距甚远。类似的，小米在服务板块的毛利率有 61.6%，很接近苹果的 70%。
+
+总体来看，小米的毛利率只有 15%，远低于苹果的 41.8%。一比才知道，在同样的行业、同样的产品结构下，苹果有多优秀。
+
+<table><thead><tr><th>&nbsp;</th><th>小米收入</th><th>比例</th><th>毛利率</th><th>苹果毛利率</th></tr></thead><tbody><tr><td>Smartphone</td><td>152,190.9</td><td>61.9%</td><td>8.7%</td><td>~35.3%</td></tr><tr><td>IoT</td><td>67,410.5</td><td>27.4%</td><td>12.8%</td><td>~35.3%</td></tr><tr><td>Service</td><td>23,755.3</td><td>9.7%</td><td>61.6%</td><td>70%</td></tr><tr><td>Total</td><td>245,865.6</td><td>100%</td><td>15%</td><td>41.8%</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><i>RMB in millions</i></td></tr></tbody></table>
+
+资产负债表 (2021 财年末)
+----------------
+
+#### 资产构成
+
+**苹果到底有多有钱呢？**从资产构成来看，苹果手上持有的 “钱” 包括了 10% 的现金、7.9% 的短期投资、以及高达 36.4% 的长期投资。加起来，**资产里面 54.3% 的比例都是实实在在的没有水分的 “钱”！**
+
+苹果的存货占比只有 1.9%。作为一家 3C 消费品主导的公司，这么低比例的存货可以看出苹果的产品是多么紧俏。
+
+11.2% 的固定资产比例也反映了苹果是一家轻资产型的公司。
+
+<table><thead><tr><th>&nbsp;</th><th>资产</th><th>比例</th></tr></thead><tbody><tr><td><strong>流动性资产</strong></td><td>134,836</td><td><strong>38.4%</strong></td></tr><tr><td>现金及等价物</td><td>34,940</td><td>10.0%</td></tr><tr><td>短期投资</td><td>27,699</td><td>7.9%</td></tr><tr><td>应收帐款</td><td>26,278</td><td>7.5%</td></tr><tr><td>销售商应收帐款</td><td>25,228</td><td>7.2%</td></tr><tr><td>其他</td><td>14,111</td><td>4%</td></tr><tr><td>存货</td><td>6,580</td><td>1.9%</td></tr><tr><td><strong>非流动性资产</strong></td><td>216,166</td><td><strong>61.6%</strong></td></tr><tr><td>长期投资</td><td>127,877</td><td>36.4%</td></tr><tr><td>其他</td><td>48,849</td><td>13.9%</td></tr><tr><td>固定资产</td><td>39,440</td><td>11.2%</td></tr><tr><td><strong>总和</strong></td><td>351,002</td><td><strong>100%</strong></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+#### 负债构成
+
+**苹果有 37.9% 的长期贷款，这构成了一定程度的风险因素。**科技公司能以较低的利率贷款融资，是其拓展业务的一大优势。但是随着接下来美联储的加息临近，长期贷款的利率会随之上升，加大公司的负债。
+
+<table><thead><tr><th>&nbsp;</th><th>负债</th><th>比例</th></tr></thead><tbody><tr><td><strong>短期负债</strong></td><td>125,481</td><td><strong>43.6%</strong></td></tr><tr><td>应付账款</td><td>54,763</td><td>19.0%</td></tr><tr><td>其他短期负债</td><td>47,493</td><td>16.5%</td></tr><tr><td>短期贷款</td><td>9,613</td><td>3.3%</td></tr><tr><td>预付</td><td>7,612</td><td>2.6%</td></tr><tr><td>应付票据</td><td>6,000</td><td>2.1%</td></tr><tr><td><strong>长期负债</strong></td><td>162,431</td><td><strong>56.4%</strong></td></tr><tr><td>长期贷款</td><td>109,106</td><td>37.9%</td></tr><tr><td>其他</td><td>53,325</td><td>18.5%</td></tr><tr><td><strong>总和</strong></td><td>287,912</td><td><strong>100%</strong></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+#### 资产负债比例
+
+苹果的资产负债比例达到了 82%，是一个比较高的数字。主要还是有一个巨额的长期贷款。如果去除掉长期贷款这一项，资产负债率在 50% 左右，还是比较健康的。(资产负债率小于 60% 一般认为是比较健康的。)
+
+现金流量表 (2021 财年)
+---------------
+
+现金流量表是三大表中最容易被人所忽略的。因为像苹果这样的好公司，现金流的管理一定是非常稳健的。但是，如果我们能仔细看其中的细节，其实能窥探到很多有用的信息。
+
+总的来说，2021 财年末，苹果的现金和去年没有太大变化，只流出了 9.7%。
+
+经营活动现金流净额和这一年的经营利润相当，说明赚的钱都实实在在的变成现金进账。
+
+在投资活动中，1096 亿美金都用于市场投资 (一般是用来买国债了)。110 亿美金用于买固定资产，例如办公楼、设备等等。公司收购的支出只有 3300 万美金，和往年相比非常之少，可知，苹果在 2021 年在收购方面并没有大动作。
+
+在财务活动方面，144 亿美金用于向股东分红，大约占其总利润的 15%，不算十分慷慨。比较引人注意的是，公司花了 860 亿美金进行股票回购，约占其总市值的 3%。**公司的回购对股东是利好，因为它能减少流通股数量，变相推动股价。**
+
+<table><thead><tr><th>&nbsp;</th><th>金额</th></tr></thead><tbody><tr><td><strong>经营利润</strong></td><td>108,949</td></tr><tr><td>期初现金流</td><td>39,789</td></tr><tr><td>期末现金流</td><td>35,929</td></tr><tr><td>现金流变化</td><td>(3,860)</td></tr><tr><td><strong>经营活动现金流净额</strong></td><td>104,038</td></tr><tr><td><strong>投资活动现金流净额</strong></td><td>(14,545)</td></tr><tr><td>市场投资</td><td>(109,558)</td></tr><tr><td>收购固定资产</td><td>(11,085)</td></tr><tr><td>公司收购</td><td>(33)</td></tr><tr><td><strong>财务活动现金流净额</strong></td><td>(93,353)</td></tr><tr><td>现金分红</td><td>(14,467)</td></tr><tr><td>股票回购</td><td>(85,971)</td></tr><tr><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+万事万物皆有周期，所以公司一年的表现往往不能代表多少意义。看完苹果在 2021 年的表现，还有必要翻看其在过去 5 年的记录，找到它发展的趋势。
+
+从上面的财报分析中，我们已经发现了对苹果公司的财务状况比较重要的一些指标，例如 iPhone 的销量、服务收入等等。因此，在这一章节，我们会有的放矢地来着重看这些关键的指标。
+
+收入的增长
+-----
+
+下图是苹果近十年的收入变化走势图。绿色的实线是每个季度的收入，蓝色的虚线是季度收入的增长率。
+
+由参差的绿色实线可以看到，苹果的季度收入呈现非常明显的波动性。同一年里，好的季度的收入甚至可以达到差的季度的两倍。这是因为苹果的 iPhone 发布周期所导致的。iPhone 发布的那个季度苹果的收入会随之走强，然后回落。不过，从十年的跨度来看，收入的波峰和波谷都在抬升，表明苹果的收入每年都有稳健的增长。
+
+如果从季度收入的增长率来看 (蓝色虚线)，情况就不容乐观。从 2011 年开始，苹果的收入增长率一直在走下坡。直到 2021 年才迎来暂时的反弹。这表明，苹果已经逐渐由成长股过渡为稳健的价值股。
+
+![](https://zlthinker.github.io/images/apple_revenue_growth.png)
+
+除了看收入的绝对值之外，下图我们还能看到过去十年收入的各项组成的变化。有几个点值得注意:
+
+*   iPhone 的收入一直保持在 50% 左右。但从 2015 年开始出现略微下滑。([For cross validation](https://www.businessofapps.com/data/apple-statistics/))
+*   iPad 的比例一直在下滑，可穿戴设备的比例一直在上升。
+*   服务收入的比例一直在提高。考虑到服务的高毛利的特性，如果它的份额能够持续提升，将对提高整体毛利率意义非凡。
+
+![](https://zlthinker.github.io/images/apple_revenue_share.png)
+
+iPhone 的销量
+----------
+
+作为苹果收入的中流砥柱，iPhone 的销量对这家公司的业绩至关重要。下图中我们可以看到，2007～2018 年 iPhone 的销量变化。(2018 年之后苹果不再披露 iPhone 销量数据。)
+
+iPhone 的销量在 2015 年达到顶峰之后出现衰退，而且据估计直到 2021 年也没能回到 2015 年的巅峰。其主要原因是，中国市场华为、小米等手机厂商的竞争导致 iPhone 的销量受阻。从下表可以看到，2020 年中华区的 iPhone 销量 (预测值) 都没能恢复到 15 年的一半。
+
+![](https://zlthinker.github.io/images/iphone_sales.png)
+
+![](https://zlthinker.github.io/images/iphone_sales_by_region.png)
+
+服务收入的增长
+-------
+
+服务收入和产品收入相比的一大优势在于，产品必须博增量，而服务只需经营好存量。
+
+例如，新的 iPhone 要想创收，必须依赖其他手机品牌的用户换成苹果手机、或者苹果用户换新机。因此，iPhone 的销量是可以出现衰退的。但是，iPhone 的用户却可以像蓄水池一样越积越多 (旧 iPhone 的用户 + 新 iPhone 的用户)，更多的用户就可以贡献更多的服务收入。
+
+下图中，我画出了 2013～2020 年，iPhone 活跃用户数和苹果服务收入的增长曲线。到 2020 年，全球已经有 10 亿左右的 iPhone 用户，并且这个数字还将继续增长。服务收入也在同步成长，并且从 2016 年开始，服务收入的增长速率超过了 iPhone 用户数量的增长速率。这说明，iPhone 用户中购买服务的比例亦在提升。
+
+![](https://zlthinker.github.io/images/apple_service_growth.png)
+
+利润的增长
+-----
+
+在过去的十年里，苹果的收入 (下图绿色实线) 和利润 (蓝色虚线) 都翻了近十倍。利润和收入的走势基本同步，说明苹果的利润率控制得较好，没有出现 “增收不增利” 或者 “增利不增收” 的情况。
+
+尤其是过去的 2021 年，苹果的利润增长了 60% 多，非常强劲，和 2018～2020 年这两年的停滞形成鲜明对比。但笔者认为，2021 年的增长多是受疫情利好，并不是新常态。
+
+![](https://zlthinker.github.io/images/apple_income_growth.png)
+
+市场份额
+----
+
+在网上看了很多关于智能手机、电脑、平板电脑的未来市场空间的预测，CAGR (compound annual growth rate) 有正有负。但总体来说，都是小个位数，说明未来整体的市场变化不大。
+
+因此，我们可以暂时假设市场总量恒定，重点看看苹果产品的市场份额。
+
+#### iPhone
+
+下面的三张图分别画出了 iPhone 在美国、欧洲和中国近十年的市场份额的变化。我们可以看到，在 Apple 最大的三个市场里，iPhone 的市场份额都已经非常稳定，分别是 60%、30% 和 20% 左右。所以，未来 Apple 要继续扩大 iPhone 的市场份额依然是一件艰难的事。
+
+![](https://zlthinker.github.io/images/apple_iphone_market_share_usa.png)
+
+![](https://zlthinker.github.io/images/apple_iphone_market_share_europe.png)
+
+![](https://zlthinker.github.io/images/apple_iphone_market_share_china.png)
+
+#### Mac
+
+可喜的是，在这三个地区，Macbook 的市场份额一直在稳步攀升，一点一点蚕食 Windows 的市场。而且 Macbook 市场份额提升的空间还很大，即使在美国本土，MacOS 的市场份额都还不超过 30%。
+
+![](https://zlthinker.github.io/images/apple_mac_market_share_usa.png)
+
+![](https://zlthinker.github.io/images/apple_mac_market_share_europe.png)
+
+![](https://zlthinker.github.io/images/apple_mac_market_share_china.png)
+
+#### iPad
+
+iPad 的情况最不乐观。除了在中国市场 iPad 的市场份额稳定在 80% 左右，在美国和欧洲，iPad 的份额一直在下降。
+
+![](https://zlthinker.github.io/images/apple_ipad_market_share_usa.png)
+
+![](https://zlthinker.github.io/images/apple_ipad_market_share_europe.png)
+
+![](https://zlthinker.github.io/images/apple_ipad_market_share_china.png)
+
+我们研究一家公司的过去和现在，目的是为了对其未来进行预判。但是，这种预判不是简单地根据已有的数据进行线性地 extrapolation，因为未来的环境和条件必定会发生变化。
+
+尤其是疫情影响下的 2021 年本身就是一个特殊的年份。因为居家办公催生了很多人买入或更换苹果设备的需求。这一年里, iPhone 收入增长了 39%，Macbook 增长了 24%，iPad 增长了 34%。 但是，如果因为 2021 年苹果的强势增长，就认为接下来几年都会如此，不免显得刻舟求剑。 因为 2021 年的畅销反而有可能透支了未来的消费需求。
+
+接下来，我们首先将分析过去五年里苹果各项收入的走势来预测未来 2022 年的收入情况。接着，还会讨论一下另一个未来会影响股价的重要因素：股票回购。
+
+2022 收入预测
+---------
+
+从下面的两张图中可以看到，剔除掉高增长的 2021 年，iPhone、Macbook、iPad 前几年的收入的增长是非常缓慢、甚至停滞的。这是因为这三类产品都已经进入存量市场。相反，可穿戴设备依然处在增量市场阶段，所以，过去的 5 年里，它的收入保持着年化 25% 的增长率。服务收入的增长也很突出，增长率在 23% 左右。
+
+![](https://zlthinker.github.io/images/apple_revenue_prediction.png)
+
+因此，要预测苹果在 2022 年的表现，稳妥的估计是，iPhone、Macbook、iPad 的收入和 2021 年的高基数持平，可穿戴设备和服务的收入分别延续 25% 和 23% 的增长。如下表所示，按照这种推演，2020 财年，苹果的收入会增长 6.9%。我们分别沿用产品收入 35.3% 的毛利率、服务收入 70% 的毛利率预估其 2022 年的毛利润，可以计算得到 2022 年毛利润比 2021 年增长 9.4%.
+
+<table><thead><tr><th>&nbsp;</th><th>2021 收入</th><th>2022 收入预估</th><th>2021 毛利润</th><th>2022 毛利润预估</th></tr></thead><tbody><tr><td>iPhone</td><td>191,973</td><td>191,973</td><td>&nbsp;</td><td>67,766</td></tr><tr><td>Services</td><td>68,425</td><td>84,163</td><td>&nbsp;</td><td>58,914</td></tr><tr><td>Wearables, Home and Accessories</td><td>38,367</td><td>47,959</td><td>&nbsp;</td><td>16,929</td></tr><tr><td>Mac</td><td>35,190</td><td>35,190</td><td>&nbsp;</td><td>12,422</td></tr><tr><td>iPad</td><td>31,862</td><td>31,862</td><td>&nbsp;</td><td>11,247</td></tr><tr><td>总和</td><td>365,817</td><td>390,967</td><td>152,836</td><td>167,278</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><i>USD in millions</i></td></tr></tbody></table>
+
+股票回购
+----
+
+得益于每年大量的现金流入，苹果每年都会从市场上回购大量的流通股 (outstanding share)。从下图可以看出，从 2013 年开始，苹果的流通股就一直在减少，平均每年减少 4%。
+
+可以预计，今年苹果还会照例进行 3%～4% 市值的股票回购。回购金额大约有 1000 亿美金，约等于苹果股票两个星期的成交量。这无疑会给苹果的股价托底。
+
+![](https://zlthinker.github.io/images/apple_outstanding_share.png)
+
+![](https://zlthinker.github.io/images/apple_pe.png)
+
+回看苹果过去十年，市盈率基本在 10 倍到 25 倍之间。但是在 2020 年，PE 值甚至一度冲到了 40 倍，随后因为 2021 财年收入的强劲增长，PE 才稍有回落，但仍有 30 倍。高 PE 的原因有以下两点：
+
+1.  苹果 2021 财年的高增长提振了投资者的信心和预期，市场因此给高 PE 来押注来年的高增长；
+2.  苹果未来有望推出的 AR/VR 设备、甚至电动汽车让一些投资者愿意付出溢价。尤其是对比特斯拉、英伟达高得多的 PE，苹果 30 倍的 PE 似乎还算合理。
+
+然而，这两点原因在我看来都不太站得住脚。
+
+第一点，2021 年的高增长得益于疫情之下消费需求的提振，不可能年年如此。而且过去一年的消费有可能会透支来年的消费。此外，芯片短缺问题也会拖累苹果的收入增长。
+
+第二点，脱离基本面的炒概念都无法长久。AR/VR 设备和苹果的电动汽车上市还需时日，至少接下来一年还看不到希望。尤其是随着美联储加息临近，市场流动性缩紧，没有业绩支撑的高 PE 会有更大概率会到合理水平。
+
+2022 股价预测
+---------
+
+如果我们按照疫情之前的 PE 上限 25 倍来给的话，2021 财年末苹果的股价应该是 140，距离现价 180 有 22% 的下跌空间。
+
+如果我们 price in 苹果来年的利润，可以按照 2022 财年的预估利润来重新计算一下股价。按照上面的预测，2022 财年，苹果的利润预计增长 10% 左右。按照 25 倍的 PE 来计算，股价约为 154。再加上约 4% 的股票回购，股价会增值 4%，最终股价约为 160.
+
+也就是说，按照上限 25 倍的估值，苹果到 2022 年 9 月份的合理股价也只有 160. 如果按照 20 倍的估值，这个数字会变成 128.
+
+所以，140 和 128 都是可以建仓的好价位。并且在技术面上看，这两个点位的股价都有较强的支撑。尤其是苹果股价如果能回调到 128 元，此时大口梭哈，便是一个安全边际较高的合适时机。
+
+<table><thead><tr><th>&nbsp;</th><th>2021 财年末股价</th><th>2022 财年末股价</th></tr></thead><tbody><tr><td>PE=25</td><td>140</td><td>160</td></tr><tr><td>PE=20</td><td>112</td><td>128</td></tr></tbody></table>
+
+[https://www.apple.com/newsroom/pdfs/FY21_Q4_Consolidated_Financial_Statements.pdf](https://www.apple.com/newsroom/pdfs/FY21_Q4_Consolidated_Financial_Statements.pdf)
+
+[https://www.statista.com/statistics/382260/segments-share-revenue-of-apple/](https://www.statista.com/statistics/382260/segments-share-revenue-of-apple/)
+
+[https://dashboards.trefis.com/data/companies/AAPL/no-login-required/7JGMQ7wT/Breaking-Down-Apple-s-Services-Revenue-](https://dashboards.trefis.com/data/companies/AAPL/no-login-required/7JGMQ7wT/Breaking-Down-Apple-s-Services-Revenue-)
+
+[https://www.businessofapps.com/data/apple-statistics/](https://www.businessofapps.com/data/apple-statistics/)
+
+[https://seekingalpha.com/article/4474646-apple-stock-forecast-2022](https://seekingalpha.com/article/4474646-apple-stock-forecast-2022)
+
+[http://i01.appmifile.com/webfile/globalweb/company/ir/announcement_us/annual_report_2020_e.pdf](http://i01.appmifile.com/webfile/globalweb/company/ir/announcement_us/annual_report_2020_e.pdf)
