@@ -1,6 +1,6 @@
 # Saved readings
 
-_last updated on 2022-11-12; total 119 articles_
+_last updated on 2022-11-17; total 119 articles_
 
 ## 2022
 
