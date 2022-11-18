@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-11-17; total 119 articles_
+_last updated on 2022-11-18; total 120 articles_
 
 ## 2022
 
-_94 articles_
+_95 articles_
+
+- [大西洋杂志丨大流行病的遗留影响已然清晰](./Saved_Reading/大西洋杂志丨大流行病的遗留影响已然清晰.md), _added on 2022-11-18_
 
 - [Changing times (or, why is every layoff 10-15%_)](./Saved_Reading/Changing%20times%20(or,%20why%20is%20every%20layoff%2010-15%_).md), _added on 2022-11-12_
 
@@ -14,9 +16,9 @@ _94 articles_
 
 - [How to Pick a Career (That Actually Fits You) — Wait But Why](./Saved_Reading/How%20to%20Pick%20a%20Career%20(That%20Actually%20Fits%20You)%20—%20Wait%20But%20Why.md), _added on 2022-09-17_
 
-- [The link between personality and success | The Economist](./Saved_Reading/The%20link%20between%20personality%20and%20success%20|%20The%20Economist.md), _added on 2022-09-12_
-
 <details><summary>Show more</summary>
+
+- [The link between personality and success | The Economist](./Saved_Reading/The%20link%20between%20personality%20and%20success%20|%20The%20Economist.md), _added on 2022-09-12_
 
 - [‘You can’t say that!’: how to argue, better | Friendship | The Guardian](./Saved_Reading/‘You%20can’t%20say%20that!’:%20how%20to%20argue,%20better%20|%20Friendship%20|%20The%20Guardian.md), _added on 2022-09-11_
 
