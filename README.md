@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-11-20; total 121 articles_
+_last updated on 2022-11-20; total 122 articles_
 
 ## 2022
 
-_96 articles_
+_97 articles_
+
+- [Intermittent fasting protects against Alzheimer’s disease in mice by altering metabolism through remodeling of the gut microbiota](./Saved_Reading/Intermittent%20fasting%20protects%20against%20Alzheimer’s%20disease%20in%20mice%20by%20altering%20metabolism%20through%20remodeling%20of%20the%20gut%20microbiota.md), _added on 2022-11-20_
 
 - [Red meat is not a health risk](./Saved_Reading/Red%20meat%20is%20not%20a%20health%20risk.%20New%20study%20slams%20shoddy%20research%20-%20Big%20Think.md), _added on 2022-11-20_
 
@@ -14,9 +16,9 @@ _96 articles_
 
 - [谈谈眼下渐趋清晰的趋势 - by 徒步的骑手 - 《困而学之》](./Saved_Reading/谈谈眼下渐趋清晰的趋势%20-%20by%20徒步的骑手%20-%20《困而学之》.pdf), _added on 2022-11-06_
 
-- [Bayesian inference at scale: Running AB tests with millions of observations - PyMC Labs](./Saved_Reading/Bayesian%20inference%20at%20scale:%20Running%20AB%20tests%20with%20millions%20of%20observations%20-%20PyMC%20Labs.md), _added on 2022-09-17_
-
 <details><summary>Show more</summary>
+
+- [Bayesian inference at scale: Running AB tests with millions of observations - PyMC Labs](./Saved_Reading/Bayesian%20inference%20at%20scale:%20Running%20AB%20tests%20with%20millions%20of%20observations%20-%20PyMC%20Labs.md), _added on 2022-09-17_
 
 - [How to Pick a Career (That Actually Fits You) — Wait But Why](./Saved_Reading/How%20to%20Pick%20a%20Career%20(That%20Actually%20Fits%20You)%20—%20Wait%20But%20Why.md), _added on 2022-09-17_
 
