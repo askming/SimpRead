@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-12-16; total 123 articles_
+_last updated on 2022-12-17; total 124 articles_
 
 ## 2022
 
-_98 articles_
+_99 articles_
+
+- [Post 43: Intentionally Making Close Friends — Neel Nanda](./Saved_Reading/Post%2043:%20Intentionally%20Making%20Close%20Friends%20—%20Neel%20Nanda.md), _added on 2022-12-17_
 
 - [Goodbye, Data Science – r y x, r](./Saved_Reading/Goodbye,%20Data%20Science%20–%20r%20y%20x,%20r.md), _added on 2022-12-16_
 
@@ -14,9 +16,9 @@ _98 articles_
 
 - [大西洋杂志丨大流行病的遗留影响已然清晰](./Saved_Reading/大西洋杂志丨大流行病的遗留影响已然清晰.md), _added on 2022-11-18_
 
-- [Changing times (or, why is every layoff 10-15%_)](./Saved_Reading/Changing%20times%20(or,%20why%20is%20every%20layoff%2010-15%_).md), _added on 2022-11-12_
-
 <details><summary>Show more</summary>
+
+- [Changing times (or, why is every layoff 10-15%_)](./Saved_Reading/Changing%20times%20(or,%20why%20is%20every%20layoff%2010-15%_).md), _added on 2022-11-12_
 
 - [谈谈眼下渐趋清晰的趋势 - by 徒步的骑手 - 《困而学之》](./Saved_Reading/谈谈眼下渐趋清晰的趋势%20-%20by%20徒步的骑手%20-%20《困而学之》.pdf), _added on 2022-11-06_
 
