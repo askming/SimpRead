@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-12-17; total 124 articles_
+_last updated on 2022-12-28; total 125 articles_
 
 ## 2022
 
-_99 articles_
+_100 articles_
+
+- [The Introvert's Guide to Building a Strong Professional Network](./Saved_Reading/The%20Introvert's%20Guide%20to%20Building%20a%20Strong%20Professional%20Network.md), _added on 2022-12-28_
 
 - [Post 43: Intentionally Making Close Friends — Neel Nanda](./Saved_Reading/Post%2043:%20Intentionally%20Making%20Close%20Friends%20—%20Neel%20Nanda.md), _added on 2022-12-17_
 
@@ -14,9 +16,9 @@ _99 articles_
 
 - [Red meat is not a health risk](./Saved_Reading/Red%20meat%20is%20not%20a%20health%20risk.%20New%20study%20slams%20shoddy%20research%20-%20Big%20Think.md), _added on 2022-11-20_
 
-- [大西洋杂志丨大流行病的遗留影响已然清晰](./Saved_Reading/大西洋杂志丨大流行病的遗留影响已然清晰.md), _added on 2022-11-18_
-
 <details><summary>Show more</summary>
+
+- [大西洋杂志丨大流行病的遗留影响已然清晰](./Saved_Reading/大西洋杂志丨大流行病的遗留影响已然清晰.md), _added on 2022-11-18_
 
 - [Changing times (or, why is every layoff 10-15%_)](./Saved_Reading/Changing%20times%20(or,%20why%20is%20every%20layoff%2010-15%_).md), _added on 2022-11-12_
 
