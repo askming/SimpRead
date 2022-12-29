@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2022-12-28; total 125 articles_
+_last updated on 2022-12-29; total 126 articles_
 
 ## 2022
 
-_100 articles_
+_101 articles_
+
+- [Demystifying financial leverage](./Saved_Reading/Demystifying%20financial%20leverage.md), _added on 2022-12-29_
 
 - [The Introvert's Guide to Building a Strong Professional Network](./Saved_Reading/The%20Introvert's%20Guide%20to%20Building%20a%20Strong%20Professional%20Network.md), _added on 2022-12-28_
 
@@ -14,9 +16,9 @@ _100 articles_
 
 - [Intermittent fasting protects against Alzheimer’s disease in mice by altering metabolism through remodeling of the gut microbiota](./Saved_Reading/Intermittent%20fasting%20protects%20against%20Alzheimer’s%20disease%20in%20mice%20by%20altering%20metabolism%20through%20remodeling%20of%20the%20gut%20microbiota.md), _added on 2022-11-20_
 
-- [Red meat is not a health risk](./Saved_Reading/Red%20meat%20is%20not%20a%20health%20risk.%20New%20study%20slams%20shoddy%20research%20-%20Big%20Think.md), _added on 2022-11-20_
-
 <details><summary>Show more</summary>
+
+- [Red meat is not a health risk](./Saved_Reading/Red%20meat%20is%20not%20a%20health%20risk.%20New%20study%20slams%20shoddy%20research%20-%20Big%20Think.md), _added on 2022-11-20_
 
 - [大西洋杂志丨大流行病的遗留影响已然清晰](./Saved_Reading/大西洋杂志丨大流行病的遗留影响已然清晰.md), _added on 2022-11-18_
 
