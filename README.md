@@ -1,6 +1,14 @@
 # Saved readings
 
-_last updated on 2022-12-29; total 126 articles_
+_last updated on 2023-01-01; total 127 articles_
+
+## 2023
+
+_1 articles_
+
+- [The Hierarchy Is Bullshit (And Bad For Business) – charity](./Saved_Reading/The%20Hierarchy%20Is%20Bullshit%20(And%20Bad%20For%20Business)%20–%20charity.wtf.md), _added on 2023-01-01_
+
+</details>
 
 ## 2022
 
