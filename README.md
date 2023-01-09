@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2023-01-09; total 128 articles_
+_last updated on 2023-01-09; total 129 articles_
 
 ## 2023
 
-_2 articles_
+_3 articles_
+
+- [Excess Management Is Costing the U](./Saved_Reading/Excess%20Management%20Is%20Costing%20the%20U.S.%20$3%20Trillion%20Per%20Year.md), _added on 2023-01-09_
 
 - [The science of why you have great ideas in the shower | National Geographic](./Saved_Reading/The%20science%20of%20why%20you%20have%20great%20ideas%20in%20the%20shower%20|%20National%20Geographic.md), _added on 2023-01-09_
 
