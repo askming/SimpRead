@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2023-01-01; total 127 articles_
+_last updated on 2023-01-09; total 128 articles_
 
 ## 2023
 
-_1 articles_
+_2 articles_
+
+- [The science of why you have great ideas in the shower | National Geographic](./Saved_Reading/The%20science%20of%20why%20you%20have%20great%20ideas%20in%20the%20shower%20|%20National%20Geographic.md), _added on 2023-01-09_
 
 - [The Hierarchy Is Bullshit (And Bad For Business) – charity](./Saved_Reading/The%20Hierarchy%20Is%20Bullshit%20(And%20Bad%20For%20Business)%20–%20charity.wtf.md), _added on 2023-01-01_
 
