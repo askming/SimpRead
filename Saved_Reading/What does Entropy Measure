@@ -1,0 +1,9 @@
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [towardsdatascience.com](https://towardsdatascience.com/what-does-entropy-measure-an-intuitive-explanation-a7f7e5d16421)
+
+> Entropy can be thought of as the probability of seeing certain patterns in data. Here’s how it works.......
+
+Entropy may seem abstract, but it has an intuitive side: as the probability of seeing certain patterns in data. Here’s how it works.
+
+![](https://miro.medium.com/max/700/1*jUNL7YjUIC7Lb5yQkXdvIA.png)Background Credit: Joe Maldonado [@unsplash](https://unsplash.com/@joesracingteam)
+
+In data science, there are many concepts linked to the notion of entropy. The most basic one is Shannon’s information entropy, defined for any distribution, _P_(_x_), through the formula:
