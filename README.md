@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2023-01-13; total 129 articles_
+_last updated on 2023-01-13; total 130 articles_
 
 ## 2023
 
-_3 articles_
+_4 articles_
+
+- [东北的多重边缘 | 机核 GCORES](./Saved_Reading/东北的多重边缘%20|%20机核%20GCORES.md), _added on 2023-01-13_
 
 - [Excess Management Is Costing the US $3 Trillion Per Year](./Saved_Reading/Excess%20Management%20Is%20Costing%20the%20US%20$3%20Trillion%20Per%20Year.md), _added on 2023-01-09_
 
