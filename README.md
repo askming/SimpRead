@@ -1,10 +1,12 @@
 # Saved readings
 
-_last updated on 2023-01-13; total 130 articles_
+_last updated on 2023-01-16; total 131 articles_
 
 ## 2023
 
-_4 articles_
+_5 articles_
+
+- [“声卡之父” 离世，一代上古大神陨落](./Saved_Reading/“声卡之父”%20离世，一代上古大神陨落.md), _added on 2023-01-16_
 
 - [东北的多重边缘 | 机核 GCORES](./Saved_Reading/东北的多重边缘%20|%20机核%20GCORES.md), _added on 2023-01-13_
 
