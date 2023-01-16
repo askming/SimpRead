@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-01-16; Total 132 articles._
+_Last updated on 2023-01-16; Total 133 articles._
 
 ## 2023
 
-_6 articles_
+_7 articles_
+
+- [The Art and Science of Spending Money · Collab Fund](./Saved_Reading/The%20Art%20and%20Science%20of%20Spending%20Money%20·%20Collab%20Fund.md), _added on 2023-01-16_
 
 - [The Work-From-Anywhere War Is Beginning | WIRED](./Saved_Reading/The%20Work-From-Anywhere%20War%20Is%20Beginning%20|%20WIRED.md), _added on 2023-01-16_
 
@@ -14,9 +16,9 @@ _6 articles_
 
 - [Excess Management Is Costing the US $3 Trillion Per Year](./Saved_Reading/Excess%20Management%20Is%20Costing%20the%20US%20$3%20Trillion%20Per%20Year.md), _added on 2023-01-09_
 
-- [The science of why you have great ideas in the shower | National Geographic](./Saved_Reading/The%20science%20of%20why%20you%20have%20great%20ideas%20in%20the%20shower%20|%20National%20Geographic.md), _added on 2023-01-09_
-
 <details><summary>Show more</summary>
+
+- [The science of why you have great ideas in the shower | National Geographic](./Saved_Reading/The%20science%20of%20why%20you%20have%20great%20ideas%20in%20the%20shower%20|%20National%20Geographic.md), _added on 2023-01-09_
 
 - [The Hierarchy Is Bullshit (And Bad For Business) – charity](./Saved_Reading/The%20Hierarchy%20Is%20Bullshit%20(And%20Bad%20For%20Business)%20–%20charity.wtf.md), _added on 2023-01-01_
 
