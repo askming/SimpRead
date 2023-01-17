@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-01-16; Total 134 articles._
+_Last updated on 2023-01-17; Total 135 articles._
 
 ## 2023
 
-_8 articles_
+_9 articles_
+
+- [Q&A with Jefferies' Rich Handler | Exec Sum](./Saved_Reading/Q&A%20with%20Jefferies'%20Rich%20Handler%20|%20Exec%20Sum.md), _added on 2023-01-17_
 
 - [The Cab Ride I'll Never Forget | Kent Nerburn](./Saved_Reading/The%20Cab%20Ride%20I'll%20Never%20Forget%20|%20Kent%20Nerburn.pdf), _added on 2023-01-16_
 
@@ -14,9 +16,9 @@ _8 articles_
 
 - [“声卡之父” 离世，一代上古大神陨落](./Saved_Reading/“声卡之父”%20离世，一代上古大神陨落.md), _added on 2023-01-16_
 
-- [东北的多重边缘 | 机核 GCORES](./Saved_Reading/东北的多重边缘%20|%20机核%20GCORES.md), _added on 2023-01-13_
-
 <details><summary>Show more</summary>
+
+- [东北的多重边缘 | 机核 GCORES](./Saved_Reading/东北的多重边缘%20|%20机核%20GCORES.md), _added on 2023-01-13_
 
 - [Excess Management Is Costing the US $3 Trillion Per Year](./Saved_Reading/Excess%20Management%20Is%20Costing%20the%20US%20$3%20Trillion%20Per%20Year.md), _added on 2023-01-09_
 
