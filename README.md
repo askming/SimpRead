@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-02-03; Total 137 articles._
+_Last updated on 2023-02-03; Total 138 articles._
 
 ## 2023
 
-_11 articles_
+_12 articles_
+
+- [What it would take for Apple to disentangle itself from China | Financial Times](./Saved_Reading/What%20it%20would%20take%20for%20Apple%20to%20disentangle%20itself%20from%20China%20|%20Financial%20Times.md), _added on 2023-02-03_
 
 - [设计师如何入门前端 - Writing · Dott](./Saved_Reading/设计师如何入门前端%20-%20Writing%20·%20Dott.md), _added on 2023-02-03_
 
@@ -14,9 +16,9 @@ _11 articles_
 
 - [The Cab Ride I'll Never Forget | Kent Nerburn](./Saved_Reading/The%20Cab%20Ride%20I'll%20Never%20Forget%20|%20Kent%20Nerburn.pdf), _added on 2023-01-16_
 
-- [The Art and Science of Spending Money · Collab Fund](./Saved_Reading/The%20Art%20and%20Science%20of%20Spending%20Money%20·%20Collab%20Fund.md), _added on 2023-01-16_
-
 <details><summary>Show more</summary>
+
+- [The Art and Science of Spending Money · Collab Fund](./Saved_Reading/The%20Art%20and%20Science%20of%20Spending%20Money%20·%20Collab%20Fund.md), _added on 2023-01-16_
 
 - [The Work-From-Anywhere War Is Beginning | WIRED](./Saved_Reading/The%20Work-From-Anywhere%20War%20Is%20Beginning%20|%20WIRED.md), _added on 2023-01-16_
 
