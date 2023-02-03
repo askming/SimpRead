@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-02-03; Total 138 articles._
+_Last updated on 2023-02-03; Total 139 articles._
 
 ## 2023
 
-_12 articles_
+_13 articles_
+
+- [Crafting a successful career framework](./Saved_Reading/Crafting%20a%20successful%20career%20framework.md), _added on 2023-02-03_
 
 - [What it would take for Apple to disentangle itself from China | Financial Times](./Saved_Reading/What%20it%20would%20take%20for%20Apple%20to%20disentangle%20itself%20from%20China%20|%20Financial%20Times.md), _added on 2023-02-03_
 
@@ -14,9 +16,9 @@ _12 articles_
 
 - [Q&A with Jefferies' Rich Handler | Exec Sum](./Saved_Reading/Q&A%20with%20Jefferies'%20Rich%20Handler%20|%20Exec%20Sum.md), _added on 2023-01-17_
 
-- [The Cab Ride I'll Never Forget | Kent Nerburn](./Saved_Reading/The%20Cab%20Ride%20I'll%20Never%20Forget%20|%20Kent%20Nerburn.pdf), _added on 2023-01-16_
-
 <details><summary>Show more</summary>
+
+- [The Cab Ride I'll Never Forget | Kent Nerburn](./Saved_Reading/The%20Cab%20Ride%20I'll%20Never%20Forget%20|%20Kent%20Nerburn.pdf), _added on 2023-01-16_
 
 - [The Art and Science of Spending Money · Collab Fund](./Saved_Reading/The%20Art%20and%20Science%20of%20Spending%20Money%20·%20Collab%20Fund.md), _added on 2023-01-16_
 
