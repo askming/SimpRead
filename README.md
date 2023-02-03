@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-02-02; Total 136 articles._
+_Last updated on 2023-02-03; Total 137 articles._
 
 ## 2023
 
-_10 articles_
+_11 articles_
+
+- [设计师如何入门前端 - Writing · Dott](./Saved_Reading/设计师如何入门前端%20-%20Writing%20·%20Dott.md), _added on 2023-02-03_
 
 - [归江：不只价值宗师，悯人者格雷厄姆](./Saved_Reading/归江：不只价值宗师，悯人者格雷厄姆.md), _added on 2023-02-02_
 
@@ -14,9 +16,9 @@ _10 articles_
 
 - [The Art and Science of Spending Money · Collab Fund](./Saved_Reading/The%20Art%20and%20Science%20of%20Spending%20Money%20·%20Collab%20Fund.md), _added on 2023-01-16_
 
-- [The Work-From-Anywhere War Is Beginning | WIRED](./Saved_Reading/The%20Work-From-Anywhere%20War%20Is%20Beginning%20|%20WIRED.md), _added on 2023-01-16_
-
 <details><summary>Show more</summary>
+
+- [The Work-From-Anywhere War Is Beginning | WIRED](./Saved_Reading/The%20Work-From-Anywhere%20War%20Is%20Beginning%20|%20WIRED.md), _added on 2023-01-16_
 
 - [“声卡之父” 离世，一代上古大神陨落](./Saved_Reading/“声卡之父”%20离世，一代上古大神陨落.md), _added on 2023-01-16_
 
