@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-02-12; Total 140 articles._
+_Last updated on 2023-02-12; Total 141 articles._
 
 ## 2023
 
-_14 articles_
+_15 articles_
+
+- [Chuck Akre Value Investing Con - GuruFocus](./Saved_Reading/Chuck%20Akre%20Value%20Investing%20Con%20-%20GuruFocus.com.md), _added on 2023-02-12_
 
 - [A Guide to the Fed: Whose Words Carry the Most Weight - Barrons](./Saved_Reading/A%20Guide%20to%20the%20Fed:%20Whose%20Words%20Carry%20the%20Most%20Weight%20-%20Barrons.pdf), _added on 2023-02-12_
 
@@ -14,9 +16,9 @@ _14 articles_
 
 - [设计师如何入门前端 - Writing · Dott](./Saved_Reading/设计师如何入门前端%20-%20Writing%20·%20Dott.md), _added on 2023-02-03_
 
-- [归江：不只价值宗师，悯人者格雷厄姆](./Saved_Reading/归江：不只价值宗师，悯人者格雷厄姆.md), _added on 2023-02-02_
-
 <details><summary>Show more</summary>
+
+- [归江：不只价值宗师，悯人者格雷厄姆](./Saved_Reading/归江：不只价值宗师，悯人者格雷厄姆.md), _added on 2023-02-02_
 
 - [Q&A with Jefferies' Rich Handler | Exec Sum](./Saved_Reading/Q&A%20with%20Jefferies'%20Rich%20Handler%20|%20Exec%20Sum.md), _added on 2023-01-17_
 
