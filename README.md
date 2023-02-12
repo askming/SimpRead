@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-02-03; Total 139 articles._
+_Last updated on 2023-02-12; Total 140 articles._
 
 ## 2023
 
-_13 articles_
+_14 articles_
+
+- [A Guide to the Fed: Whose Words Carry the Most Weight - Barrons](./Saved_Reading/A%20Guide%20to%20the%20Fed:%20Whose%20Words%20Carry%20the%20Most%20Weight%20-%20Barrons.pdf), _added on 2023-02-12_
 
 - [Crafting a successful career framework](./Saved_Reading/Crafting%20a%20successful%20career%20framework.md), _added on 2023-02-03_
 
@@ -14,9 +16,9 @@ _13 articles_
 
 - [归江：不只价值宗师，悯人者格雷厄姆](./Saved_Reading/归江：不只价值宗师，悯人者格雷厄姆.md), _added on 2023-02-02_
 
-- [Q&A with Jefferies' Rich Handler | Exec Sum](./Saved_Reading/Q&A%20with%20Jefferies'%20Rich%20Handler%20|%20Exec%20Sum.md), _added on 2023-01-17_
-
 <details><summary>Show more</summary>
+
+- [Q&A with Jefferies' Rich Handler | Exec Sum](./Saved_Reading/Q&A%20with%20Jefferies'%20Rich%20Handler%20|%20Exec%20Sum.md), _added on 2023-01-17_
 
 - [The Cab Ride I'll Never Forget | Kent Nerburn](./Saved_Reading/The%20Cab%20Ride%20I'll%20Never%20Forget%20|%20Kent%20Nerburn.pdf), _added on 2023-01-16_
 
