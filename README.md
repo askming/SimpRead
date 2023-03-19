@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-03-19; Total 142 articles._
+_Last updated on 2023-03-19; Total 143 articles._
 
 ## 2023
 
-_16 articles_
+_17 articles_
+
+- [从抄书到开源之巅：章亦春的程序人生](./Saved_Reading/从抄书到开源之巅：章亦春的程序人生.md), _added on 2023-03-19_
 
 - [Anki-fy Your Life](./Saved_Reading/Anki-fy%20Your%20Life.md), _added on 2023-03-19_
 
@@ -14,9 +16,9 @@ _16 articles_
 
 - [Crafting a successful career framework](./Saved_Reading/Crafting%20a%20successful%20career%20framework.md), _added on 2023-02-03_
 
-- [What it would take for Apple to disentangle itself from China | Financial Times](./Saved_Reading/What%20it%20would%20take%20for%20Apple%20to%20disentangle%20itself%20from%20China%20|%20Financial%20Times.md), _added on 2023-02-03_
-
 <details><summary>Show more</summary>
+
+- [What it would take for Apple to disentangle itself from China | Financial Times](./Saved_Reading/What%20it%20would%20take%20for%20Apple%20to%20disentangle%20itself%20from%20China%20|%20Financial%20Times.md), _added on 2023-02-03_
 
 - [设计师如何入门前端 - Writing · Dott](./Saved_Reading/设计师如何入门前端%20-%20Writing%20·%20Dott.md), _added on 2023-02-03_
 
