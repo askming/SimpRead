@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-03-19; Total 144 articles._
+_Last updated on 2023-04-02; Total 145 articles._
 
 ## 2023
 
-_18 articles_
+_19 articles_
+
+- [股票大作手回忆录](./Saved_Reading/股票大作手回忆录.pdf), _added on 2023-04-02_
 
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](./Saved_Reading/Maybe%20Treating%20Housing%20as%20an%20Investment%20was%20a%20Colossal,%20Society-Shattering%20Mistake.md), _added on 2023-03-19_
 
@@ -14,9 +16,9 @@ _18 articles_
 
 - [Chuck Akre Value Investing Con - GuruFocus](./Saved_Reading/Chuck%20Akre%20Value%20Investing%20Con%20-%20GuruFocus.com.md), _added on 2023-02-12_
 
-- [A Guide to the Fed: Whose Words Carry the Most Weight - Barrons](./Saved_Reading/A%20Guide%20to%20the%20Fed:%20Whose%20Words%20Carry%20the%20Most%20Weight%20-%20Barrons.pdf), _added on 2023-02-12_
-
 <details><summary>Show more</summary>
+
+- [A Guide to the Fed: Whose Words Carry the Most Weight - Barrons](./Saved_Reading/A%20Guide%20to%20the%20Fed:%20Whose%20Words%20Carry%20the%20Most%20Weight%20-%20Barrons.pdf), _added on 2023-02-12_
 
 - [Crafting a successful career framework](./Saved_Reading/Crafting%20a%20successful%20career%20framework.md), _added on 2023-02-03_
 
