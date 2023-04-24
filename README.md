@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-04-24; Total 146 articles._
+_Last updated on 2023-04-24; Total 147 articles._
 
 ## 2023
 
-_20 articles_
+_21 articles_
+
+- [把阅读作为方法：从选书到笔记的经验分享](./Saved_Reading/把阅读作为方法：从选书到笔记的经验分享.md), _added on 2023-04-24_
 
 - [你真的爱看书吗？ | 青年维也纳](./Saved_Reading/你真的爱看书吗？%20|%20青年维也纳.md), _added on 2023-04-24_
 
@@ -14,9 +16,9 @@ _20 articles_
 
 - [从抄书到开源之巅：章亦春的程序人生](./Saved_Reading/从抄书到开源之巅：章亦春的程序人生.md), _added on 2023-03-19_
 
-- [Anki-fy Your Life](./Saved_Reading/Anki-fy%20Your%20Life.md), _added on 2023-03-19_
-
 <details><summary>Show more</summary>
+
+- [Anki-fy Your Life](./Saved_Reading/Anki-fy%20Your%20Life.md), _added on 2023-03-19_
 
 - [Chuck Akre Value Investing Con - GuruFocus](./Saved_Reading/Chuck%20Akre%20Value%20Investing%20Con%20-%20GuruFocus.com.md), _added on 2023-02-12_
 
