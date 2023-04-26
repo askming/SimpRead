@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-04-24; Total 147 articles._
+_Last updated on 2023-04-26; Total 148 articles._
 
 ## 2023
 
-_21 articles_
+_22 articles_
+
+- [Treat your to-read pile like a river | Oliver Burkeman](./Saved_Reading/Treat%20your%20to-read%20pile%20like%20a%20river%20|%20Oliver%20Burkeman.md), _added on 2023-04-26_
 
 - [把阅读作为方法：从选书到笔记的经验分享](./Saved_Reading/把阅读作为方法：从选书到笔记的经验分享.md), _added on 2023-04-24_
 
@@ -14,9 +16,9 @@ _21 articles_
 
 - [Maybe Treating Housing as an Investment was a Colossal, Society-Shattering Mistake](./Saved_Reading/Maybe%20Treating%20Housing%20as%20an%20Investment%20was%20a%20Colossal,%20Society-Shattering%20Mistake.md), _added on 2023-03-19_
 
-- [从抄书到开源之巅：章亦春的程序人生](./Saved_Reading/从抄书到开源之巅：章亦春的程序人生.md), _added on 2023-03-19_
-
 <details><summary>Show more</summary>
+
+- [从抄书到开源之巅：章亦春的程序人生](./Saved_Reading/从抄书到开源之巅：章亦春的程序人生.md), _added on 2023-03-19_
 
 - [Anki-fy Your Life](./Saved_Reading/Anki-fy%20Your%20Life.md), _added on 2023-03-19_
 
