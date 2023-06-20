@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-06-20; Total 150 articles._
+_Last updated on 2023-06-20; Total 151 articles._
 
 ## 2023
 
-_24 articles_
+_25 articles_
+
+- [当一位女老师教学生反抗权威](./Saved_Reading/当一位女老师教学生反抗权威.md), _added on 2023-06-20_
 
 - [寒门子弟上名校之后](./Saved_Reading/寒门子弟上名校之后.md), _added on 2023-06-20_
 
@@ -14,9 +16,9 @@ _24 articles_
 
 - [把阅读作为方法：从选书到笔记的经验分享](./Saved_Reading/把阅读作为方法：从选书到笔记的经验分享.md), _added on 2023-04-24_
 
-- [你真的爱看书吗？ | 青年维也纳](./Saved_Reading/你真的爱看书吗？%20|%20青年维也纳.md), _added on 2023-04-24_
-
 <details><summary>Show more</summary>
+
+- [你真的爱看书吗？ | 青年维也纳](./Saved_Reading/你真的爱看书吗？%20|%20青年维也纳.md), _added on 2023-04-24_
 
 - [股票大作手回忆录](./Saved_Reading/股票大作手回忆录.pdf), _added on 2023-04-02_
 
