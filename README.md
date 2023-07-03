@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-07-01; Total 154 articles._
+_Last updated on 2023-07-03; Total 155 articles._
 
 ## 2023
 
-_28 articles_
+_29 articles_
+
+- [Maps Distort How We See the World - by Tomas Pueyo](./Saved_Reading/Maps%20Distort%20How%20We%20See%20the%20World%20-%20by%20Tomas%20Pueyo.md), _added on 2023-07-03_
 
 - [After-tax 401(k) 账户及 Mega backdoor 操作介绍 - 美国信用卡指南](./Saved_Reading/After-tax%20401(k)%20账户及%20Mega%20backdoor%20操作介绍%20-%20美国信用卡指南.md), _added on 2023-07-01_
 
@@ -14,9 +16,9 @@ _28 articles_
 
 - [当一位女老师教学生反抗权威](./Saved_Reading/当一位女老师教学生反抗权威.md), _added on 2023-06-20_
 
-- [寒门子弟上名校之后](./Saved_Reading/寒门子弟上名校之后.md), _added on 2023-06-20_
-
 <details><summary>Show more</summary>
+
+- [寒门子弟上名校之后](./Saved_Reading/寒门子弟上名校之后.md), _added on 2023-06-20_
 
 - [关于时间管理的误区，你必须接纳自己的有限性](./Saved_Reading/关于时间管理的误区，你必须接纳自己的有限性.md), _added on 2023-06-08_
 
