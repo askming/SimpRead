@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-07-10; Total 156 articles._
+_Last updated on 2023-07-26; Total 157 articles._
 
 ## 2023
 
-_30 articles_
+_31 articles_
+
+- [How to train your brain to get into the flow](./Saved_Reading/How%20to%20train%20your%20brain%20to%20get%20into%20the%20flow..md), _added on 2023-07-26_
 
 - [Notion 是怎么火起来的？这篇文章带你「读懂」Notion 的过去](./Saved_Reading/Notion%20是怎么火起来的？这篇文章带你「读懂」Notion%20的过去.md), _added on 2023-07-10_
 
@@ -14,9 +16,9 @@ _30 articles_
 
 - [Roth IRA 五年规则与取钱顺序 - 美国信用卡指南](./Saved_Reading/Roth%20IRA%20五年规则与取钱顺序%20-%20美国信用卡指南.md), _added on 2023-07-01_
 
-- [The Double Education of My Twins’ Chinese School | The New Yorker](./Saved_Reading/The%20Double%20Education%20of%20My%20Twins’%20Chinese%20School%20|%20The%20New%20Yorker.pdf), _added on 2023-06-30_
-
 <details><summary>Show more</summary>
+
+- [The Double Education of My Twins’ Chinese School | The New Yorker](./Saved_Reading/The%20Double%20Education%20of%20My%20Twins’%20Chinese%20School%20|%20The%20New%20Yorker.pdf), _added on 2023-06-30_
 
 - [当一位女老师教学生反抗权威](./Saved_Reading/当一位女老师教学生反抗权威.md), _added on 2023-06-20_
 
