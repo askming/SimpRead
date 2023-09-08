@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-08-24; Total 158 articles._
+_Last updated on 2023-09-08; Total 159 articles._
 
 ## 2023
 
-_32 articles_
+_33 articles_
+
+- [道德消亡与心理健康危机：美国人是如何变得如此刻薄的](./Saved_Reading/道德消亡与心理健康危机：美国人是如何变得如此刻薄的.md), _added on 2023-09-08_
 
 - [AddyOsmani](./Saved_Reading/AddyOsmani.com%20-%20Write%20about%20what%20you%20learn.%20It%20pushes%20you%20to%20understand%20topics%20better..md), _added on 2023-08-24_
 
@@ -14,9 +16,9 @@ _32 articles_
 
 - [Maps Distort How We See the World - by Tomas Pueyo](./Saved_Reading/Maps%20Distort%20How%20We%20See%20the%20World%20-%20by%20Tomas%20Pueyo.md), _added on 2023-07-03_
 
-- [After-tax 401(k) 账户及 Mega backdoor 操作介绍 - 美国信用卡指南](./Saved_Reading/After-tax%20401(k)%20账户及%20Mega%20backdoor%20操作介绍%20-%20美国信用卡指南.md), _added on 2023-07-01_
-
 <details><summary>Show more</summary>
+
+- [After-tax 401(k) 账户及 Mega backdoor 操作介绍 - 美国信用卡指南](./Saved_Reading/After-tax%20401(k)%20账户及%20Mega%20backdoor%20操作介绍%20-%20美国信用卡指南.md), _added on 2023-07-01_
 
 - [Roth IRA 五年规则与取钱顺序 - 美国信用卡指南](./Saved_Reading/Roth%20IRA%20五年规则与取钱顺序%20-%20美国信用卡指南.md), _added on 2023-07-01_
 
