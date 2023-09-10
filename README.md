@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-09-10; Total 160 articles._
+_Last updated on 2023-09-10; Total 161 articles._
 
 ## 2023
 
-_34 articles_
+_35 articles_
+
+- [2023 年如何从零开始内容创业](./Saved_Reading/2023%20年如何从零开始内容创业.md), _added on 2023-09-10_
 
 - [一份完整的香港银行账户使用指南 V1](./Saved_Reading/一份完整的香港银行账户使用指南%20V1.6%20|%20猫总博客.md), _added on 2023-09-10_
 
@@ -14,9 +16,9 @@ _34 articles_
 
 - [How to train your brain to get into the flow](./Saved_Reading/How%20to%20train%20your%20brain%20to%20get%20into%20the%20flow..md), _added on 2023-07-26_
 
-- [Notion 是怎么火起来的？这篇文章带你「读懂」Notion 的过去](./Saved_Reading/Notion%20是怎么火起来的？这篇文章带你「读懂」Notion%20的过去.md), _added on 2023-07-10_
-
 <details><summary>Show more</summary>
+
+- [Notion 是怎么火起来的？这篇文章带你「读懂」Notion 的过去](./Saved_Reading/Notion%20是怎么火起来的？这篇文章带你「读懂」Notion%20的过去.md), _added on 2023-07-10_
 
 - [Maps Distort How We See the World - by Tomas Pueyo](./Saved_Reading/Maps%20Distort%20How%20We%20See%20the%20World%20-%20by%20Tomas%20Pueyo.md), _added on 2023-07-03_
 
