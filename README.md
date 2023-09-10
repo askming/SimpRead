@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-09-08; Total 159 articles._
+_Last updated on 2023-09-10; Total 160 articles._
 
 ## 2023
 
-_33 articles_
+_34 articles_
+
+- [一份完整的香港银行账户使用指南 V1](./Saved_Reading/一份完整的香港银行账户使用指南%20V1.6%20|%20猫总博客.md), _added on 2023-09-10_
 
 - [道德消亡与心理健康危机：美国人是如何变得如此刻薄的](./Saved_Reading/道德消亡与心理健康危机：美国人是如何变得如此刻薄的.md), _added on 2023-09-08_
 
@@ -14,9 +16,9 @@ _33 articles_
 
 - [Notion 是怎么火起来的？这篇文章带你「读懂」Notion 的过去](./Saved_Reading/Notion%20是怎么火起来的？这篇文章带你「读懂」Notion%20的过去.md), _added on 2023-07-10_
 
-- [Maps Distort How We See the World - by Tomas Pueyo](./Saved_Reading/Maps%20Distort%20How%20We%20See%20the%20World%20-%20by%20Tomas%20Pueyo.md), _added on 2023-07-03_
-
 <details><summary>Show more</summary>
+
+- [Maps Distort How We See the World - by Tomas Pueyo](./Saved_Reading/Maps%20Distort%20How%20We%20See%20the%20World%20-%20by%20Tomas%20Pueyo.md), _added on 2023-07-03_
 
 - [After-tax 401(k) 账户及 Mega backdoor 操作介绍 - 美国信用卡指南](./Saved_Reading/After-tax%20401(k)%20账户及%20Mega%20backdoor%20操作介绍%20-%20美国信用卡指南.md), _added on 2023-07-01_
 
