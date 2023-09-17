@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-09-17; Total 162 articles._
+_Last updated on 2023-09-17; Total 163 articles._
 
 ## 2023
 
-_36 articles_
+_37 articles_
+
+- [Screw motivation, what you need is discipline](./Saved_Reading/Screw%20motivation,%20what%20you%20need%20is%20discipline.%20–%20WISDOMINATION.md), _added on 2023-09-17_
 
 - [扫兴的东亚父母，还不完债的孩子 - 虎嗅网](./Saved_Reading/扫兴的东亚父母，还不完债的孩子%20-%20虎嗅网.md), _added on 2023-09-17_
 
@@ -14,9 +16,9 @@ _36 articles_
 
 - [道德消亡与心理健康危机：美国人是如何变得如此刻薄的](./Saved_Reading/道德消亡与心理健康危机：美国人是如何变得如此刻薄的.md), _added on 2023-09-08_
 
-- [AddyOsmani](./Saved_Reading/AddyOsmani.com%20-%20Write%20about%20what%20you%20learn.%20It%20pushes%20you%20to%20understand%20topics%20better..md), _added on 2023-08-24_
-
 <details><summary>Show more</summary>
+
+- [AddyOsmani](./Saved_Reading/AddyOsmani.com%20-%20Write%20about%20what%20you%20learn.%20It%20pushes%20you%20to%20understand%20topics%20better..md), _added on 2023-08-24_
 
 - [How to train your brain to get into the flow](./Saved_Reading/How%20to%20train%20your%20brain%20to%20get%20into%20the%20flow..md), _added on 2023-07-26_
 
