@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-09-17; Total 164 articles._
+_Last updated on 2023-09-23; Total 165 articles._
 
 ## 2023
 
-_38 articles_
+_39 articles_
+
+- [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
 
 - [Practical discipline – WISDOMINATION](./Saved_Reading/Practical%20discipline%20–%20WISDOMINATION.md), _added on 2023-09-17_
 
@@ -14,9 +16,9 @@ _38 articles_
 
 - [2023 年如何从零开始内容创业](./Saved_Reading/2023%20年如何从零开始内容创业.md), _added on 2023-09-10_
 
-- [一份完整的香港银行账户使用指南 V1](./Saved_Reading/一份完整的香港银行账户使用指南%20V1.6%20|%20猫总博客.md), _added on 2023-09-10_
-
 <details><summary>Show more</summary>
+
+- [一份完整的香港银行账户使用指南 V1](./Saved_Reading/一份完整的香港银行账户使用指南%20V1.6%20|%20猫总博客.md), _added on 2023-09-10_
 
 - [道德消亡与心理健康危机：美国人是如何变得如此刻薄的](./Saved_Reading/道德消亡与心理健康危机：美国人是如何变得如此刻薄的.md), _added on 2023-09-08_
 
