@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-09-23; Total 165 articles._
+_Last updated on 2023-09-26; Total 166 articles._
 
 ## 2023
 
-_39 articles_
+_40 articles_
+
+- [人工智能发展简史](./Saved_Reading/人工智能发展简史.md), _added on 2023-09-26_
 
 - [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
 
@@ -14,9 +16,9 @@ _39 articles_
 
 - [扫兴的东亚父母，还不完债的孩子 - 虎嗅网](./Saved_Reading/扫兴的东亚父母，还不完债的孩子%20-%20虎嗅网.md), _added on 2023-09-17_
 
-- [2023 年如何从零开始内容创业](./Saved_Reading/2023%20年如何从零开始内容创业.md), _added on 2023-09-10_
-
 <details><summary>Show more</summary>
+
+- [2023 年如何从零开始内容创业](./Saved_Reading/2023%20年如何从零开始内容创业.md), _added on 2023-09-10_
 
 - [一份完整的香港银行账户使用指南 V1](./Saved_Reading/一份完整的香港银行账户使用指南%20V1.6%20|%20猫总博客.md), _added on 2023-09-10_
 
