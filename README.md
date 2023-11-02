@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-11-02; Total 168 articles._
+_Last updated on 2023-11-02; Total 169 articles._
 
 ## 2023
 
-_42 articles_
+_43 articles_
+
+- [学习并不会给你带来成长 - 36 氪](./Saved_Reading/学习并不会给你带来成长%20-%2036%20氪.md), _added on 2023-11-02_
 
 - [学日语的一些乐趣 | 歌词经理](./Saved_Reading/学日语的一些乐趣%20|%20歌词经理.md), _added on 2023-11-02_
 
@@ -14,9 +16,9 @@ _42 articles_
 
 - [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
 
-- [Practical discipline – WISDOMINATION](./Saved_Reading/Practical%20discipline%20–%20WISDOMINATION.md), _added on 2023-09-17_
-
 <details><summary>Show more</summary>
+
+- [Practical discipline – WISDOMINATION](./Saved_Reading/Practical%20discipline%20–%20WISDOMINATION.md), _added on 2023-09-17_
 
 - [Screw motivation, what you need is discipline](./Saved_Reading/Screw%20motivation,%20what%20you%20need%20is%20discipline.%20–%20WISDOMINATION.md), _added on 2023-09-17_
 
