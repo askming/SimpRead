@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-11-02; Total 169 articles._
+_Last updated on 2023-11-03; Total 170 articles._
 
 ## 2023
 
-_43 articles_
+_44 articles_
+
+- [近 30 年戴镜史，分享我的配镜方法和粗浅经验](./Saved_Reading/近%2030%20年戴镜史，分享我的配镜方法和粗浅经验.md), _added on 2023-11-03_
 
 - [学习并不会给你带来成长 - 36 氪](./Saved_Reading/学习并不会给你带来成长%20-%2036%20氪.md), _added on 2023-11-02_
 
@@ -14,9 +16,9 @@ _43 articles_
 
 - [人工智能发展简史](./Saved_Reading/人工智能发展简史.md), _added on 2023-09-26_
 
-- [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
-
 <details><summary>Show more</summary>
+
+- [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
 
 - [Practical discipline – WISDOMINATION](./Saved_Reading/Practical%20discipline%20–%20WISDOMINATION.md), _added on 2023-09-17_
 
