@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-11-03; Total 170 articles._
+_Last updated on 2023-11-19; Total 171 articles._
 
 ## 2023
 
-_44 articles_
+_45 articles_
+
+- [ChatGPT 背后真正的英雄：OpenAI 首席科学家 Ilya Sutskever 的信仰之跃](./Saved_Reading/ChatGPT%20背后真正的英雄：OpenAI%20首席科学家%20Ilya%20Sutskever%20的信仰之跃.md), _added on 2023-11-19_
 
 - [近 30 年戴镜史，分享我的配镜方法和粗浅经验](./Saved_Reading/近%2030%20年戴镜史，分享我的配镜方法和粗浅经验.md), _added on 2023-11-03_
 
@@ -14,9 +16,9 @@ _44 articles_
 
 - [The Philips Hue ecosystem is collapsing into stupidity](./Saved_Reading/The%20Philips%20Hue%20ecosystem%20is%20collapsing%20into%20stupidity.md), _added on 2023-10-16_
 
-- [人工智能发展简史](./Saved_Reading/人工智能发展简史.md), _added on 2023-09-26_
-
 <details><summary>Show more</summary>
+
+- [人工智能发展简史](./Saved_Reading/人工智能发展简史.md), _added on 2023-09-26_
 
 - [Widely used chemical strongly linked to Parkinson’s disease | Science | AAAS](./Saved_Reading/Widely%20used%20chemical%20strongly%20linked%20to%20Parkinson’s%20disease%20|%20Science%20|%20AAAS.md), _added on 2023-09-23_
 
