@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2023-11-27; Total 172 articles._
+_Last updated on 2023-12-03; Total 173 articles._
 
 ## 2023
 
-_46 articles_
+_47 articles_
+
+- [When critical thinking isn't enough: to beat information overload, we need to learn'critical ignoring'](./Saved_Reading/When%20critical%20thinking%20isn't%20enough:%20to%20beat%20information%20overload,%20we%20need%20to%20learn'critical%20ignoring'.md), _added on 2023-12-03_
 
 - [Superlinear Returns](./Saved_Reading/Superlinear%20Returns.md), _added on 2023-11-27_
 
@@ -14,9 +16,9 @@ _46 articles_
 
 - [学习并不会给你带来成长 - 36 氪](./Saved_Reading/学习并不会给你带来成长%20-%2036%20氪.md), _added on 2023-11-02_
 
-- [学日语的一些乐趣 | 歌词经理](./Saved_Reading/学日语的一些乐趣%20|%20歌词经理.md), _added on 2023-11-02_
-
 <details><summary>Show more</summary>
+
+- [学日语的一些乐趣 | 歌词经理](./Saved_Reading/学日语的一些乐趣%20|%20歌词经理.md), _added on 2023-11-02_
 
 - [The Philips Hue ecosystem is collapsing into stupidity](./Saved_Reading/The%20Philips%20Hue%20ecosystem%20is%20collapsing%20into%20stupidity.md), _added on 2023-10-16_
 
