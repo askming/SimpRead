@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-03-03; Total 175 articles._
+_Last updated on 2024-03-03; Total 176 articles._
 
 ## 2024
 
-_1 articles_
+_2 articles_
+
+- [Can Brain Science Help Us Break Bad Habits_](./Saved_Reading/Can%20Brain%20Science%20Help%20Us%20Break%20Bad%20Habits_.pdf), _added on 2024-03-03_
 
 - [6 Questions to Ask at the Midpoint of Your Career](./Saved_Reading/6%20Questions%20to%20Ask%20at%20the%20Midpoint%20of%20Your%20Career.pdf), _added on 2024-03-03_
 
