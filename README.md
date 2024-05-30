@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-05-28; Total 180 articles._
+_Last updated on 2024-05-30; Total 181 articles._
 
 ## 2024
 
-_6 articles_
+_7 articles_
+
+- [How the Guinness Brewery Invented the Most Important Statistical Method in Science | Scientific American](./Saved_Reading/How%20the%20Guinness%20Brewery%20Invented%20the%20Most%20Important%20Statistical%20Method%20in%20Science%20|%20Scientific%20American.md), _added on 2024-05-30_
 
 - [全网 “最穷” 的一批人，还能为多抓鱼买单多久](./Saved_Reading/全网%20“最穷”%20的一批人，还能为多抓鱼买单多久.md), _added on 2024-05-21_
 
@@ -14,9 +16,9 @@ _6 articles_
 
 - [Suicide Mission - The American Prospect](./Saved_Reading/Suicide%20Mission%20-%20The%20American%20Prospect.md), _added on 2024-03-30_
 
-- [Can Brain Science Help Us Break Bad Habits_](./Saved_Reading/Can%20Brain%20Science%20Help%20Us%20Break%20Bad%20Habits_.pdf), _added on 2024-03-03_
-
 <details><summary>Show more</summary>
+
+- [Can Brain Science Help Us Break Bad Habits_](./Saved_Reading/Can%20Brain%20Science%20Help%20Us%20Break%20Bad%20Habits_.pdf), _added on 2024-03-03_
 
 - [6 Questions to Ask at the Midpoint of Your Career](./Saved_Reading/6%20Questions%20to%20Ask%20at%20the%20Midpoint%20of%20Your%20Career.pdf), _added on 2024-03-03_
 
