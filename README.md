@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-05-30; Total 181 articles._
+_Last updated on 2024-06-18; Total 182 articles._
 
 ## 2024
 
-_7 articles_
+_8 articles_
+
+- [Silicon Valley’s Best Kept Secret: Founder Liquidity](./Saved_Reading/Silicon%20Valley’s%20Best%20Kept%20Secret:%20Founder%20Liquidity.md), _added on 2024-06-18_
 
 - [How the Guinness Brewery Invented the Most Important Statistical Method in Science | Scientific American](./Saved_Reading/How%20the%20Guinness%20Brewery%20Invented%20the%20Most%20Important%20Statistical%20Method%20in%20Science%20|%20Scientific%20American.md), _added on 2024-05-30_
 
@@ -14,9 +16,9 @@ _7 articles_
 
 - [在萧山，那些待嫁的男人们](./Saved_Reading/在萧山，那些待嫁的男人们.md), _added on 2024-03-31_
 
-- [Suicide Mission - The American Prospect](./Saved_Reading/Suicide%20Mission%20-%20The%20American%20Prospect.md), _added on 2024-03-30_
-
 <details><summary>Show more</summary>
+
+- [Suicide Mission - The American Prospect](./Saved_Reading/Suicide%20Mission%20-%20The%20American%20Prospect.md), _added on 2024-03-30_
 
 - [Can Brain Science Help Us Break Bad Habits_](./Saved_Reading/Can%20Brain%20Science%20Help%20Us%20Break%20Bad%20Habits_.pdf), _added on 2024-03-03_
 
