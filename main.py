@@ -22,7 +22,7 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
     user = login(token)
     repo = get_repo(user, repo_name)
 
-    file_types = ["*.md", "*.pdf"]
+    file_types = ["*.md", "*.pdf", "*.epub"]
     filepaths = []
     for ext in file_types:
         source_dir = os.path.join(sourcepath, ext)
