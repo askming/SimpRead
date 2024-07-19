@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-07-13; Total 184 articles._
+_Last updated on 2024-07-19; Total 185 articles._
 
 ## 2024
 
-_10 articles_
+_11 articles_
+
+- [Working title (insurance)](./Saved_Reading/Working%20title%20(insurance).epub), _added on 2024-07-19_
 
 - [The Joy of Reading Books You Don't Entirely Understand - Reactor](./Saved_Reading/The%20Joy%20of%20Reading%20Books%20You%20Don't%20Entirely%20Understand%20-%20Reactor.md), _added on 2024-07-13_
 
@@ -14,9 +16,9 @@ _10 articles_
 
 - [How the Guinness Brewery Invented the Most Important Statistical Method in Science | Scientific American](./Saved_Reading/How%20the%20Guinness%20Brewery%20Invented%20the%20Most%20Important%20Statistical%20Method%20in%20Science%20|%20Scientific%20American.md), _added on 2024-05-30_
 
-- [全网 “最穷” 的一批人，还能为多抓鱼买单多久](./Saved_Reading/全网%20“最穷”%20的一批人，还能为多抓鱼买单多久.md), _added on 2024-05-21_
-
 <details><summary>Show more</summary>
+
+- [全网 “最穷” 的一批人，还能为多抓鱼买单多久](./Saved_Reading/全网%20“最穷”%20的一批人，还能为多抓鱼买单多久.md), _added on 2024-05-21_
 
 - [揭秘互联网的维修工：那些修复海底光缆的人](./Saved_Reading/揭秘互联网的维修工：那些修复海底光缆的人.md), _added on 2024-05-04_
 
