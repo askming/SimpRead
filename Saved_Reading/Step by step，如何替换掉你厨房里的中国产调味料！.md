@@ -1,5 +1,7 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [threadreaderapp.com](https://threadreaderapp.com/thread/1567549155366830080.html)
 
+1，镇江香醋可以用蒜香红酒醋（ Galic Red Win Vineger）代替。左边小瓶子超市就有，2.4 美元，味道非常接近镇江香醋，而且看配料表，红酒，醋，水，大蒜天然提取物，焦亚硫酸钾（古老的红酒防腐）。而镇江香醋高盐高糖，还添加了色素。
+
 2，东湖山西陈醋 （6-15 美元）
 
 可用 四僧侣醋 （Four Monks California Malt Vinegar）或者其他英式风格的醋替代。
