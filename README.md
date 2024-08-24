@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-08-20; Total 193 articles._
+_Last updated on 2024-08-24; Total 194 articles._
 
 ## 2024
 
-_19 articles_
+_20 articles_
+
+- [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-24_
 
 - [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-08-20_
 
@@ -14,9 +16,9 @@ _19 articles_
 
 - [How French Drains Work — Practical Engineering](./Saved_Reading/How%20French%20Drains%20Work%20—%20Practical%20Engineering.md), _added on 2024-08-11_
 
-- [一个东北小城的微小文艺复兴](./Saved_Reading/一个东北小城的微小文艺复兴.epub), _added on 2024-08-07_
-
 <details><summary>Show more</summary>
+
+- [一个东北小城的微小文艺复兴](./Saved_Reading/一个东北小城的微小文艺复兴.epub), _added on 2024-08-07_
 
 - [Creativity Fundamentally Comes From Memorization](./Saved_Reading/Creativity%20Fundamentally%20Comes%20From%20Memorization.md), _added on 2024-08-01_
 
