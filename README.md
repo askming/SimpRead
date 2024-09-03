@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-09-03; Total 196 articles._
+_Last updated on 2024-09-03; Total 197 articles._
 
 ## 2024
 
-_22 articles_
+_23 articles_
+
+- [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
 
 - [Sleep on it: How the brain processes many experiences — even when ‘offline’ | YaleNews](./Saved_Reading/Sleep%20on%20it:%20How%20the%20brain%20processes%20many%20experiences%20—%20even%20when%20‘offline’%20|%20YaleNews.md), _added on 2024-09-03_
 
@@ -14,9 +16,9 @@ _22 articles_
 
 - [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-08-20_
 
-- [Increasing Retention without Increasing Study Time](./Saved_Reading/Increasing%20Retention%20without%20Increasing%20Study%20Time.pdf), _added on 2024-08-19_
-
 <details><summary>Show more</summary>
+
+- [Increasing Retention without Increasing Study Time](./Saved_Reading/Increasing%20Retention%20without%20Increasing%20Study%20Time.pdf), _added on 2024-08-19_
 
 - [The value of availability - by David Hoang](./Saved_Reading/The%20value%20of%20availability%20-%20by%20David%20Hoang.md), _added on 2024-08-19_
 
