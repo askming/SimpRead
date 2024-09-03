@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-09-03; Total 197 articles._
+_Last updated on 2024-09-03; Total 198 articles._
 
 ## 2024
 
-_23 articles_
+_24 articles_
+
+- [Meat consumption and incident type 2 diabetes: an individual-participant federated meta-analysis of 1·97 million adults with 100 000 incident cases from 31 cohorts in 20 countries - The Lancet Diabetes & Endocrinology](./Saved_Reading/Meat%20consumption%20and%20incident%20type%202%20diabetes:%20an%20individual-participant%20federated%20meta-analysis%20of%201·97%20million%20adults%20with%20100 000%20incident%20cases%20from%2031%20cohorts%20in%2020%20countries%20-%20The%20Lancet%20Diabetes%20&%20Endocrinology.md), _added on 2024-09-03_
 
 - [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
 
@@ -14,9 +16,9 @@ _23 articles_
 
 - [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-24_
 
-- [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-08-20_
-
 <details><summary>Show more</summary>
+
+- [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-08-20_
 
 - [Increasing Retention without Increasing Study Time](./Saved_Reading/Increasing%20Retention%20without%20Increasing%20Study%20Time.pdf), _added on 2024-08-19_
 
