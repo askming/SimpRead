@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-09-08; Total 199 articles._
+_Last updated on 2024-09-08; Total 200 articles._
 
 ## 2024
 
-_25 articles_
+_26 articles_
+
+- [我们到底需要什么样的厕所？](./Saved_Reading/我们到底需要什么样的厕所？.md), _added on 2024-09-08_
 
 - [校友佳作：华为十年 - 中国科学技术大学新创校友基金会](./Saved_Reading/校友佳作：华为十年%20-%20中国科学技术大学新创校友基金会.md), _added on 2024-09-08_
 
@@ -14,9 +16,9 @@ _25 articles_
 
 - [Sleep on it: How the brain processes many experiences — even when ‘offline’ | YaleNews](./Saved_Reading/Sleep%20on%20it:%20How%20the%20brain%20processes%20many%20experiences%20—%20even%20when%20‘offline’%20|%20YaleNews.md), _added on 2024-09-03_
 
-- [🙏少读点书，多刷刷抖音吧 – 虹线](./Saved_Reading/🙏少读点书，多刷刷抖音吧%20–%20虹线.md), _added on 2024-09-03_
-
 <details><summary>Show more</summary>
+
+- [🙏少读点书，多刷刷抖音吧 – 虹线](./Saved_Reading/🙏少读点书，多刷刷抖音吧%20–%20虹线.md), _added on 2024-09-03_
 
 - [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-24_
 
