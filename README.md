@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-09-23; Total 201 articles._
+_Last updated on 2024-10-01; Total 202 articles._
 
 ## 2024
 
-_27 articles_
+_28 articles_
+
+- [The Elite's War on Remote Work Has Nothing to Do with Productivity](./Saved_Reading/The%20Elite's%20War%20on%20Remote%20Work%20Has%20Nothing%20to%20Do%20with%20Productivity.md), _added on 2024-10-01_
 
 - [为什么 中文 不 需要 空格](./Saved_Reading/为什么%20中文%20不%20需要%20空格.md), _added on 2024-09-23_
 
@@ -14,9 +16,9 @@ _27 articles_
 
 - [Meat consumption and incident type 2 diabetes: an individual-participant federated meta-analysis of 1·97 million adults with 100 000 incident cases from 31 cohorts in 20 countries - The Lancet Diabetes & Endocrinology](./Saved_Reading/Meat%20consumption%20and%20incident%20type%202%20diabetes:%20an%20individual-participant%20federated%20meta-analysis%20of%201·97%20million%20adults%20with%20100 000%20incident%20cases%20from%2031%20cohorts%20in%2020%20countries%20-%20The%20Lancet%20Diabetes%20&%20Endocrinology.md), _added on 2024-09-03_
 
-- [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
-
 <details><summary>Show more</summary>
+
+- [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
 
 - [Sleep on it: How the brain processes many experiences — even when ‘offline’ | YaleNews](./Saved_Reading/Sleep%20on%20it:%20How%20the%20brain%20processes%20many%20experiences%20—%20even%20when%20‘offline’%20|%20YaleNews.md), _added on 2024-09-03_
 
