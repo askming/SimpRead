@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-10-02; Total 204 articles._
+_Last updated on 2024-10-02; Total 205 articles._
 
 ## 2024
 
-_30 articles_
+_31 articles_
+
+- [I am tired of AI | On Test Automation](./Saved_Reading/I%20am%20tired%20of%20AI%20|%20On%20Test%20Automation.md), _added on 2024-10-02_
 
 - [“极端的民族主义，一定是与世界为敌。”](./Saved_Reading/“极端的民族主义，一定是与世界为敌。”.md), _added on 2024-10-02_
 
@@ -14,9 +16,9 @@ _30 articles_
 
 - [为什么 中文 不 需要 空格](./Saved_Reading/为什么%20中文%20不%20需要%20空格.md), _added on 2024-09-23_
 
-- [我们到底需要什么样的厕所？](./Saved_Reading/我们到底需要什么样的厕所？.md), _added on 2024-09-08_
-
 <details><summary>Show more</summary>
+
+- [我们到底需要什么样的厕所？](./Saved_Reading/我们到底需要什么样的厕所？.md), _added on 2024-09-08_
 
 - [校友佳作：华为十年 - 中国科学技术大学新创校友基金会](./Saved_Reading/校友佳作：华为十年%20-%20中国科学技术大学新创校友基金会.md), _added on 2024-09-08_
 
