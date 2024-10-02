@@ -1,10 +1,14 @@
 # Saved readings
 
-_Last updated on 2024-10-01; Total 202 articles._
+_Last updated on 2024-10-02; Total 204 articles._
 
 ## 2024
 
-_28 articles_
+_30 articles_
+
+- [“极端的民族主义，一定是与世界为敌。”](./Saved_Reading/“极端的民族主义，一定是与世界为敌。”.md), _added on 2024-10-02_
+
+- [How 12,000 Tonnes of Dumped Orange Peel Grew Into a Landscape Nobody Expected to Find : ScienceAlert](./Saved_Reading/How%2012,000%20Tonnes%20of%20Dumped%20Orange%20Peel%20Grew%20Into%20a%20Landscape%20Nobody%20Expected%20to%20Find%20:%20ScienceAlert.md), _added on 2024-10-01_
 
 - [The Elite's War on Remote Work Has Nothing to Do with Productivity](./Saved_Reading/The%20Elite's%20War%20on%20Remote%20Work%20Has%20Nothing%20to%20Do%20with%20Productivity.md), _added on 2024-10-01_
 
@@ -12,11 +16,11 @@ _28 articles_
 
 - [我们到底需要什么样的厕所？](./Saved_Reading/我们到底需要什么样的厕所？.md), _added on 2024-09-08_
 
+<details><summary>Show more</summary>
+
 - [校友佳作：华为十年 - 中国科学技术大学新创校友基金会](./Saved_Reading/校友佳作：华为十年%20-%20中国科学技术大学新创校友基金会.md), _added on 2024-09-08_
 
 - [Meat consumption and incident type 2 diabetes: an individual-participant federated meta-analysis of 1·97 million adults with 100 000 incident cases from 31 cohorts in 20 countries - The Lancet Diabetes & Endocrinology](./Saved_Reading/Meat%20consumption%20and%20incident%20type%202%20diabetes:%20an%20individual-participant%20federated%20meta-analysis%20of%201·97%20million%20adults%20with%20100 000%20incident%20cases%20from%2031%20cohorts%20in%2020%20countries%20-%20The%20Lancet%20Diabetes%20&%20Endocrinology.md), _added on 2024-09-03_
-
-<details><summary>Show more</summary>
 
 - [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
 
