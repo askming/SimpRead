@@ -1,22 +1,28 @@
 # Saved readings
 
-_Last updated on 2024-10-02; Total 205 articles._
+_Last updated on 2024-10-08; Total 208 articles._
 
 ## 2024
 
-_31 articles_
+_34 articles_
+
+- [What Excessive Screen Time Does to the Adult Brain | Cognitive Enhancement](./Saved_Reading/What%20Excessive%20Screen%20Time%20Does%20to%20the%20Adult%20Brain%20|%20Cognitive%20Enhancement.md), _added on 2024-10-07_
+
+- [REVIEW: Math from Three to Seven, by Alexander Zvonkin](./Saved_Reading/REVIEW:%20Math%20from%20Three%20to%20Seven,%20by%20Alexander%20Zvonkin.md), _added on 2024-10-07_
+
+- [Getting my daily news from a dot matrix printer - Andrew Schmelyun](./Saved_Reading/Getting%20my%20daily%20news%20from%20a%20dot%20matrix%20printer%20-%20Andrew%20Schmelyun.md), _added on 2024-10-07_
 
 - [I am tired of AI | On Test Automation](./Saved_Reading/I%20am%20tired%20of%20AI%20|%20On%20Test%20Automation.md), _added on 2024-10-02_
 
 - [“极端的民族主义，一定是与世界为敌。”](./Saved_Reading/“极端的民族主义，一定是与世界为敌。”.md), _added on 2024-10-02_
+
+<details><summary>Show more</summary>
 
 - [How 12,000 Tonnes of Dumped Orange Peel Grew Into a Landscape Nobody Expected to Find : ScienceAlert](./Saved_Reading/How%2012,000%20Tonnes%20of%20Dumped%20Orange%20Peel%20Grew%20Into%20a%20Landscape%20Nobody%20Expected%20to%20Find%20:%20ScienceAlert.md), _added on 2024-10-01_
 
 - [The Elite's War on Remote Work Has Nothing to Do with Productivity](./Saved_Reading/The%20Elite's%20War%20on%20Remote%20Work%20Has%20Nothing%20to%20Do%20with%20Productivity.md), _added on 2024-10-01_
 
 - [为什么 中文 不 需要 空格](./Saved_Reading/为什么%20中文%20不%20需要%20空格.md), _added on 2024-09-23_
-
-<details><summary>Show more</summary>
 
 - [我们到底需要什么样的厕所？](./Saved_Reading/我们到底需要什么样的厕所？.md), _added on 2024-09-08_
 
