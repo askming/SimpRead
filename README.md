@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-11-11; Total 210 articles._
+_Last updated on 2024-11-12; Total 211 articles._
 
 ## 2024
 
-_36 articles_
+_37 articles_
+
+- [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
 
 - [Scientists glue two proteins together, driving cancer cells to self-destruct | News Center | Stanford Medicine](./Saved_Reading/Scientists%20glue%20two%20proteins%20together,%20driving%20cancer%20cells%20to%20self-destruct%20|%20News%20Center%20|%20Stanford%20Medicine.md), _added on 2024-11-11_
 
@@ -14,9 +16,9 @@ _36 articles_
 
 - [REVIEW: Math from Three to Seven, by Alexander Zvonkin](./Saved_Reading/REVIEW:%20Math%20from%20Three%20to%20Seven,%20by%20Alexander%20Zvonkin.md), _added on 2024-10-07_
 
-- [Getting my daily news from a dot matrix printer - Andrew Schmelyun](./Saved_Reading/Getting%20my%20daily%20news%20from%20a%20dot%20matrix%20printer%20-%20Andrew%20Schmelyun.md), _added on 2024-10-07_
-
 <details><summary>Show more</summary>
+
+- [Getting my daily news from a dot matrix printer - Andrew Schmelyun](./Saved_Reading/Getting%20my%20daily%20news%20from%20a%20dot%20matrix%20printer%20-%20Andrew%20Schmelyun.md), _added on 2024-10-07_
 
 - [I am tired of AI | On Test Automation](./Saved_Reading/I%20am%20tired%20of%20AI%20|%20On%20Test%20Automation.md), _added on 2024-10-02_
 
