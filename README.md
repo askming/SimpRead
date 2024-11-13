@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-11-12; Total 211 articles._
+_Last updated on 2024-11-13; Total 212 articles._
 
 ## 2024
 
-_37 articles_
+_38 articles_
+
+- [在考研考公之前，一群二本师生决定书写个人史 | 谷雨](./Saved_Reading/在考研考公之前，一群二本师生决定书写个人史%20|%20谷雨.md), _added on 2024-11-13_
 
 - [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
 
@@ -14,9 +16,9 @@ _37 articles_
 
 - [What Excessive Screen Time Does to the Adult Brain | Cognitive Enhancement](./Saved_Reading/What%20Excessive%20Screen%20Time%20Does%20to%20the%20Adult%20Brain%20|%20Cognitive%20Enhancement.md), _added on 2024-10-07_
 
-- [REVIEW: Math from Three to Seven, by Alexander Zvonkin](./Saved_Reading/REVIEW:%20Math%20from%20Three%20to%20Seven,%20by%20Alexander%20Zvonkin.md), _added on 2024-10-07_
-
 <details><summary>Show more</summary>
+
+- [REVIEW: Math from Three to Seven, by Alexander Zvonkin](./Saved_Reading/REVIEW:%20Math%20from%20Three%20to%20Seven,%20by%20Alexander%20Zvonkin.md), _added on 2024-10-07_
 
 - [Getting my daily news from a dot matrix printer - Andrew Schmelyun](./Saved_Reading/Getting%20my%20daily%20news%20from%20a%20dot%20matrix%20printer%20-%20Andrew%20Schmelyun.md), _added on 2024-10-07_
 
