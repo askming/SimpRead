@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-11-13; Total 212 articles._
+_Last updated on 2024-11-13; Total 213 articles._
 
 ## 2024
 
-_38 articles_
+_39 articles_
+
+- [The exciting research that may cure Parkinson’s  - Freethink](./Saved_Reading/The%20exciting%20research%20that%20may%20cure%20Parkinson’s %20-%20Freethink.md), _added on 2024-11-13_
 
 - [在考研考公之前，一群二本师生决定书写个人史 | 谷雨](./Saved_Reading/在考研考公之前，一群二本师生决定书写个人史%20|%20谷雨.md), _added on 2024-11-13_
 
@@ -14,9 +16,9 @@ _38 articles_
 
 - [如何用 4 到 6 个月从零基础自学过 N2](./Saved_Reading/如何用%204%20到%206%20个月从零基础自学过%20N2.md), _added on 2024-10-18_
 
-- [What Excessive Screen Time Does to the Adult Brain | Cognitive Enhancement](./Saved_Reading/What%20Excessive%20Screen%20Time%20Does%20to%20the%20Adult%20Brain%20|%20Cognitive%20Enhancement.md), _added on 2024-10-07_
-
 <details><summary>Show more</summary>
+
+- [What Excessive Screen Time Does to the Adult Brain | Cognitive Enhancement](./Saved_Reading/What%20Excessive%20Screen%20Time%20Does%20to%20the%20Adult%20Brain%20|%20Cognitive%20Enhancement.md), _added on 2024-10-07_
 
 - [REVIEW: Math from Three to Seven, by Alexander Zvonkin](./Saved_Reading/REVIEW:%20Math%20from%20Three%20to%20Seven,%20by%20Alexander%20Zvonkin.md), _added on 2024-10-07_
 
