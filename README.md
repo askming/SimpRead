@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-11-13; Total 213 articles._
+_Last updated on 2024-11-15; Total 214 articles._
 
 ## 2024
 
-_39 articles_
+_40 articles_
+
+- [Too Much Dentistry | Dental Medicine | JAMA Internal Medicine | JAMA Network](./Saved_Reading/Too%20Much%20Dentistry%20|%20Dental%20Medicine%20|%20JAMA%20Internal%20Medicine%20|%20JAMA%20Network.md), _added on 2024-11-15_
 
 - [The exciting research that may cure Parkinson’s  - Freethink](./Saved_Reading/The%20exciting%20research%20that%20may%20cure%20Parkinson’s %20-%20Freethink.md), _added on 2024-11-13_
 
@@ -14,9 +16,9 @@ _39 articles_
 
 - [Scientists glue two proteins together, driving cancer cells to self-destruct | News Center | Stanford Medicine](./Saved_Reading/Scientists%20glue%20two%20proteins%20together,%20driving%20cancer%20cells%20to%20self-destruct%20|%20News%20Center%20|%20Stanford%20Medicine.md), _added on 2024-11-11_
 
-- [如何用 4 到 6 个月从零基础自学过 N2](./Saved_Reading/如何用%204%20到%206%20个月从零基础自学过%20N2.md), _added on 2024-10-18_
-
 <details><summary>Show more</summary>
+
+- [如何用 4 到 6 个月从零基础自学过 N2](./Saved_Reading/如何用%204%20到%206%20个月从零基础自学过%20N2.md), _added on 2024-10-18_
 
 - [What Excessive Screen Time Does to the Adult Brain | Cognitive Enhancement](./Saved_Reading/What%20Excessive%20Screen%20Time%20Does%20to%20the%20Adult%20Brain%20|%20Cognitive%20Enhancement.md), _added on 2024-10-07_
 
