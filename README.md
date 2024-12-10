@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-11-15; Total 214 articles._
+_Last updated on 2024-12-10; Total 215 articles._
 
 ## 2024
 
-_40 articles_
+_41 articles_
+
+- [A career ending mistake — Bitfield Consulting](./Saved_Reading/A%20career%20ending%20mistake%20—%20Bitfield%20Consulting.md), _added on 2024-12-10_
 
 - [Too Much Dentistry | Dental Medicine | JAMA Internal Medicine | JAMA Network](./Saved_Reading/Too%20Much%20Dentistry%20|%20Dental%20Medicine%20|%20JAMA%20Internal%20Medicine%20|%20JAMA%20Network.md), _added on 2024-11-15_
 
@@ -14,9 +16,9 @@ _40 articles_
 
 - [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
 
-- [Scientists glue two proteins together, driving cancer cells to self-destruct | News Center | Stanford Medicine](./Saved_Reading/Scientists%20glue%20two%20proteins%20together,%20driving%20cancer%20cells%20to%20self-destruct%20|%20News%20Center%20|%20Stanford%20Medicine.md), _added on 2024-11-11_
-
 <details><summary>Show more</summary>
+
+- [Scientists glue two proteins together, driving cancer cells to self-destruct | News Center | Stanford Medicine](./Saved_Reading/Scientists%20glue%20two%20proteins%20together,%20driving%20cancer%20cells%20to%20self-destruct%20|%20News%20Center%20|%20Stanford%20Medicine.md), _added on 2024-11-11_
 
 - [如何用 4 到 6 个月从零基础自学过 N2](./Saved_Reading/如何用%204%20到%206%20个月从零基础自学过%20N2.md), _added on 2024-10-18_
 
