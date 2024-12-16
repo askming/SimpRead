@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-12-10; Total 215 articles._
+_Last updated on 2024-12-16; Total 216 articles._
 
 ## 2024
 
-_41 articles_
+_42 articles_
+
+- [The Age 30 Crisis and Seasons of a Man's Life](./Saved_Reading/The%20Age%2030%20Crisis%20and%20Seasons%20of%20a%20Man's%20Life.md), _added on 2024-12-16_
 
 - [A career ending mistake — Bitfield Consulting](./Saved_Reading/A%20career%20ending%20mistake%20—%20Bitfield%20Consulting.md), _added on 2024-12-10_
 
@@ -14,9 +16,9 @@ _41 articles_
 
 - [在考研考公之前，一群二本师生决定书写个人史 | 谷雨](./Saved_Reading/在考研考公之前，一群二本师生决定书写个人史%20|%20谷雨.md), _added on 2024-11-13_
 
-- [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
-
 <details><summary>Show more</summary>
+
+- [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
 
 - [Scientists glue two proteins together, driving cancer cells to self-destruct | News Center | Stanford Medicine](./Saved_Reading/Scientists%20glue%20two%20proteins%20together,%20driving%20cancer%20cells%20to%20self-destruct%20|%20News%20Center%20|%20Stanford%20Medicine.md), _added on 2024-11-11_
 
