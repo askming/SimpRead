@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2024-12-16; Total 216 articles._
+_Last updated on 2024-12-23; Total 217 articles._
 
 ## 2024
 
-_42 articles_
+_43 articles_
+
+- [Always Go To The Funeral : NPR](./Saved_Reading/Always%20Go%20To%20The%20Funeral%20:%20NPR.md), _added on 2024-12-23_
 
 - [The Age 30 Crisis and Seasons of a Man's Life](./Saved_Reading/The%20Age%2030%20Crisis%20and%20Seasons%20of%20a%20Man's%20Life.md), _added on 2024-12-16_
 
@@ -14,9 +16,9 @@ _42 articles_
 
 - [The exciting research that may cure Parkinson’s  - Freethink](./Saved_Reading/The%20exciting%20research%20that%20may%20cure%20Parkinson’s %20-%20Freethink.md), _added on 2024-11-13_
 
-- [在考研考公之前，一群二本师生决定书写个人史 | 谷雨](./Saved_Reading/在考研考公之前，一群二本师生决定书写个人史%20|%20谷雨.md), _added on 2024-11-13_
-
 <details><summary>Show more</summary>
+
+- [在考研考公之前，一群二本师生决定书写个人史 | 谷雨](./Saved_Reading/在考研考公之前，一群二本师生决定书写个人史%20|%20谷雨.md), _added on 2024-11-13_
 
 - [Routine dental X-rays are not backed by evidence—experts want it to stop - Ars Technica](./Saved_Reading/Routine%20dental%20X-rays%20are%20not%20backed%20by%20evidence—experts%20want%20it%20to%20stop%20-%20Ars%20Technica.md), _added on 2024-11-12_
 
