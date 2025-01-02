@@ -1,6 +1,14 @@
 # Saved readings
 
-_Last updated on 2024-12-24; Total 218 articles._
+_Last updated on 2025-01-02; Total 219 articles._
+
+## 2025
+
+_1 articles_
+
+- [Our muscles will atrophy as we climb the Kardashev Scale | Onur Solmaz blog](./Saved_Reading/Our%20muscles%20will%20atrophy%20as%20we%20climb%20the%20Kardashev%20Scale%20|%20Onur%20Solmaz%20blog.md), _added on 2025-01-02_
+
+</details>
 
 ## 2024
 
