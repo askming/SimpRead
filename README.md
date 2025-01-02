@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-01-02; Total 219 articles._
+_Last updated on 2025-01-02; Total 220 articles._
 
 ## 2025
 
-_1 articles_
+_2 articles_
+
+- [Stop Protecting Your Old Self (The Real Root of Procrastination)](./Saved_Reading/Stop%20Protecting%20Your%20Old%20Self%20(The%20Real%20Root%20of%20Procrastination).md), _added on 2025-01-02_
 
 - [Our muscles will atrophy as we climb the Kardashev Scale | Onur Solmaz blog](./Saved_Reading/Our%20muscles%20will%20atrophy%20as%20we%20climb%20the%20Kardashev%20Scale%20|%20Onur%20Solmaz%20blog.md), _added on 2025-01-02_
 
