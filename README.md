@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-01-02; Total 220 articles._
+_Last updated on 2025-01-07; Total 221 articles._
 
 ## 2025
 
-_2 articles_
+_3 articles_
+
+- [The unbearable slowness of being-Why do we live at 10 bits:s?](./Saved_Reading/The%20unbearable%20slowness%20of%20being-Why%20do%20we%20live%20at%2010%20bits:s?.pdf), _added on 2025-01-07_
 
 - [Stop Protecting Your Old Self (The Real Root of Procrastination)](./Saved_Reading/Stop%20Protecting%20Your%20Old%20Self%20(The%20Real%20Root%20of%20Procrastination).md), _added on 2025-01-02_
 
