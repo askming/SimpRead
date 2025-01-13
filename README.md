@@ -1,6 +1,6 @@
 # Saved readings
 
-_Last updated on 2025-01-07; Total 221 articles._
+_Last updated on 2025-01-13; Total 221 articles._
 
 ## 2025
 
