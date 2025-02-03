@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-01-25; Total 224 articles._
+_Last updated on 2025-02-03; Total 225 articles._
 
 ## 2025
 
-_6 articles_
+_7 articles_
+
+- [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-03_
 
 - [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-25_
 
@@ -14,9 +16,9 @@ _6 articles_
 
 - [The unbearable slowness of being-Why do we live at 10 bits:s?](./Saved_Reading/The%20unbearable%20slowness%20of%20being-Why%20do%20we%20live%20at%2010%20bits:s?.pdf), _added on 2025-01-07_
 
-- [Stop Protecting Your Old Self (The Real Root of Procrastination)](./Saved_Reading/Stop%20Protecting%20Your%20Old%20Self%20(The%20Real%20Root%20of%20Procrastination).md), _added on 2025-01-02_
-
 <details><summary>Show more</summary>
+
+- [Stop Protecting Your Old Self (The Real Root of Procrastination)](./Saved_Reading/Stop%20Protecting%20Your%20Old%20Self%20(The%20Real%20Root%20of%20Procrastination).md), _added on 2025-01-02_
 
 - [Our muscles will atrophy as we climb the Kardashev Scale | Onur Solmaz blog](./Saved_Reading/Our%20muscles%20will%20atrophy%20as%20we%20climb%20the%20Kardashev%20Scale%20|%20Onur%20Solmaz%20blog.md), _added on 2025-01-02_
 
