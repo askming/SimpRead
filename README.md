@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-09; Total 227 articles._
+_Last updated on 2025-02-09; Total 228 articles._
 
 ## 2025
 
-_9 articles_
+_10 articles_
+
+- [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
 
 - [Everyone knows your location](./Saved_Reading/Everyone%20knows%20your%20location.md), _added on 2025-02-09_
 
@@ -14,9 +16,9 @@ _9 articles_
 
 - [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-25_
 
-- [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-23_
-
 <details><summary>Show more</summary>
+
+- [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-23_
 
 - [Why probability probably doesn’t exist](./Saved_Reading/Why%20probability%20probably%20doesn’t%20exist.md), _added on 2025-01-23_
 
