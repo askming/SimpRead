@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-08; Total 226 articles._
+_Last updated on 2025-02-09; Total 227 articles._
 
 ## 2025
 
-_8 articles_
+_9 articles_
+
+- [Everyone knows your location](./Saved_Reading/Everyone%20knows%20your%20location.md), _added on 2025-02-09_
 
 - [这些益生菌实际上可能会损害你的 “肠道健康” – Telegraph](./Saved_Reading/这些益生菌实际上可能会损害你的%20“肠道健康”%20–%20Telegraph.md), _added on 2025-02-08_
 
@@ -14,9 +16,9 @@ _8 articles_
 
 - [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-23_
 
-- [Why probability probably doesn’t exist](./Saved_Reading/Why%20probability%20probably%20doesn’t%20exist.md), _added on 2025-01-23_
-
 <details><summary>Show more</summary>
+
+- [Why probability probably doesn’t exist](./Saved_Reading/Why%20probability%20probably%20doesn’t%20exist.md), _added on 2025-01-23_
 
 - [The unbearable slowness of being-Why do we live at 10 bits:s?](./Saved_Reading/The%20unbearable%20slowness%20of%20being-Why%20do%20we%20live%20at%2010%20bits:s?.pdf), _added on 2025-01-07_
 
