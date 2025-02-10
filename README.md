@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-10; Total 229 articles._
+_Last updated on 2025-02-10; Total 230 articles._
 
 ## 2025
 
-_11 articles_
+_12 articles_
+
+- [揭开 Spotify 的惊天黑幕](./Saved_Reading/揭开%20Spotify%20的惊天黑幕.md), _added on 2025-02-10_
 
 - [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
 
@@ -14,9 +16,9 @@ _11 articles_
 
 - [这些益生菌实际上可能会损害你的 “肠道健康” – Telegraph](./Saved_Reading/这些益生菌实际上可能会损害你的%20“肠道健康”%20–%20Telegraph.md), _added on 2025-02-08_
 
-- [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-03_
-
 <details><summary>Show more</summary>
+
+- [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-03_
 
 - [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-25_
 
