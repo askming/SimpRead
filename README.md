@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-09; Total 228 articles._
+_Last updated on 2025-02-10; Total 229 articles._
 
 ## 2025
 
-_10 articles_
+_11 articles_
+
+- [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
 
 - [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
 
@@ -14,9 +16,9 @@ _10 articles_
 
 - [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-03_
 
-- [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-25_
-
 <details><summary>Show more</summary>
+
+- [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-25_
 
 - [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-23_
 
