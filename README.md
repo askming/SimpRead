@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-12; Total 231 articles._
+_Last updated on 2025-02-22; Total 232 articles._
 
 ## 2025
 
-_13 articles_
+_14 articles_
+
+- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-22_
 
 - [Federal Funds Rate History: 1980 Through The Present | Bankrate](./Saved_Reading/Federal%20Funds%20Rate%20History:%201980%20Through%20The%20Present%20|%20Bankrate.md), _added on 2025-02-12_
 
@@ -14,9 +16,9 @@ _13 articles_
 
 - [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
 
-- [Everyone knows your location](./Saved_Reading/Everyone%20knows%20your%20location.md), _added on 2025-02-09_
-
 <details><summary>Show more</summary>
+
+- [Everyone knows your location](./Saved_Reading/Everyone%20knows%20your%20location.md), _added on 2025-02-09_
 
 - [这些益生菌实际上可能会损害你的 “肠道健康” – Telegraph](./Saved_Reading/这些益生菌实际上可能会损害你的%20“肠道健康”%20–%20Telegraph.md), _added on 2025-02-08_
 
