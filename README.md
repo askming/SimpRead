@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-22; Total 232 articles._
+_Last updated on 2025-02-23; Total 233 articles._
 
 ## 2025
 
-_14 articles_
+_15 articles_
+
+- [Bacteria (and Their Metabolites) and Depression  | Science | AAAS](./Saved_Reading/Bacteria%20(and%20Their%20Metabolites)%20and%20Depression%20%20|%20Science%20|%20AAAS.md), _added on 2025-02-23_
 
 - [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-22_
 
@@ -14,9 +16,9 @@ _14 articles_
 
 - [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
 
-- [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
-
 <details><summary>Show more</summary>
+
+- [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
 
 - [Everyone knows your location](./Saved_Reading/Everyone%20knows%20your%20location.md), _added on 2025-02-09_
 
