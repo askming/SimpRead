@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-23; Total 233 articles._
+_Last updated on 2025-02-23; Total 234 articles._
 
 ## 2025
 
-_15 articles_
+_16 articles_
+
+- [Advice for a friend who wants to start a blog](./Saved_Reading/Advice%20for%20a%20friend%20who%20wants%20to%20start%20a%20blog.md), _added on 2025-02-23_
 
 - [Bacteria (and Their Metabolites) and Depression  | Science | AAAS](./Saved_Reading/Bacteria%20(and%20Their%20Metabolites)%20and%20Depression%20%20|%20Science%20|%20AAAS.md), _added on 2025-02-23_
 
@@ -14,9 +16,9 @@ _15 articles_
 
 - [揭开 Spotify 的惊天黑幕](./Saved_Reading/揭开%20Spotify%20的惊天黑幕.md), _added on 2025-02-10_
 
-- [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
-
 <details><summary>Show more</summary>
+
+- [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
 
 - [东京唐人街：中国人的东京折叠](./Saved_Reading/东京唐人街：中国人的东京折叠.md), _added on 2025-02-09_
 
