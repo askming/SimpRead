@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-02-23; Total 234 articles._
+_Last updated on 2025-02-23; Total 235 articles._
 
 ## 2025
 
-_16 articles_
+_17 articles_
+
+- [Ear muscle we thought humans didn’t use — except for wiggling our ears — actually activates when people listen hard](./Saved_Reading/Ear%20muscle%20we%20thought%20humans%20didn’t%20use%20—%20except%20for%20wiggling%20our%20ears%20—%20actually%20activates%20when%20people%20listen%20hard.md), _added on 2025-02-23_
 
 - [Advice for a friend who wants to start a blog](./Saved_Reading/Advice%20for%20a%20friend%20who%20wants%20to%20start%20a%20blog.md), _added on 2025-02-23_
 
@@ -14,9 +16,9 @@ _16 articles_
 
 - [Federal Funds Rate History: 1980 Through The Present | Bankrate](./Saved_Reading/Federal%20Funds%20Rate%20History:%201980%20Through%20The%20Present%20|%20Bankrate.md), _added on 2025-02-12_
 
-- [揭开 Spotify 的惊天黑幕](./Saved_Reading/揭开%20Spotify%20的惊天黑幕.md), _added on 2025-02-10_
-
 <details><summary>Show more</summary>
+
+- [揭开 Spotify 的惊天黑幕](./Saved_Reading/揭开%20Spotify%20的惊天黑幕.md), _added on 2025-02-10_
 
 - [The Trouble with Elon](./Saved_Reading/The%20Trouble%20with%20Elon.md), _added on 2025-02-10_
 
