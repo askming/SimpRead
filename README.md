@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-03-02; Total 236 articles._
+_Last updated on 2025-03-03; Total 237 articles._
 
 ## 2025
 
-_18 articles_
+_19 articles_
+
+- [Daily journaling: How to start and be consistent at it | Vox](./Saved_Reading/Daily%20journaling:%20How%20to%20start%20and%20be%20consistent%20at%20it%20|%20Vox.md), _added on 2025-03-03_
 
 - [“费曼学习法” 是一个很新的骗局](./Saved_Reading/“费曼学习法”%20是一个很新的骗局.md), _added on 2025-03-02_
 
@@ -14,9 +16,9 @@ _18 articles_
 
 - [Bacteria (and Their Metabolites) and Depression  | Science | AAAS](./Saved_Reading/Bacteria%20(and%20Their%20Metabolites)%20and%20Depression%20%20|%20Science%20|%20AAAS.md), _added on 2025-02-23_
 
-- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-22_
-
 <details><summary>Show more</summary>
+
+- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-22_
 
 - [Federal Funds Rate History: 1980 Through The Present | Bankrate](./Saved_Reading/Federal%20Funds%20Rate%20History:%201980%20Through%20The%20Present%20|%20Bankrate.md), _added on 2025-02-12_
 
