@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-03-23; Total 243 articles._
+_Last updated on 2025-03-30; Total 244 articles._
 
 ## 2025
 
-_25 articles_
+_26 articles_
+
+- [技术人员的发展之路](./Saved_Reading/技术人员的发展之路.md), _added on 2025-03-30_
 
 - [最近网上流行的 “馕言文” 是啥？怎么假装很在行的样子？](./Saved_Reading/最近网上流行的%20“馕言文”%20是啥？怎么假装很在行的样子？.md), _added on 2025-03-23_
 
@@ -14,9 +16,9 @@ _25 articles_
 
 - [Age and cognitive skills: Use it or lose it | Science Advances](./Saved_Reading/Age%20and%20cognitive%20skills:%20Use%20it%20or%20lose%20it%20|%20Science%20Advances.md), _added on 2025-03-10_
 
-- [马斯克经济版图现裂痕](./Saved_Reading/马斯克经济版图现裂痕.md), _added on 2025-03-10_
-
 <details><summary>Show more</summary>
+
+- [马斯克经济版图现裂痕](./Saved_Reading/马斯克经济版图现裂痕.md), _added on 2025-03-10_
 
 - [18F: We are dedicated to the American public and we're not done yet](./Saved_Reading/18F:%20We%20are%20dedicated%20to%20the%20American%20public%20and%20we're%20not%20done%20yet.md), _added on 2025-03-10_
 
