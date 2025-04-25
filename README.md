@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-04-25; Total 246 articles._
+_Last updated on 2025-04-25; Total 247 articles._
 
 ## 2025
 
-_28 articles_
+_29 articles_
+
+- [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-04-25_
 
 - [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
 
@@ -14,9 +16,9 @@ _28 articles_
 
 - [最近网上流行的 “馕言文” 是啥？怎么假装很在行的样子？](./Saved_Reading/最近网上流行的%20“馕言文”%20是啥？怎么假装很在行的样子？.md), _added on 2025-03-23_
 
-- [谁是家里人？——对中国家庭成员界定的调查实验研究](./Saved_Reading/谁是家里人？——对中国家庭成员界定的调查实验研究.md), _added on 2025-03-23_
-
 <details><summary>Show more</summary>
+
+- [谁是家里人？——对中国家庭成员界定的调查实验研究](./Saved_Reading/谁是家里人？——对中国家庭成员界定的调查实验研究.md), _added on 2025-03-23_
 
 - [My Time at MIT](./Saved_Reading/My%20Time%20at%20MIT.md), _added on 2025-03-23_
 
