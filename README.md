@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-05-18; Total 247 articles._
+_Last updated on 2025-06-05; Total 248 articles._
 
 ## 2025
 
-_29 articles_
+_30 articles_
+
+- [如何成为天才 – Sqr5's blog](./Saved_Reading/如何成为天才%20–%20Sqr5's%20blog.md), _added on 2025-06-05_
 
 - [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-04-25_
 
@@ -14,9 +16,9 @@ _29 articles_
 
 - [技术人员的发展之路](./Saved_Reading/技术人员的发展之路.md), _added on 2025-03-30_
 
-- [最近网上流行的 “馕言文” 是啥？怎么假装很在行的样子？](./Saved_Reading/最近网上流行的%20“馕言文”%20是啥？怎么假装很在行的样子？.md), _added on 2025-03-23_
-
 <details><summary>Show more</summary>
+
+- [最近网上流行的 “馕言文” 是啥？怎么假装很在行的样子？](./Saved_Reading/最近网上流行的%20“馕言文”%20是啥？怎么假装很在行的样子？.md), _added on 2025-03-23_
 
 - [谁是家里人？——对中国家庭成员界定的调查实验研究](./Saved_Reading/谁是家里人？——对中国家庭成员界定的调查实验研究.md), _added on 2025-03-23_
 
