@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-09; Total 251 articles._
+_Last updated on 2025-06-09; Total 252 articles._
 
 ## 2025
 
-_33 articles_
+_34 articles_
+
+- [232](./Saved_Reading/232.%20From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
 
 - [10 cities with the most entry-level jobs that pay a living wage](./Saved_Reading/10%20cities%20with%20the%20most%20entry-level%20jobs%20that%20pay%20a%20living%20wage.md), _added on 2025-06-09_
 
@@ -14,9 +16,9 @@ _33 articles_
 
 - [如何成为天才 – Sqr5's blog](./Saved_Reading/如何成为天才%20–%20Sqr5's%20blog.md), _added on 2025-06-05_
 
-- [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-04-25_
-
 <details><summary>Show more</summary>
+
+- [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-04-25_
 
 - [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
 
