@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-09; Total 249 articles._
+_Last updated on 2025-06-09; Total 250 articles._
 
 ## 2025
 
-_31 articles_
+_32 articles_
+
+- [The tax code time bomb fueling mass tech layoffs](./Saved_Reading/The%20tax%20code%20time%20bomb%20fueling%20mass%20tech%20layoffs.md), _added on 2025-06-09_
 
 - [If you are useful, it doesn’t mean you are valued](./Saved_Reading/If%20you%20are%20useful,%20it%20doesn’t%20mean%20you%20are%20valued.md), _added on 2025-06-09_
 
@@ -14,9 +16,9 @@ _31 articles_
 
 - [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
 
-- [人体为何会有致幻开关，大脑的 “茶歇” 被发现了？](./Saved_Reading/人体为何会有致幻开关，大脑的%20“茶歇”%20被发现了？.md), _added on 2025-03-30_
-
 <details><summary>Show more</summary>
+
+- [人体为何会有致幻开关，大脑的 “茶歇” 被发现了？](./Saved_Reading/人体为何会有致幻开关，大脑的%20“茶歇”%20被发现了？.md), _added on 2025-03-30_
 
 - [技术人员的发展之路](./Saved_Reading/技术人员的发展之路.md), _added on 2025-03-30_
 
