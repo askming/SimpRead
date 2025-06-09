@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-05; Total 248 articles._
+_Last updated on 2025-06-09; Total 249 articles._
 
 ## 2025
 
-_30 articles_
+_31 articles_
+
+- [If you are useful, it doesn’t mean you are valued](./Saved_Reading/If%20you%20are%20useful,%20it%20doesn’t%20mean%20you%20are%20valued.md), _added on 2025-06-09_
 
 - [如何成为天才 – Sqr5's blog](./Saved_Reading/如何成为天才%20–%20Sqr5's%20blog.md), _added on 2025-06-05_
 
@@ -14,9 +16,9 @@ _30 articles_
 
 - [人体为何会有致幻开关，大脑的 “茶歇” 被发现了？](./Saved_Reading/人体为何会有致幻开关，大脑的%20“茶歇”%20被发现了？.md), _added on 2025-03-30_
 
-- [技术人员的发展之路](./Saved_Reading/技术人员的发展之路.md), _added on 2025-03-30_
-
 <details><summary>Show more</summary>
+
+- [技术人员的发展之路](./Saved_Reading/技术人员的发展之路.md), _added on 2025-03-30_
 
 - [最近网上流行的 “馕言文” 是啥？怎么假装很在行的样子？](./Saved_Reading/最近网上流行的%20“馕言文”%20是啥？怎么假装很在行的样子？.md), _added on 2025-03-23_
 
