@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-09; Total 250 articles._
+_Last updated on 2025-06-09; Total 251 articles._
 
 ## 2025
 
-_32 articles_
+_33 articles_
+
+- [10 cities with the most entry-level jobs that pay a living wage](./Saved_Reading/10%20cities%20with%20the%20most%20entry-level%20jobs%20that%20pay%20a%20living%20wage.md), _added on 2025-06-09_
 
 - [The tax code time bomb fueling mass tech layoffs](./Saved_Reading/The%20tax%20code%20time%20bomb%20fueling%20mass%20tech%20layoffs.md), _added on 2025-06-09_
 
@@ -14,9 +16,9 @@ _32 articles_
 
 - [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-04-25_
 
-- [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
-
 <details><summary>Show more</summary>
+
+- [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
 
 - [人体为何会有致幻开关，大脑的 “茶歇” 被发现了？](./Saved_Reading/人体为何会有致幻开关，大脑的%20“茶歇”%20被发现了？.md), _added on 2025-03-30_
 
