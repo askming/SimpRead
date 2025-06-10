@@ -1,22 +1,26 @@
 # Saved readings
 
-_Last updated on 2025-06-09; Total 251 articles._
+_Last updated on 2025-06-10; Total 252 articles._
 
 ## 2025
 
-_33 articles_
+_35 articles_
 
-- [AndrewLynch](./Saved_Reading/AndrewLynch.net.md), _added on 2025-06-09_
+- [🙏少读点书，多刷刷抖音吧](./Saved_Reading/🙏少读点书，多刷刷抖音吧.md), _added on 2025-06-10_
+
+- [HumanSystemOptimization: 健康学习到 150 岁 - 人体系统调优不完全指南](./Saved_Reading/HumanSystemOptimization:%20健康学习到%20150%20岁%20-%20人体系统调优不完全指南.md), _added on 2025-06-09_
+
+- [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-06-09_
 
 - [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
 
 - [The tax code time bomb fueling mass tech layoffs](./Saved_Reading/The%20tax%20code%20time%20bomb%20fueling%20mass%20tech%20layoffs.md), _added on 2025-06-09_
 
+<details><summary>Show more</summary>
+
 - [If you are useful, it doesn’t mean you are valued](./Saved_Reading/If%20you%20are%20useful,%20it%20doesn’t%20mean%20you%20are%20valued.md), _added on 2025-06-09_
 
 - [如何成为天才 – Sqr5's blog](./Saved_Reading/如何成为天才%20–%20Sqr5's%20blog.md), _added on 2025-06-05_
-
-<details><summary>Show more</summary>
 
 - [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-25_
 
@@ -78,7 +82,7 @@ _33 articles_
 
 ## 2024
 
-_44 articles_
+_43 articles_
 
 - [Stopping by Woods on a Snowy Evening by Robert Frost - Poems | Academy of American Poets](./Saved_Reading/Stopping%20by%20Woods%20on%20a%20Snowy%20Evening%20by%20Robert%20Frost%20-%20Poems%20|%20Academy%20of%20American%20Poets.md), _added on 2024-12-24_
 
@@ -127,8 +131,6 @@ _44 articles_
 - [Americans’ love affair with big cars is killing them | The Economist](./Saved_Reading/Americans’%20love%20affair%20with%20big%20cars%20is%20killing%20them%20|%20The%20Economist.md), _added on 2024-09-03_
 
 - [Sleep on it: How the brain processes many experiences — even when ‘offline’ | YaleNews](./Saved_Reading/Sleep%20on%20it:%20How%20the%20brain%20processes%20many%20experiences%20—%20even%20when%20‘offline’%20|%20YaleNews.md), _added on 2024-09-03_
-
-- [🙏少读点书，多刷刷抖音吧 – 虹线](./Saved_Reading/🙏少读点书，多刷刷抖音吧%20–%20虹线.md), _added on 2024-09-03_
 
 - [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-24_
 
