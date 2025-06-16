@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-15; Total 253 articles._
+_Last updated on 2025-06-16; Total 254 articles._
 
 ## 2025
 
-_36 articles_
+_37 articles_
+
+- [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
 
 - [The Relationship Is the Job - by Anu Atluru](./Saved_Reading/The%20Relationship%20Is%20the%20Job%20-%20by%20Anu%20Atluru.md), _added on 2025-06-15_
 
@@ -14,9 +16,9 @@ _36 articles_
 
 - [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-06-09_
 
-- [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
-
 <details><summary>Show more</summary>
+
+- [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
 
 - [The tax code time bomb fueling mass tech layoffs](./Saved_Reading/The%20tax%20code%20time%20bomb%20fueling%20mass%20tech%20layoffs.md), _added on 2025-06-09_
 
