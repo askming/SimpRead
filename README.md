@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-06-16; Total 254 articles._
+_Last updated on 2025-06-23; Total 255 articles._
 
 ## 2025
 
-_37 articles_
+_38 articles_
+
+- [Craig Mod on the Creative Power of Walking ‹ Literary  Hub](./Saved_Reading/Craig%20Mod%20on%20the%20Creative%20Power%20of%20Walking%20‹%20Literary%20%20Hub.md), _added on 2025-06-23_
 
 - [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
 
@@ -14,9 +16,9 @@ _37 articles_
 
 - [HumanSystemOptimization: 健康学习到 150 岁 - 人体系统调优不完全指南](./Saved_Reading/HumanSystemOptimization:%20健康学习到%20150%20岁%20-%20人体系统调优不完全指南.md), _added on 2025-06-09_
 
-- [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-06-09_
-
 <details><summary>Show more</summary>
+
+- [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-06-09_
 
 - [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
 
