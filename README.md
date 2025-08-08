@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-08-08; Total 259 articles._
+_Last updated on 2025-08-08; Total 260 articles._
 
 ## 2025
 
-_42 articles_
+_43 articles_
+
+- [How Part-Time Jobs Became a Trap - The Atlantic](./Saved_Reading/How%20Part-Time%20Jobs%20Became%20a%20Trap%20-%20The%20Atlantic.md), _added on 2025-08-08_
 
 - [People use AI more than you think - by Nathan Lambert](./Saved_Reading/People%20use%20AI%20more%20than%20you%20think%20-%20by%20Nathan%20Lambert.md), _added on 2025-08-08_
 
@@ -14,9 +16,9 @@ _42 articles_
 
 - [AI Turned Me Into a Content Agency of One](./Saved_Reading/AI%20Turned%20Me%20Into%20a%20Content%20Agency%20of%20One.md), _added on 2025-08-08_
 
-- [Craig Mod on the Creative Power of Walking ‹ Literary  Hub](./Saved_Reading/Craig%20Mod%20on%20the%20Creative%20Power%20of%20Walking%20‹%20Literary%20%20Hub.md), _added on 2025-06-23_
-
 <details><summary>Show more</summary>
+
+- [Craig Mod on the Creative Power of Walking ‹ Literary  Hub](./Saved_Reading/Craig%20Mod%20on%20the%20Creative%20Power%20of%20Walking%20‹%20Literary%20%20Hub.md), _added on 2025-06-23_
 
 - [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
 
