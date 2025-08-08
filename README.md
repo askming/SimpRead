@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-08-08; Total 257 articles._
+_Last updated on 2025-08-08; Total 258 articles._
 
 ## 2025
 
-_40 articles_
+_41 articles_
+
+- [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
 
 - [Do not download the app, use the website](./Saved_Reading/Do%20not%20download%20the%20app,%20use%20the%20website.md), _added on 2025-08-08_
 
@@ -14,9 +16,9 @@ _40 articles_
 
 - [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
 
-- [The Relationship Is the Job - by Anu Atluru](./Saved_Reading/The%20Relationship%20Is%20the%20Job%20-%20by%20Anu%20Atluru.md), _added on 2025-06-15_
-
 <details><summary>Show more</summary>
+
+- [The Relationship Is the Job - by Anu Atluru](./Saved_Reading/The%20Relationship%20Is%20the%20Job%20-%20by%20Anu%20Atluru.md), _added on 2025-06-15_
 
 - [🙏少读点书，多刷刷抖音吧](./Saved_Reading/🙏少读点书，多刷刷抖音吧.md), _added on 2025-06-10_
 
