@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-08-08; Total 258 articles._
+_Last updated on 2025-08-08; Total 259 articles._
 
 ## 2025
 
-_41 articles_
+_42 articles_
+
+- [People use AI more than you think - by Nathan Lambert](./Saved_Reading/People%20use%20AI%20more%20than%20you%20think%20-%20by%20Nathan%20Lambert.md), _added on 2025-08-08_
 
 - [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
 
@@ -14,9 +16,9 @@ _41 articles_
 
 - [Craig Mod on the Creative Power of Walking ‹ Literary  Hub](./Saved_Reading/Craig%20Mod%20on%20the%20Creative%20Power%20of%20Walking%20‹%20Literary%20%20Hub.md), _added on 2025-06-23_
 
-- [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
-
 <details><summary>Show more</summary>
+
+- [A receipt printer cured my procrastination [ADHD]](./Saved_Reading/A%20receipt%20printer%20cured%20my%20procrastination%20[ADHD].md), _added on 2025-06-16_
 
 - [The Relationship Is the Job - by Anu Atluru](./Saved_Reading/The%20Relationship%20Is%20the%20Job%20-%20by%20Anu%20Atluru.md), _added on 2025-06-15_
 
