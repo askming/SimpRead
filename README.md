@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-08-10; Total 261 articles._
+_Last updated on 2025-08-11; Total 262 articles._
 
 ## 2025
 
-_44 articles_
+_45 articles_
+
+- [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
 
 - [神户，初见便不陌生](./Saved_Reading/神户，初见便不陌生.md), _added on 2025-08-10_
 
@@ -14,9 +16,9 @@ _44 articles_
 
 - [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
 
-- [Do not download the app, use the website](./Saved_Reading/Do%20not%20download%20the%20app,%20use%20the%20website.md), _added on 2025-08-08_
-
 <details><summary>Show more</summary>
+
+- [Do not download the app, use the website](./Saved_Reading/Do%20not%20download%20the%20app,%20use%20the%20website.md), _added on 2025-08-08_
 
 - [AI Turned Me Into a Content Agency of One](./Saved_Reading/AI%20Turned%20Me%20Into%20a%20Content%20Agency%20of%20One.md), _added on 2025-08-08_
 
