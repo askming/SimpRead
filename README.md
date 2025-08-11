@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-08-11; Total 262 articles._
+_Last updated on 2025-08-11; Total 263 articles._
 
 ## 2025
 
-_45 articles_
+_46 articles_
+
+- [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
 
 - [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
 
@@ -14,9 +16,9 @@ _45 articles_
 
 - [People use AI more than you think - by Nathan Lambert](./Saved_Reading/People%20use%20AI%20more%20than%20you%20think%20-%20by%20Nathan%20Lambert.md), _added on 2025-08-08_
 
-- [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
-
 <details><summary>Show more</summary>
+
+- [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
 
 - [Do not download the app, use the website](./Saved_Reading/Do%20not%20download%20the%20app,%20use%20the%20website.md), _added on 2025-08-08_
 
