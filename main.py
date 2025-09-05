@@ -1,13 +1,14 @@
 import os
 import glob
-from github import Github
+from github import Github, Auth
 import datetime
 import argparse
 
 SOURCE = './Saved_Reading'
 
 def login(token):
-    return Github(token)
+    auth = Auth.Token(token)
+    return Github(auth=auth)
 
 def get_repo(user: Github, repo: str):
     return user.get_repo(repo)
