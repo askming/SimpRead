@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-05; Total 263 articles._
+_Last updated on 2025-09-05; Total 264 articles._
 
 ## 2025
 
-_46 articles_
+_47 articles_
+
+- [Why Did Hollywood Stop Making Comedies](./Saved_Reading/Why%20Did%20Hollywood%20Stop%20Making%20Comedies.md), _added on 2025-09-05_
 
 - [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
 
@@ -14,9 +16,9 @@ _46 articles_
 
 - [How Part-Time Jobs Became a Trap - The Atlantic](./Saved_Reading/How%20Part-Time%20Jobs%20Became%20a%20Trap%20-%20The%20Atlantic.md), _added on 2025-08-08_
 
-- [People use AI more than you think - by Nathan Lambert](./Saved_Reading/People%20use%20AI%20more%20than%20you%20think%20-%20by%20Nathan%20Lambert.md), _added on 2025-08-08_
-
 <details><summary>Show more</summary>
+
+- [People use AI more than you think - by Nathan Lambert](./Saved_Reading/People%20use%20AI%20more%20than%20you%20think%20-%20by%20Nathan%20Lambert.md), _added on 2025-08-08_
 
 - [Start your own Internet Resiliency Club – Bow Shock Systems Consulting](./Saved_Reading/Start%20your%20own%20Internet%20Resiliency%20Club%20–%20Bow%20Shock%20Systems%20Consulting.md), _added on 2025-08-08_
 
