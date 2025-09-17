@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-17; Total 266 articles._
+_Last updated on 2025-09-17; Total 267 articles._
 
 ## 2025
 
-_49 articles_
+_50 articles_
+
+- [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
 
 - [What I learned about productivity this year](./Saved_Reading/What%20I%20learned%20about%20productivity%20this%20year.md), _added on 2025-09-17_
 
@@ -14,9 +16,9 @@ _49 articles_
 
 - [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
 
-- [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
-
 <details><summary>Show more</summary>
+
+- [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
 
 - [神户，初见便不陌生](./Saved_Reading/神户，初见便不陌生.md), _added on 2025-08-10_
 
