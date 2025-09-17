@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-05; Total 265 articles._
+_Last updated on 2025-09-17; Total 266 articles._
 
 ## 2025
 
-_48 articles_
+_49 articles_
+
+- [What I learned about productivity this year](./Saved_Reading/What%20I%20learned%20about%20productivity%20this%20year.md), _added on 2025-09-17_
 
 - [The Who Cares Era | dansinker](./Saved_Reading/The%20Who%20Cares%20Era%20|%20dansinker.com.md), _added on 2025-09-05_
 
@@ -14,9 +16,9 @@ _48 articles_
 
 - [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
 
-- [神户，初见便不陌生](./Saved_Reading/神户，初见便不陌生.md), _added on 2025-08-10_
-
 <details><summary>Show more</summary>
+
+- [神户，初见便不陌生](./Saved_Reading/神户，初见便不陌生.md), _added on 2025-08-10_
 
 - [How Part-Time Jobs Became a Trap - The Atlantic](./Saved_Reading/How%20Part-Time%20Jobs%20Became%20a%20Trap%20-%20The%20Atlantic.md), _added on 2025-08-08_
 
