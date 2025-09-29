@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-17; Total 267 articles._
+_Last updated on 2025-09-29; Total 268 articles._
 
 ## 2025
 
-_50 articles_
+_51 articles_
+
+- [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
 
 - [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
 
@@ -14,9 +16,9 @@ _50 articles_
 
 - [Why Did Hollywood Stop Making Comedies](./Saved_Reading/Why%20Did%20Hollywood%20Stop%20Making%20Comedies.md), _added on 2025-09-05_
 
-- [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
-
 <details><summary>Show more</summary>
+
+- [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
 
 - [Reflections on Palantir](./Saved_Reading/Reflections%20on%20Palantir.md), _added on 2025-08-11_
 
@@ -358,9 +360,9 @@ _101 articles_
 
 - [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
-- [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
-
 - [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
+
+- [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
 
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
@@ -442,37 +444,37 @@ _101 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
 
 - [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
 
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
 - [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
-
-- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
-
-- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
-
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
-
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
-
-- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
-
-- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
-
-- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
-
-- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
 
 - [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
 
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
+
+- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
+
+- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
+
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
+
+- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
+
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
+
+- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+
 - [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
 
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
