@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-29; Total 268 articles._
+_Last updated on 2025-09-29; Total 269 articles._
 
 ## 2025
 
-_51 articles_
+_52 articles_
+
+- [The Quiet Ones - by Nikunj Kothari - Balancing Act](./Saved_Reading/The%20Quiet%20Ones%20-%20by%20Nikunj%20Kothari%20-%20Balancing%20Act.md), _added on 2025-09-29_
 
 - [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
 
@@ -14,9 +16,9 @@ _51 articles_
 
 - [The Who Cares Era | dansinker](./Saved_Reading/The%20Who%20Cares%20Era%20|%20dansinker.com.md), _added on 2025-09-05_
 
-- [Why Did Hollywood Stop Making Comedies](./Saved_Reading/Why%20Did%20Hollywood%20Stop%20Making%20Comedies.md), _added on 2025-09-05_
-
 <details><summary>Show more</summary>
+
+- [Why Did Hollywood Stop Making Comedies](./Saved_Reading/Why%20Did%20Hollywood%20Stop%20Making%20Comedies.md), _added on 2025-09-05_
 
 - [No, AI is not Making Engineers 10x as Productive](./Saved_Reading/No,%20AI%20is%20not%20Making%20Engineers%2010x%20as%20Productive.md), _added on 2025-08-11_
 
