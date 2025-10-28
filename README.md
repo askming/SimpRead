@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-09-30; Total 270 articles._
+_Last updated on 2025-10-28; Total 271 articles._
 
 ## 2025
 
-_53 articles_
+_54 articles_
+
+- [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
 
 - [Nine-Things-I-Learned-in-Ninety-Years](./Saved_Reading/Nine-Things-I-Learned-in-Ninety-Years.pdf), _added on 2025-09-30_
 
@@ -14,9 +16,9 @@ _53 articles_
 
 - [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
 
-- [What I learned about productivity this year](./Saved_Reading/What%20I%20learned%20about%20productivity%20this%20year.md), _added on 2025-09-17_
-
 <details><summary>Show more</summary>
+
+- [What I learned about productivity this year](./Saved_Reading/What%20I%20learned%20about%20productivity%20this%20year.md), _added on 2025-09-17_
 
 - [The Who Cares Era | dansinker](./Saved_Reading/The%20Who%20Cares%20Era%20|%20dansinker.com.md), _added on 2025-09-05_
 
