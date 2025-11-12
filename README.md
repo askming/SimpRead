@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-10-28; Total 271 articles._
+_Last updated on 2025-11-12; Total 272 articles._
 
 ## 2025
 
-_54 articles_
+_55 articles_
+
+- [How Relationships Feed Your Brain](./Saved_Reading/How%20Relationships%20Feed%20Your%20Brain.epub), _added on 2025-11-12_
 
 - [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
 
@@ -14,9 +16,9 @@ _54 articles_
 
 - [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
 
-- [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
-
 <details><summary>Show more</summary>
+
+- [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
 
 - [What I learned about productivity this year](./Saved_Reading/What%20I%20learned%20about%20productivity%20this%20year.md), _added on 2025-09-17_
 
