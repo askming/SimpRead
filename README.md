@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-11-12; Total 272 articles._
+_Last updated on 2025-11-17; Total 273 articles._
 
 ## 2025
 
-_55 articles_
+_56 articles_
+
+- [北京的秋天走丢了，东北的燕子冻死了](./Saved_Reading/北京的秋天走丢了，东北的燕子冻死了.epub), _added on 2025-11-17_
 
 - [How Relationships Feed Your Brain](./Saved_Reading/How%20Relationships%20Feed%20Your%20Brain.epub), _added on 2025-11-12_
 
@@ -14,9 +16,9 @@ _55 articles_
 
 - [The Quiet Ones - by Nikunj Kothari - Balancing Act](./Saved_Reading/The%20Quiet%20Ones%20-%20by%20Nikunj%20Kothari%20-%20Balancing%20Act.md), _added on 2025-09-29_
 
-- [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
-
 <details><summary>Show more</summary>
+
+- [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
 
 - [America Against China Against America - by Jasmine Sun](./Saved_Reading/America%20Against%20China%20Against%20America%20-%20by%20Jasmine%20Sun.md), _added on 2025-09-17_
 
