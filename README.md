@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-11-17; Total 273 articles._
+_Last updated on 2025-12-07; Total 274 articles._
 
 ## 2025
 
-_56 articles_
+_57 articles_
+
+- [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
 
 - [北京的秋天走丢了，东北的燕子冻死了](./Saved_Reading/北京的秋天走丢了，东北的燕子冻死了.epub), _added on 2025-11-17_
 
@@ -14,9 +16,9 @@ _56 articles_
 
 - [Nine-Things-I-Learned-in-Ninety-Years](./Saved_Reading/Nine-Things-I-Learned-in-Ninety-Years.pdf), _added on 2025-09-30_
 
-- [The Quiet Ones - by Nikunj Kothari - Balancing Act](./Saved_Reading/The%20Quiet%20Ones%20-%20by%20Nikunj%20Kothari%20-%20Balancing%20Act.md), _added on 2025-09-29_
-
 <details><summary>Show more</summary>
+
+- [The Quiet Ones - by Nikunj Kothari - Balancing Act](./Saved_Reading/The%20Quiet%20Ones%20-%20by%20Nikunj%20Kothari%20-%20Balancing%20Act.md), _added on 2025-09-29_
 
 - [苹果的颜色_三联生活周刊](./Saved_Reading/苹果的颜色_三联生活周刊.md), _added on 2025-09-29_
 
