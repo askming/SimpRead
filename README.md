@@ -1,10 +1,14 @@
 # Saved readings
 
-_Last updated on 2025-12-08; Total 276 articles._
+_Last updated on 2025-12-08; Total 278 articles._
 
 ## 2025
 
-_59 articles_
+_61 articles_
+
+- [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-08_
+
+- [why new tech only feels good for a short time popular science](./Saved_Reading/why%20new%20tech%20only%20feels%20good%20for%20a%20short%20time%20popular%20science.md), _added on 2025-12-08_
 
 - [how your brain creates aha moments and why they stick quanta magazine](./Saved_Reading/how%20your%20brain%20creates%20aha%20moments%20and%20why%20they%20stick%20quanta%20magazine.md), _added on 2025-12-08_
 
@@ -12,11 +16,11 @@ _59 articles_
 
 - [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
 
+<details><summary>Show more</summary>
+
 - [北京的秋天走丢了，东北的燕子冻死了](./Saved_Reading/北京的秋天走丢了，东北的燕子冻死了.epub), _added on 2025-11-17_
 
 - [How Relationships Feed Your Brain](./Saved_Reading/How%20Relationships%20Feed%20Your%20Brain.epub), _added on 2025-11-12_
-
-<details><summary>Show more</summary>
 
 - [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
 
