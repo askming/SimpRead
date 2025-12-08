@@ -35,10 +35,9 @@ function generateEPUB(title, html) {
 
 function slugify(s){
   return s.toString().toLowerCase()
-    .replace(/\s+/g,'-')
-    .replace(/[^a-z0-9\-]+/g,'')
-    .replace(/\-+/g,'-')
-    .replace(/^-+|-+$/g,'');
+    .replace(/[^a-z0-9\s]+/g,'')
+    .replace(/\s+/g,' ')
+    .trim();
 }
 
 // Basic HTML -> Markdown converter (handles headings, p, a, strong/em, lists, images)
@@ -175,7 +174,6 @@ async function onSave(){
       return;
     }
     const fmt = document.getElementById('format').value;
-    const pathPrefixInput = document.getElementById('pathPrefix').value.trim();
     const messageInput = document.getElementById('message').value.trim() || 'Add article via extension';
 
     const page = await extractPage();
@@ -187,20 +185,16 @@ async function onSave(){
       contentText = '# ' + title + '\n\n' + htmlToMarkdown(page.html);
       ext = 'md';
     } else if(fmt === 'epub'){
-      // Generate EPUB content (XHTML format for compatibility)
       contentText = generateEPUB(title, htmlToMarkdown(page.html));
       ext = 'epub';
     } else {
-      // HTML fallback
       contentText = '<!doctype html>\n<html><head><meta charset="utf-8"><title>' + title + '</title></head><body>' + page.html + '</body></html>';
       ext = 'html';
     }
 
     let filename = slugify(title) || 'article';
     filename = filename + '.' + ext;
-    let prefix = pathPrefixInput || '';
-    if(prefix && !prefix.endsWith('/')) prefix += '/';
-    const path = (prefix || '') + filename;
+    const path = 'Saved_Reading/' + filename;
 
     const contentBase64 = utf8ToBase64(contentText);
 
