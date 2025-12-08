@@ -1,0 +1,88 @@
+# Why new tech only feels good for a short time | Popular Science
+
+![Conceptual image of a stack of old analog TV sets with blank screens against a white wall](https://www.popsci.com/wp-content/uploads/2025/03/old_tech.jpg?quality=85&w=2000)   Get off the treadmill. _Image: J Studios/Getty Images_         
+##  
+Get the Popular Science daily newsletter💡
+
+ 
+
+  
+Breakthroughs, discoveries, and DIY tips sent every weekday.
+
+      Email address   Sign up  Thank you!      
+[Terms of Service](https://recurrent.io/terms-and-conditions/) and[ Privacy Policy.](https://recurrent.io/privacy-policy/)
+
+     
+A friend recently sent me [a video about getting_ Red Dead Redemption 2_ running on an old CRT television](https://www.youtube.com/watch?v=x_tohNLvkxk) by YouTuber Any Austin, which I obviously watched because I love gimmicky tech videos involving obsolete things. I was expecting to laugh at something mixing retro and current technology, and that happened, but then the video wandered into human psychology. 
+
+ 
+I thought it would be ridiculous to play a modern game on such an old TV, mostly because it is. But after playing for a little bit he realized that, once you get used to it, playing a modern game on a TV that’s been obsolete for decades just…doesn’t feel that different. Sure, there were annoyances—certain things were cropped off the screen—but for the most part the game was just as immersive and fun on an ancient TV as on a contemporary one. 
+
+[![](https://cdn.intergient.com/assets/pw_logo.svg)](//playwire.com?utm_source=pw_ad_container)![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyMCAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjBfZF8xMjA5XzE5NykiPgo8cGF0aCBkPSJNMTAuNDA2MiAwLjA4MzYzODdDMTAuNzUgMC4yMzk3NjQgMTEgMC42MTQ0NjYgMTEgMC45ODkxNjdWMTIuOTc5NkMxMSAxMy4zODU1IDEwLjc1IDEzLjcyOSAxMC40MDYyIDEzLjkxNjRDMTAuMDMxMiAxNC4wNzI1IDkuNjI1IDE0LjAxIDkuMzEyNSAxMy43MjlMNS4wOTM3NSA5Ljk4MkgzQzEuODc1IDkuOTgyIDEgOS4xMDc2OSAxIDcuOTgzNTlWNS45ODUxOEMxIDQuODkyMzEgMS44NzUgMy45ODY3OCAzIDMuOTg2NzhINS4wOTM3NUw5LjMxMjUgMC4yNzA5ODlDOS42MjUgLTAuMDEwMDM2NiAxMC4wMzEyIC0wLjA3MjQ4NjkgMTAuNDA2MiAwLjA4MzYzODdaTTE2Ljc4MTIgMi4zMzE4NUMxOC4xMjUgMy40NTU5NSAxOSA1LjExMDg4IDE5IDYuOTg0MzlDMTkgOC44ODkxMiAxOC4xMjUgMTAuNTQ0IDE2Ljc4MTIgMTEuNjM2OUMxNi40Mzc1IDExLjkxOCAxNS45Njg4IDExLjg1NTUgMTUuNzE4OCAxMS41NDMzQzE1LjQzNzUgMTEuMjMxIDE1LjUgMTAuNzYyNiAxNS44MTI1IDEwLjQ4MTZDMTYuODQzOCA5LjY2OTc1IDE3LjUgOC40MjA3NCAxNy41IDYuOTg0MzlDMTcuNSA1LjU3OTI2IDE2Ljg0MzggNC4zMzAyNSAxNS44MTI1IDMuNTE4NEMxNS41IDMuMjM3MzcgMTUuNDY4OCAyLjc2OSAxNS43MTg4IDIuNDU2NzVDMTUuOTY4OCAyLjE0NDUgMTYuNDM3NSAyLjA4MjA1IDE2Ljc4MTIgMi4zMzE4NVpNMTMuODc1IDQuNjczNzNDMTQuNTYyNSA1LjIzNTc4IDE1IDYuMDQ3NjMgMTUgNi45ODQzOUMxNSA3Ljk1MjM3IDE0LjU2MjUgOC43NjQyMiAxMy44NzUgOS4zMjYyN0MxMy41NjI1IDkuNTc2MDcgMTMuMDkzOCA5LjU0NDg1IDEyLjgxMjUgOS4yMDEzN0MxMi41NjI1IDguODg5MTIgMTIuNjI1IDguNDIwNzQgMTIuOTM3NSA4LjE3MDk0QzEzLjI4MTIgNy44ODk5MiAxMy41IDcuNDUyNzYgMTMuNSA2Ljk4NDM5QzEzLjUgNi41MTYwMSAxMy4yODEyIDYuMTEwMDggMTIuOTM3NSA1LjgyOTA2QzEyLjYyNSA1LjU3OTI2IDEyLjU2MjUgNS4xMTA4OCAxMi44MTI1IDQuNzY3NDFDMTMuMDkzOCA0LjQ1NTE1IDEzLjU2MjUgNC40MjM5MyAxMy44NzUgNC42NzM3M1oiIGZpbGw9IndoaXRlIi8+CjwvZz4KPGRlZnM+CjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZF8xMjA5XzE5NyIgeD0iMCIgeT0iMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI+CjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+CjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIiByZXN1bHQ9ImhhcmRBbHBoYSIvPgo8ZmVPZmZzZXQgZHk9IjEiLz4KPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMC41Ii8+CjxmZUNvbXBvc2l0ZSBpbjI9ImhhcmRBbHBoYSIgb3BlcmF0b3I9Im91dCIvPgo8ZmVDb2xvck1hdHJpeCB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMC4yNSAwIi8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTk3Ii8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTk3IiByZXN1bHQ9InNoYXBlIi8+CjwvZmlsdGVyPgo8L2RlZnM+Cjwvc3ZnPgo=)![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyMCAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjBfZF8xMjA5XzE4MSkiPgo8cGF0aCBkPSJNMTAuNDE0NCAwLjA5MzQwNDNDMTAuNzU4NSAwLjI0OTUzIDExLjAwODcgMC42MjQyMzEgMTEuMDA4NyAwLjk5ODkzMlYxMi45ODk0QzExLjAwODcgMTMuMzk1MyAxMC43NTg1IDEzLjczODggMTAuNDE0NCAxMy45MjYxQzEwLjAzOTEgMTQuMDgyMyA5LjYzMjQ5IDE0LjAxOTggOS4zMTk3MiAxMy43Mzg4TDUuMDk3MzEgOS45OTE3NkgzLjAwMTc0QzEuODc1NzYgOS45OTE3NiAxIDkuMTE3NDYgMSA3Ljk5MzM2VjUuOTk0OTVDMSA0LjkwMjA3IDEuODc1NzYgMy45OTY1NCAzLjAwMTc0IDMuOTk2NTRINS4wOTczMUw5LjMxOTcyIDAuMjgwNzU1QzkuNjMyNDkgLTAuMDAwMjcxMDIyIDEwLjAzOTEgLTAuMDYyNzIxMiAxMC40MTQ0IDAuMDkzNDA0M1pNMTQuMjkyOCA0LjIxNTEyTDE2LjAxMyA1LjkzMjVMMTcuNzMzMyA0LjIxNTEyQzE4LjAxNDggMy45MzQwOSAxOC40ODM5IDMuOTM0MDkgMTguNzY1NCA0LjIxNTEyQzE5LjA3ODIgNC41MjczNyAxOS4wNzgyIDQuOTk1NzUgMTguNzY1NCA1LjI3Njc3TDE3LjA0NTIgNi45OTQxNUwxOC43NjU0IDguNzExNTNDMTkuMDc4MiA5LjAyMzc4IDE5LjA3ODIgOS40OTIxNiAxOC43NjU0IDkuNzczMTlDMTguNDgzOSAxMC4wODU0IDE4LjAxNDggMTAuMDg1NCAxNy43MzMzIDkuNzczMTlMMTYuMDEzIDguMDU1ODFMMTQuMjkyOCA5Ljc3MzE5QzEzLjk4IDEwLjA4NTQgMTMuNTEwOSAxMC4wODU0IDEzLjIyOTQgOS43NzMxOUMxMi45MTY2IDkuNDkyMTYgMTIuOTE2NiA5LjAyMzc4IDEzLjIyOTQgOC43MTE1M0wxNC45NDk2IDYuOTk0MTVMMTMuMjI5NCA1LjI3Njc3QzEyLjkxNjYgNC45OTU3NSAxMi45MTY2IDQuNTI3MzcgMTMuMjI5NCA0LjIxNTEyQzEzLjUxMDkgMy45MzQwOSAxMy45OCAzLjkzNDA5IDE0LjI5MjggNC4yMTUxMloiIGZpbGw9IndoaXRlIi8+CjwvZz4KPGRlZnM+CjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZF8xMjA5XzE4MSIgeD0iMCIgeT0iMC4wMDk3NjU2MiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI+CjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+CjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIiByZXN1bHQ9ImhhcmRBbHBoYSIvPgo8ZmVPZmZzZXQgZHk9IjEiLz4KPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMC41Ii8+CjxmZUNvbXBvc2l0ZSBpbjI9ImhhcmRBbHBoYSIgb3BlcmF0b3I9Im91dCIvPgo8ZmVDb2xvck1hdHJpeCB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMC4yNSAwIi8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTgxIi8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTgxIiByZXN1bHQ9InNoYXBlIi8+CjwvZmlsdGVyPgo8L2RlZnM+Cjwvc3ZnPgo=)![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjIiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyMiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjBfZF8xMjA5XzE5OCkiPgo8cGF0aCBkPSJNNi4wNTcxNyAxMC4xNTM5SDQuNTc0MjJMNi44MzM4MSAzLjYwODRIOC42MTcxOUwxMC44NzM2IDEwLjE1MzlIOS4zOTA2Mkw3Ljc1MTA3IDUuMTA0MTRINy42OTk5M0w2LjA1NzE3IDEwLjE1MzlaTTUuOTY0NDkgNy41ODEwNUg5LjQ2NzMzVjguNjYxMzFINS45NjQ0OVY3LjU4MTA1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEzLjk4MTcgMTAuMTUzOUgxMS42NjE0VjMuNjA4NEgxNC4wMDA5QzE0LjY1OTMgMy42MDg0IDE1LjIyNiAzLjczOTQ0IDE1LjcwMTIgNC4wMDE1MUMxNi4xNzYzIDQuMjYxNDUgMTYuNTQxNyA0LjYzNTM5IDE2Ljc5NzQgNS4xMjMzMUMxNy4wNTUyIDUuNjExMjQgMTcuMTg0MSA2LjE5NTA1IDE3LjE4NDEgNi44NzQ3M0MxNy4xODQxIDcuNTU2NTUgMTcuMDU1MiA4LjE0MjQ5IDE2Ljc5NzQgOC42MzI1NUMxNi41NDE3IDkuMTIyNiAxNi4xNzQyIDkuNDk4NjcgMTUuNjk0OCA5Ljc2MDc0QzE1LjIxNzUgMTAuMDIyOCAxNC42NDY1IDEwLjE1MzkgMTMuOTgxNyAxMC4xNTM5Wk0xMy4wNDUzIDguOTY4MTNIMTMuOTI0MkMxNC4zMzMzIDguOTY4MTMgMTQuNjc3NCA4Ljg5NTY5IDE0Ljk1NjUgOC43NTA4QzE1LjIzNzcgOC42MDM3OCAxNS40NDg3IDguMzc2ODYgMTUuNTg5MyA4LjA3MDA1QzE1LjczMjEgNy43NjExIDE1LjgwMzQgNy4zNjI2NiAxNS44MDM0IDYuODc0NzNDMTUuODAzNCA2LjM5MTA3IDE1LjczMjEgNS45OTU4MyAxNS41ODkzIDUuNjg5MDFDMTUuNDQ4NyA1LjM4MjE5IDE1LjIzODggNS4xNTYzNCAxNC45NTk3IDUuMDExNDVDMTQuNjgwNiA0Ljg2NjU3IDE0LjMzNjUgNC43OTQxMiAxMy45Mjc0IDQuNzk0MTJIMTMuMDQ1M1Y4Ljk2ODEzWiIgZmlsbD0id2hpdGUiLz4KPC9nPgo8ZyBmaWx0ZXI9InVybCgjZmlsdGVyMV9kXzEyMDlfMTk4KSI+CjxwYXRoIGQ9Ik0xLjg0ODQ4IDAuNzVIMjAuMTUxNUMyMC4yMDU5IDAuNzUgMjAuMjUgMC43OTQwOTIgMjAuMjUgMC44NDg0ODVWMTMuMTUxNUMyMC4yNSAxMy4yMDU5IDIwLjIwNTkgMTMuMjUgMjAuMTUxNSAxMy4yNUgxLjg0ODQ4QzEuNzk0MDkgMTMuMjUgMS43NSAxMy4yMDU5IDEuNzUgMTMuMTUxNVYwLjg0ODQ4NUMxLjc1IDAuNzk0MDkzIDEuNzk0MDkgMC43NSAxLjg0ODQ4IDAuNzVaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIi8+CjwvZz4KPGRlZnM+CjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZF8xMjA5XzE5OCIgeD0iMy41NzQyMiIgeT0iMy42MDg0IiB3aWR0aD0iMTQuNjA5NCIgaGVpZ2h0PSI4LjU0NTkiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4KPGZlRmxvb2QgZmxvb2Qtb3BhY2l0eT0iMCIgcmVzdWx0PSJCYWNrZ3JvdW5kSW1hZ2VGaXgiLz4KPGZlQ29sb3JNYXRyaXggaW49IlNvdXJjZUFscGhhIiB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMTI3IDAiIHJlc3VsdD0iaGFyZEFscGhhIi8+CjxmZU9mZnNldCBkeT0iMSIvPgo8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIwLjUiLz4KPGZlQ29tcG9zaXRlIGluMj0iaGFyZEFscGhhIiBvcGVyYXRvcj0ib3V0Ii8+CjxmZUNvbG9yTWF0cml4IHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwLjI1IDAiLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbjI9IkJhY2tncm91bmRJbWFnZUZpeCIgcmVzdWx0PSJlZmZlY3QxX2Ryb3BTaGFkb3dfMTIwOV8xOTgiLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QxX2Ryb3BTaGFkb3dfMTIwOV8xOTgiIHJlc3VsdD0ic2hhcGUiLz4KPC9maWx0ZXI+CjxmaWx0ZXIgaWQ9ImZpbHRlcjFfZF8xMjA5XzE5OCIgeD0iMCIgeT0iMCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE2IiBmaWx0ZXJVbml0cz0idXNlclNwYWNlT25Vc2UiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI+CjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+CjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIiByZXN1bHQ9ImhhcmRBbHBoYSIvPgo8ZmVPZmZzZXQgZHk9IjEiLz4KPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMC41Ii8+CjxmZUNvbXBvc2l0ZSBpbjI9ImhhcmRBbHBoYSIgb3BlcmF0b3I9Im91dCIvPgo8ZmVDb2xvck1hdHJpeCB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMC4yNSAwIi8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTk4Ii8+CjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93XzEyMDlfMTk4IiByZXN1bHQ9InNoYXBlIi8+CjwvZmlsdGVyPgo8L2RlZnM+Cjwvc3ZnPgo=)0:03![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iNyIgZmlsbD0iIzczNzM3MyIvPgo8cGF0aCBkPSJNOS45Mjk2OSA1LjE5OTIyTDcuODc4OTEgNy4yNUw5LjkyOTY5IDkuMzIwMzFDMTAuMTgzNiA5LjU1NDY5IDEwLjE4MzYgOS45NjQ4NCA5LjkyOTY5IDEwLjE5OTJDOS42OTUzMSAxMC40NTMxIDkuMjg1MTYgMTAuNDUzMSA5LjA1MDc4IDEwLjE5OTJMNyA4LjE0ODQ0TDQuOTI5NjkgMTAuMTk5MkM0LjY5NTMxIDEwLjQ1MzEgNC4yODUxNiAxMC40NTMxIDQuMDUwNzggMTAuMTk5MkMzLjc5Njg4IDkuOTY0ODQgMy43OTY4OCA5LjU1NDY5IDQuMDUwNzggOS4zMjAzMUw2LjEwMTU2IDcuMjVMNC4wNTA3OCA1LjE5OTIyQzMuNzk2ODggNC45NjQ4NCAzLjc5Njg4IDQuNTU0NjkgNC4wNTA3OCA0LjMyMDMxQzQuMjg1MTYgNC4wNjY0MSA0LjY5NTMxIDQuMDY2NDEgNC45Mjk2OSA0LjMyMDMxTDcgNi4zNzEwOUw5LjA1MDc4IDQuMzIwMzFDOS4yODUxNiA0LjA2NjQxIDkuNjk1MzEgNC4wNjY0MSA5LjkyOTY5IDQuMzIwMzFDMTAuMTgzNiA0LjU1NDY5IDEwLjE4MzYgNC45NjQ4NCA5LjkyOTY5IDUuMTk5MjJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K) 
+“The human brain is just really good at normalizing basically anything that isn’t directly causing us to die,” Any Austin explains in the video. “Your brand new PC is probably giving you about the same amount of joy as your old PC. Your great fancy new job probably feels just about as soul sucking as your old job, provided you control for other factors like money.” 
+
+ 
+That…can’t be how human brains work. Can it? I decided to look into the psychology. (Spoiler: It’s exactly how human brains work.)
+
+ 
+## The Hedonic Treadmill
+
+ 
+The psychological phenomenon known as the [hedonic treadmill](https://www.psychologytoday.com/us/basics/hedonic-treadmill) has been well documented since at least the 1970s. The concept refers to how humans tend to revert to a baseline level of happiness after positive or negative changes in their lives. There may be a spike in happiness after a wedding, a promotion at work, or buying a new TV, but that is temporary—people tend to eventually revert to their previous levels of happiness. The same thing is true about negative life changes. 
+
+ 
+An early study showing this, [published in the Journal of Personality and Social Psychology](https://www.researchgate.net/publication/22451114_Lottery_Winners_and_Accident_Victims_Is_Happiness_Relative) in 1978, examined the relative happiness of three groups: lottery winners, people who went through serious automobile accidents, and a control group. The lottery winners’ results were surprising: 
+
+ 
+Lottery winners and controls were not significantly different in their ratings of how happy they were now, how happy they were before winning (or, for controls, how happy they were 6 months ago), and how happy they expected to be in a couple of years. 
+
+ 
+Now, there was nuance in the study. The victims of car accidents did not adapt to the same extent, though the study notes that “the accident victims did not appear nearly as unhappy as might have been expected.” Even so, the hedonic treadmill has been replicated in study after study over the years. Positive and negative changes alike tend to have a big impact on our levels of happiness in the short term but over time, we revert back to our base levels of happiness. 
+
+ 
+What does this have to do with playing _Red Dead Redemption_ on an ancient TV? The same psychological tendency is in play. If you bought the TV of your dreams tomorrow there could be a honeymoon period during which you feel that it is making your video game experience better, and that could make you happier. 
+
+ 
+After that period, though, you’ll get right back to the same level of satisfaction as before. Eventually maybe you hear about a newer, better TV, which you now want to buy in order to get that same happiness boost you got from buying the last one. That’s why this is called a treadmill: you think the next purchase will permanently boost your happiness only to end up right back where you started. 
+
+ 
+## How to Get Off the Treadmill
+
+ 
+Knowing this, how can we get more satisfaction out of our gadgets? The answer might be spending more time thinking about how much you enjoy the things you already have. A 2011 paper by Kennon M. Sheldon and Sonja Lyubomirsky [published in the _Personality and Social Psychology Bulletin_](https://greatergood.berkeley.edu/images/uploads/The_Challenge_of_Staying_Happier.pdf), showed that regularly thinking about the positive changes in your life—and thinking less about hypothetical future changes—can help maintain the increase in happiness. From the conclusion: 
+
+ 
+In other words, because of the very adaptation processes examined in the current research, the appeal of the new car, house, or handbag that initially brought pleasure begins to fade, such that people are soon tempted to buy an even better car, house, or handbag, trying to regain the initial exhilaration that has gone missing. However, in a world of expanding debt, declining resources, and questionable sustainability, it seems imperative to arrest or minimize this process, so that people can learn to be content with less. Our study suggests that this is an attainable goal, realizable when people make efforts to be grateful for what they have and to continue to interact with it in diverse, surprising, and creative ways.
+
+ 
+The specifics of appreciating changes in creative ways aren’t laid out, but I think Any Austin’s video ends with a pretty good one: occasionally switching out your current tech for something ancient, then switching back to modern tech. 
+
+ 
+Hear me out on this: Here’s what you should do. Buy two TVs: a small 720p one and then a bigger 1080p one. Anytime you get the hankering for something new you just switch back and forth between them. Going from the big one to the small one will feel cute and novel and cozy, and then going from the small one to the big one we feel like this huge immersive upgrade. 
+
+ 
+I am far from a psychology expert, and I think Any Austin would admit the same thing. Given the hedonistic upgrade, though, this doesn’t sound like the worst idea—you could, in theory, give yourself that little happiness boost from trying something new on a regular basis. You’re tricking yourself into appreciating the thing you already have instead of dwelling on how much better life would be if you had something even better. 
+
+ 
+You don’t have to go to this extreme, though. Just know that the research suggests you’ll be happier with your tech if you spend more time appreciating what you have and less time dreaming about what you could buy instead.
+
+      ![Outdoor gift guide content widget](https://www.popsci.com/wp-content/uploads/2025/12/HH-Cascade-HELLY-TECH-Waterproof-Mid-Cut-Hiking-Boots-outdoor-deals-header-with-badge.webp?quality=85&w=300)   
+###  
+2025 PopSci Outdoor Gift Guide
+
+ 
+
+              
+20+ editor-approved presents for the hikers on your list
+
+                            [ Shop now](https://www.popsci.com/gear/2025-holiday-outdoor-gift-guide-editor-tested-approved-hiking-gear/)             
+##  [ Justin Pot ](https://www.popsci.com/authors/justin-pot/) 
+
+ 
+###  Contributor, DIY 
+
+   
+Justin Pot writes tutorials and essays that solve problems for readers so they can focus on what actually matters. 
+
+         
+-  [ Technology      ](https://www.popsci.com/category/technology/)
