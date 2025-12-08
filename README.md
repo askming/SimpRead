@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-07; Total 274 articles._
+_Last updated on 2025-12-08; Total 275 articles._
 
 ## 2025
 
-_57 articles_
+_58 articles_
+
+- [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
 
 - [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
 
@@ -14,9 +16,9 @@ _57 articles_
 
 - [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
 
-- [Nine-Things-I-Learned-in-Ninety-Years](./Saved_Reading/Nine-Things-I-Learned-in-Ninety-Years.pdf), _added on 2025-09-30_
-
 <details><summary>Show more</summary>
+
+- [Nine-Things-I-Learned-in-Ninety-Years](./Saved_Reading/Nine-Things-I-Learned-in-Ninety-Years.pdf), _added on 2025-09-30_
 
 - [The Quiet Ones - by Nikunj Kothari - Balancing Act](./Saved_Reading/The%20Quiet%20Ones%20-%20by%20Nikunj%20Kothari%20-%20Balancing%20Act.md), _added on 2025-09-29_
 
