@@ -6,7 +6,7 @@ _Last updated on 2025-12-08; Total 276 articles._
 
 _59 articles_
 
-- [howyourbraincreatesahamomentsandwhytheystickquantamagazine](./Saved_Reading/howyourbraincreatesahamomentsandwhytheystickquantamagazine.md), _added on 2025-12-08_
+- [how your brain creates aha moments and why they stick quanta magazine](./Saved_Reading/how%20your%20brain%20creates%20aha%20moments%20and%20why%20they%20stick%20quanta%20magazine.md), _added on 2025-12-08_
 
 - [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
 
