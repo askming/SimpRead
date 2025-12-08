@@ -24,14 +24,9 @@ jobs:
           python-version: 3.9
           cache: 'pip'
 
-      - name: Create virtual environment
-        run: python -m venv venv
-
       - name: Install dependencies & Run Python script
         run: |
-          source venv/bin/activate
-          pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install --no-cache-dir -r requirements.txt
           python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
       
       - name: Commit/Push changes 
