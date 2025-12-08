@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-08; Total 278 articles._
+_Last updated on 2025-12-08; Total 279 articles._
 
 ## 2025
 
-_61 articles_
+_62 articles_
+
+- [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-08_
 
 - [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-08_
 
@@ -14,9 +16,9 @@ _61 articles_
 
 - [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
 
-- [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
-
 <details><summary>Show more</summary>
+
+- [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
 
 - [北京的秋天走丢了，东北的燕子冻死了](./Saved_Reading/北京的秋天走丢了，东北的燕子冻死了.epub), _added on 2025-11-17_
 
