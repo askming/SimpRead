@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-08; Total 275 articles._
+_Last updated on 2025-12-08; Total 276 articles._
 
 ## 2025
 
-_58 articles_
+_59 articles_
+
+- [howyourbraincreatesahamomentsandwhytheystickquantamagazine](./Saved_Reading/howyourbraincreatesahamomentsandwhytheystickquantamagazine.md), _added on 2025-12-08_
 
 - [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
 
@@ -14,9 +16,9 @@ _58 articles_
 
 - [How Relationships Feed Your Brain](./Saved_Reading/How%20Relationships%20Feed%20Your%20Brain.epub), _added on 2025-11-12_
 
-- [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
-
 <details><summary>Show more</summary>
+
+- [Scripts I wrote that I use all the time](./Saved_Reading/Scripts%20I%20wrote%20that%20I%20use%20all%20the%20time.md), _added on 2025-10-28_
 
 - [Nine-Things-I-Learned-in-Ninety-Years](./Saved_Reading/Nine-Things-I-Learned-in-Ninety-Years.pdf), _added on 2025-09-30_
 
