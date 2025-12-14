@@ -13,11 +13,16 @@ def login(token):
 def get_repo(user: Github, repo: str):
     return user.get_repo(repo)
 
-def date_to_sort(repo, file_path):
+def get_file_metadata(repo, file_path):
+    """Cache commit data to avoid multiple API calls per file"""
     commits = repo.get_commits(path=file_path)
-    date = commits[0].commit.committer.date
-    return(date)
-
+    commit = commits[0].commit.committer
+    date = commit.date
+    return {
+        'date': date,
+        'date_str': str(date)[:10],
+        'year': str(date)[:4]
+    }
 
 def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md"):
     user = login(token)
@@ -29,31 +34,46 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
         source_dir = os.path.join(sourcepath, ext)
         filepaths = filepaths + glob.glob(source_dir)
     
-    filepaths.sort(key=lambda path: date_to_sort(repo=repo, file_path=path), reverse=True) # sort file by creation date
-    file_years = [str(repo.get_commits(path=p)[0].commit.committer.date)[:4] for p in filepaths]
-    file_years_count = dict(zip(file_years, [file_years.count(y) for y in file_years])) # count NO of articles by year
+    # Cache metadata for all files in a single pass
+    file_metadata = {}
+    for path in filepaths:
+        file_metadata[path] = get_file_metadata(repo, path)
+    
+    # Sort by date using cached metadata
+    filepaths.sort(key=lambda path: file_metadata[path]['date'], reverse=True)
+    
+    # Count articles by year
+    file_years = [file_metadata[p]['year'] for p in filepaths]
+    file_years_count = dict(zip(file_years, [file_years.count(y) for y in file_years]))
 
     with open(md_name, "w") as f:
         current_year = ''
         f.write(f"# Saved readings\n\n")
         f.write(f"_Last updated on {str(datetime.date.today())}; Total {len(filepaths)} articles._\n\n")   
-        for i in range(len(filepaths)):  
-            filepath_i = filepaths[i].replace(" ", "%20")
-            filename = filepaths[i].split('/')[-1].split('.')[0]
-            commits = repo.get_commits(path=filepaths[i])
-            created_date = str(commits[0].commit.committer.date)[:10]
-            created_year = str(commits[0].commit.committer.date)[:4]
+        
+        year_counters = {}  # Track count per year
+        
+        for filepath in filepaths:
+            filepath_display = filepath.replace(" ", "%20")
+            filename = filepath.split('/')[-1].split('.')[0]
+            metadata = file_metadata[filepath]
+            created_date = metadata['date_str']
+            created_year = metadata['year']
 
             if created_year != current_year:
-                c = 0
+                year_counters[created_year] = 0
                 f.write(f"## {created_year}\n\n")
                 f.write(f"_{file_years_count[created_year]} articles_\n\n")
                 current_year = created_year        
-            if c == 5:
+            
+            year_counters[created_year] += 1
+            
+            if year_counters[created_year] == 6:
                 f.write("<details><summary>Show more</summary>\n\n")
-            f.write(f"- [{filename}]({filepath_i}), _added on {created_date}_\n\n")
-            c += 1
-            if c == file_years_count[current_year]:
+            
+            f.write(f"- [{filename}]({filepath_display}), _added on {created_date}_\n\n")
+            
+            if year_counters[created_year] == file_years_count[current_year]:
                 f.write("</details>\n\n")   
 
 if __name__ == "__main__":
