@@ -3,10 +3,50 @@ import glob
 import subprocess
 import datetime
 import argparse
+import re
 
 SOURCE = './Saved_Reading'
 
-def get_file_metadata(file_path):
+def extract_saved_date(file_path):
+    """Extract saved_date from file metadata:
+    - For .md files: check YAML front matter
+    - For .epub files: check meta tag in XHTML
+    - For .pdf files: fall back to git log
+    """
+    try:
+        if file_path.endswith('.md'):
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read(500)  # Only read first 500 chars for front matter
+                # Look for YAML front matter: ---\nsaved_date: YYYY-MM-DD\n---
+                match = re.search(r'---\s*\nsaved_date:\s*(\d{4}-\d{2}-\d{2})', content)
+                if match:
+                    date_str = match.group(1)
+                    date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+                    return {
+                        'date': date,
+                        'date_str': str(date),
+                        'year': str(date.year)
+                    }
+        elif file_path.endswith('.epub'):
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read(1000)  # Read first 1000 chars for meta tag
+                # Look for meta tag: <meta name="saved_date" content="YYYY-MM-DD"/>
+                match = re.search(r'<meta\s+name="saved_date"\s+content="(\d{4}-\d{2}-\d{2})"', content)
+                if match:
+                    date_str = match.group(1)
+                    date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+                    return {
+                        'date': date,
+                        'date_str': str(date),
+                        'year': str(date.year)
+                    }
+    except (FileNotFoundError, Exception):
+        pass
+    
+    # Fallback: use git log if no metadata found
+    return get_file_metadata_git(file_path)
+
+def get_file_metadata_git(file_path):
     """Get file creation date using local git history (no API calls)"""
     try:
         # Get the commit that first added this file (creation date)
@@ -43,10 +83,16 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
         source_dir = os.path.join(sourcepath, ext)
         filepaths = filepaths + glob.glob(source_dir)
     
-    # Cache metadata for all files in a single pass (using local git, no API calls)
+    # Cache metadata for all files in a single pass
+    # For .md and .epub files: check for saved_date metadata first
+    # For .pdf files and files without metadata: fall back to git log
     file_metadata = {}
     for path in filepaths:
-        file_metadata[path] = get_file_metadata(path)
+        if path.endswith('.md') or path.endswith('.epub'):
+            file_metadata[path] = extract_saved_date(path)
+        else:
+            # .pdf and other formats: use git log
+            file_metadata[path] = get_file_metadata_git(path)
     
     # Sort by date using cached metadata
     filepaths.sort(key=lambda path: file_metadata[path]['date'], reverse=True)

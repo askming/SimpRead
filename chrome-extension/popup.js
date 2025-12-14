@@ -10,10 +10,9 @@ async function querySettings() {
 }
 
 // Simple EPUB generator (returns base64-encoded EPUB string)
-function generateEPUB(title, html) {
+function generateEPUB(title, html, savedDate) {
   // Create minimal EPUB structure as a ZIP-like format
   // Most EPUB readers can read uncompressed EPUBs
-  var now = new Date().toISOString().split('T')[0];
   var uuid = 'urn:uuid:' + 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
     var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
     return v.toString(16);
@@ -27,6 +26,7 @@ function generateEPUB(title, html) {
   var epubContent = '<?xml version="1.0" encoding="UTF-8"?>\n' +
     '<html xmlns="http://www.w3.org/1999/xhtml">\n' +
     '<head><meta charset="UTF-8"/><title>' + escapeXml(title) + '</title>' +
+    '<meta name="saved_date" content="' + (savedDate || '') + '"/>' +
     '<style>body{font-family:serif;margin:1em;line-height:1.5}</style></head>\n' +
     '<body>\n<h1>' + escapeXml(title) + '</h1>\n' + html + '\n</body>\n</html>';
   
@@ -47,7 +47,7 @@ function titleToFilename(s){
 }
 
 // Basic HTML -> Markdown converter (handles headings, p, a, strong/em, lists, images)
-function htmlToMarkdown(html){
+function htmlToMarkdown(html, pageUrl){
   const doc = new DOMParser().parseFromString(html, 'text/html');
 
   function walk(node){
@@ -75,8 +75,20 @@ function htmlToMarkdown(html){
     }
     if(tag === 'img'){
       const alt = node.getAttribute('alt') || '';
-      const src = node.getAttribute('src') || '';
-      return '![' + alt + '](' + src + ')';
+      // Check for lazy-loaded images first (data-src, data-lazy-src)
+      let src = node.getAttribute('src') || 
+                node.getAttribute('data-src') || 
+                node.getAttribute('data-lazy-src') || 
+                node.getAttribute('data-image') || '';
+      // Convert relative URLs to absolute
+      if(src && pageUrl && !src.match(/^https?:\/\//)){
+        try {
+          src = new URL(src, pageUrl).href;
+        } catch(e) {
+          // If URL parsing fails, keep original src
+        }
+      }
+      return src ? '![' + alt + '](' + src + ')' : '';
     }
     if(tag === 'strong' || tag === 'b'){
       return '**' + inner(node) + '**';
@@ -164,7 +176,7 @@ async function extractPage(){
         }
         return document.body.innerHTML;
       }
-      return {html: findArticle(), title: document.title};
+      return {html: findArticle(), title: document.title, url: window.location.href};
     }
   });
   return results[0].result;
@@ -188,11 +200,15 @@ async function onSave(){
 
     let contentText = '';
     let ext = 'md';
+    const savedDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    
     if(fmt === 'md'){
-      contentText = '# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html);
+      // Add YAML front matter with saved_date for sorting
+      contentText = '---\nsaved_date: ' + savedDate + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
       ext = 'md';
     } else if(fmt === 'epub'){
-      contentText = generateEPUB(title, htmlToMarkdown(page.html));
+      // Pass savedDate to EPUB generator (will be stored as meta tag)
+      contentText = generateEPUB(title, htmlToMarkdown(page.html, page.url), savedDate);
       ext = 'epub';
     } else {
       contentText = '<!doctype html>\n<html><head><meta charset="utf-8"><title>' + title + '</title></head><body>' + page.html + '</body></html>';
