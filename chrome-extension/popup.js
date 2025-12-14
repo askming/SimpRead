@@ -33,11 +33,17 @@ function generateEPUB(title, html) {
   return epubContent;
 }
 
-function slugify(s){
-  return s.toString().toLowerCase()
-    .replace(/[^a-z0-9\s]+/g,'')
-    .replace(/\s+/g,' ')
-    .trim();
+function toTitleCase(s){
+  if(!s) return '';
+  const cleaned = s.toString().replace(/[^A-Za-z0-9\s-]+/g,'').trim();
+  return cleaned.split(/\s+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
+function titleToFilename(s){
+  const title = toTitleCase(s) || '';
+  if(!title) return '';
+  // Keep word separation as spaces instead of underscores
+  return title.replace(/\s+/g,' ');
 }
 
 // Basic HTML -> Markdown converter (handles headings, p, a, strong/em, lists, images)
@@ -178,11 +184,12 @@ async function onSave(){
 
     const page = await extractPage();
     const title = page.title || (new Date()).toISOString();
+    const headingTitle = toTitleCase(title) || ((new Date()).toISOString());
 
     let contentText = '';
     let ext = 'md';
     if(fmt === 'md'){
-      contentText = '# ' + title + '\n\n' + htmlToMarkdown(page.html);
+      contentText = '# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html);
       ext = 'md';
     } else if(fmt === 'epub'){
       contentText = generateEPUB(title, htmlToMarkdown(page.html));
@@ -192,7 +199,7 @@ async function onSave(){
       ext = 'html';
     }
 
-    let filename = slugify(title) || 'article';
+    let filename = titleToFilename(headingTitle) || 'Article';
     filename = filename + '.' + ext;
     const path = 'Saved_Reading/' + filename;
 
