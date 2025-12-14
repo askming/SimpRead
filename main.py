@@ -1,43 +1,52 @@
 import os
 import glob
-from github import Github, Auth
+import subprocess
 import datetime
 import argparse
 
 SOURCE = './Saved_Reading'
 
-def login(token):
-    auth = Auth.Token(token)
-    return Github(auth=auth)
-
-def get_repo(user: Github, repo: str):
-    return user.get_repo(repo)
-
-def get_file_metadata(repo, file_path):
-    """Cache commit data to avoid multiple API calls per file"""
-    commits = repo.get_commits(path=file_path)
-    commit = commits[0].commit.committer
-    date = commit.date
+def get_file_metadata(file_path):
+    """Get file creation date using local git history (no API calls)"""
+    try:
+        # Get the commit that first added this file (creation date)
+        result = subprocess.run(
+            ["git", "log", "--diff-filter=A", "--follow", "--format=%aI", "--", file_path],
+            capture_output=True, text=True, timeout=5
+        )
+        
+        if result.returncode == 0 and result.stdout:
+            # Take the last (oldest) commit that added the file
+            date_str = result.stdout.strip().split('\n')[-1]
+            # Parse ISO format: 2025-12-14T10:30:45+00:00
+            date = datetime.datetime.fromisoformat(date_str).date()
+            return {
+                'date': date,
+                'date_str': str(date),
+                'year': str(date.year)
+            }
+    except (subprocess.TimeoutExpired, Exception):
+        pass
+    
+    # Fallback: use current date if git log fails
+    today = datetime.date.today()
     return {
-        'date': date,
-        'date_str': str(date)[:10],
-        'year': str(date)[:4]
+        'date': today,
+        'date_str': str(today),
+        'year': str(today.year)
     }
 
-def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md"):
-    user = login(token)
-    repo = get_repo(user, repo_name)
-
+def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
     file_types = ["*.md", "*.pdf", "*.epub"]
     filepaths = []
     for ext in file_types:
         source_dir = os.path.join(sourcepath, ext)
         filepaths = filepaths + glob.glob(source_dir)
     
-    # Cache metadata for all files in a single pass
+    # Cache metadata for all files in a single pass (using local git, no API calls)
     file_metadata = {}
     for path in filepaths:
-        file_metadata[path] = get_file_metadata(repo, path)
+        file_metadata[path] = get_file_metadata(path)
     
     # Sort by date using cached metadata
     filepaths.sort(key=lambda path: file_metadata[path]['date'], reverse=True)
@@ -77,8 +86,4 @@ def read_list_files(token, repo_name, sourcepath=SOURCE, md_name ="./README.md")
                 f.write("</details>\n\n")   
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("github_token", help="github_token")
-    parser.add_argument("repo_name", help="repo_name")
-    options = parser.parse_args()
-    read_list_files(options.github_token, options.repo_name)
+    read_list_files()

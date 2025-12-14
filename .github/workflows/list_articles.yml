@@ -26,8 +26,7 @@ jobs:
 
       - name: Install dependencies & Run Python script
         run: |
-          pip install --no-cache-dir -r requirements.txt
-          python main.py ${{ secrets.SIMPREAD }} ${{ github.repository }}
+          python main.py
       
       - name: Commit/Push changes 
         uses: github-actions-x/commit@v2.9
