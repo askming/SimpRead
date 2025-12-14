@@ -10,7 +10,7 @@ _66 articles_
 
 - [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
 
-- [2025-12-14T225159697Z](./Saved_Reading/2025-12-14T225159697Z.md), _added on 2025-12-14_
+- [My Students Use AI So What - The Atlantic](./Saved_Reading/My%20Students%20Use%20AI%20So%20What%20-%20The%20Atlantic.md), _added on 2025-12-14_
 
 - [When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT](./Saved_Reading/When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT.md), _added on 2025-12-14_
 
