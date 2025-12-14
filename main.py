@@ -8,25 +8,37 @@ import re
 SOURCE = './Saved_Reading'
 
 def extract_saved_date(file_path):
-    """Extract saved_date from file metadata:
-    - For .md files: check YAML front matter
-    - For .epub files: check meta tag in XHTML
+    """Extract saved_date and title from file metadata:
+    - For .md files: check YAML front matter for saved_date and title
+    - For .epub files: check meta tag in XHTML for saved_date
     - For .pdf files: fall back to git log
+    
+    Returns dict with 'date', 'date_str', 'year', and 'title' (if available)
     """
+    result = {}
+    
     try:
         if file_path.endswith('.md'):
             with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read(500)  # Only read first 500 chars for front matter
-                # Look for YAML front matter: ---\nsaved_date: YYYY-MM-DD\n---
-                match = re.search(r'---\s*\nsaved_date:\s*(\d{4}-\d{2}-\d{2})', content)
-                if match:
-                    date_str = match.group(1)
+                content = f.read(800)  # Read first 800 chars for front matter
+                # Look for YAML front matter: ---\nsaved_date: YYYY-MM-DD\ntitle: ...
+                date_match = re.search(r'---\s*\nsaved_date:\s*(\d{4}-\d{2}-\d{2})', content)
+                title_match = re.search(r'title:\s*(.+?)(?:\n|---)', content)
+                
+                if date_match:
+                    date_str = date_match.group(1)
                     date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
-                    return {
+                    result = {
                         'date': date,
                         'date_str': str(date),
                         'year': str(date.year)
                     }
+                    if title_match:
+                        result['title'] = title_match.group(1).strip()
+                    
+                    if date_match:  # If we found saved_date, return it
+                        return result
+        
         elif file_path.endswith('.epub'):
             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                 content = f.read(1000)  # Read first 1000 chars for meta tag
@@ -47,17 +59,17 @@ def extract_saved_date(file_path):
     return get_file_metadata_git(file_path)
 
 def get_file_metadata_git(file_path):
-    """Get file creation date using local git history (no API calls)"""
+    """Get file date from git history using the last commit that modified it"""
     try:
-        # Get the commit that first added this file (creation date)
+        # Use the last commit that touched this file (most recent modification, not just creation)
+        # This better preserves the actual save date
         result = subprocess.run(
-            ["git", "log", "--diff-filter=A", "--follow", "--format=%aI", "--", file_path],
+            ["git", "log", "-1", "--format=%aI", "--", file_path],
             capture_output=True, text=True, timeout=5
         )
         
         if result.returncode == 0 and result.stdout:
-            # Take the last (oldest) commit that added the file
-            date_str = result.stdout.strip().split('\n')[-1]
+            date_str = result.stdout.strip()
             # Parse ISO format: 2025-12-14T10:30:45+00:00
             date = datetime.datetime.fromisoformat(date_str).date()
             return {
@@ -114,6 +126,8 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
             metadata = file_metadata[filepath]
             created_date = metadata['date_str']
             created_year = metadata['year']
+            # Use original title from metadata if available, otherwise use filename
+            display_title = metadata.get('title') or filename
 
             if created_year != current_year:
                 year_counters[created_year] = 0
@@ -126,7 +140,7 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
             if year_counters[created_year] == 6:
                 f.write("<details><summary>Show more</summary>\n\n")
             
-            f.write(f"- [{filename}]({filepath_display}), _added on {created_date}_\n\n")
+            f.write(f"- [{display_title}]({filepath_display}), _added on {created_date}_\n\n")
             
             if year_counters[created_year] == file_years_count[current_year]:
                 f.write("</details>\n\n")   

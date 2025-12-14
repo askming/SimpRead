@@ -36,7 +36,7 @@ function generateEPUB(title, html, savedDate) {
 function toTitleCase(s){
   if(!s) return '';
   const cleaned = s.toString().replace(/[^A-Za-z0-9\s-]+/g,'').trim();
-  return cleaned.split(/\s+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  return cleaned.split(/\s+/).map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');
 }
 
 function titleToFilename(s){
@@ -203,8 +203,10 @@ async function onSave(){
     const savedDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
     
     if(fmt === 'md'){
-      // Add YAML front matter with saved_date for sorting
-      contentText = '---\nsaved_date: ' + savedDate + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
+      // Add YAML front matter with saved_date and original title for sorting and display
+      // Use page.title as original title (not the slugified filename)
+      const originalTitle = page.title || 'Untitled Article';
+      contentText = '---\nsaved_date: ' + savedDate + '\ntitle: ' + originalTitle + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
       ext = 'md';
     } else if(fmt === 'epub'){
       // Pass savedDate to EPUB generator (will be stored as meta tag)
@@ -215,7 +217,7 @@ async function onSave(){
       ext = 'html';
     }
 
-    let filename = titleToFilename(headingTitle) || 'Article';
+    let filename = titleToFilename(page.title) || 'Article';
     filename = filename + '.' + ext;
     const path = 'Saved_Reading/' + filename;
 
