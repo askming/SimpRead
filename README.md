@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-08; Total 279 articles._
+_Last updated on 2025-12-14; Total 280 articles._
 
 ## 2025
 
-_62 articles_
+_63 articles_
+
+- [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
 
 - [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-08_
 
@@ -14,9 +16,9 @@ _62 articles_
 
 - [how your brain creates aha moments and why they stick quanta magazine](./Saved_Reading/how%20your%20brain%20creates%20aha%20moments%20and%20why%20they%20stick%20quanta%20magazine.md), _added on 2025-12-08_
 
-- [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
-
 <details><summary>Show more</summary>
+
+- [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-08_
 
 - [Neuroscience explains why writing creates mental clarity](./Saved_Reading/Neuroscience%20explains%20why%20writing%20creates%20mental%20clarity.epub), _added on 2025-12-07_
 
