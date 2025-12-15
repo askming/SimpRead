@@ -1,12 +1,10 @@
 # Saved readings
 
-_Last updated on 2025-12-15; Total 283 articles._
+_Last updated on 2025-12-15; Total 282 articles._
 
 ## 2025
 
-_66 articles_
-
-- [My Students Use AI So What - The Atlantic](./Saved_Reading/My%20Students%20Use%20AI%20So%20What%20-%20The%20Atlantic.md), _added on 2025-12-14_
+_65 articles_
 
 - [To Everyone Who Asks For Just A Little Of Your Time Heres What It Costs To Say Yes Thought Catalog](./Saved_Reading/To%20Everyone%20Who%20Asks%20For%20Just%20A%20Little%20Of%20Your%20Time%20Heres%20What%20It%20Costs%20To%20Say%20Yes%20Thought%20Catalog.md), _added on 2025-12-14_
 
@@ -16,9 +14,9 @@ _66 articles_
 
 - [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
 
-<details><summary>Show more</summary>
-
 - [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-07_
+
+<details><summary>Show more</summary>
 
 - [why new tech only feels good for a short time popular science](./Saved_Reading/why%20new%20tech%20only%20feels%20good%20for%20a%20short%20time%20popular%20science.md), _added on 2025-12-07_
 
