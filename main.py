@@ -154,8 +154,14 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
             filepath_display = filepath.replace(" ", "%20")
             filename = filepath.split('/')[-1].split('.')[0]
             metadata = file_metadata[filepath]
-            created_date = metadata.get('date_str')
-            created_year = metadata.get('year')
+            # Prefer datetime object when available; display only the date part (YYYY-MM-DD)
+            dt = metadata.get('datetime')
+            if dt:
+                created_date = dt.date().isoformat()
+            else:
+                date_str = metadata.get('date_str') or ''
+                created_date = date_str[:10] if date_str else str(datetime.date.today())
+            created_year = metadata.get('year') or created_date[:4]
             # Use original title from metadata if available, otherwise use filename
             display_title = metadata.get('title') or filename
 
