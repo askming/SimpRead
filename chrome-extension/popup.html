@@ -4,10 +4,33 @@
   <meta charset="utf-8" />
   <title>Save to GitHub</title>
   <style>
-    body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial; width:360px; padding:12px}
+    body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial; width:500px; padding:12px}
     textarea{width:100%; height:90px}
     label{display:block; margin-top:8px}
-    button{margin-top:8px}
+    button{margin-top:8px; padding:6px 12px; border:none; border-radius:4px; cursor:pointer}
+    #saveBtn{background:#007bff; color:white}
+    #saveBtn:hover{background:#0056b3}
+    
+    #previewSection{display:none; margin-top:15px; padding:15px; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; max-height:500px; overflow-y:auto}
+    #previewSection.show{display:block}
+    #previewContent{font-size:14px; line-height:1.6; color:#333}
+    #previewContent h1{font-size:22px; margin:15px 0 10px 0}
+    #previewContent h2{font-size:18px; margin:12px 0 8px 0}
+    #previewContent h3{font-size:16px; margin:10px 0 6px 0}
+    #previewContent p{margin:8px 0}
+    #previewContent ul, #previewContent ol{margin:8px 0 8px 20px}
+    #previewContent li{margin:4px 0}
+    #previewContent img{max-width:100%; height:auto; margin:10px 0; border-radius:4px}
+    #previewContent code{background:#f0f0f0; padding:2px 4px; border-radius:3px; font-size:12px}
+    #previewContent pre{background:#2d2d2d; color:#f8f8f2; padding:10px; border-radius:4px; overflow-x:auto; font-size:12px}
+    #previewContent a{color:#007bff; text-decoration:none}
+    
+    #actionButtons{display:none; margin-top:12px; display:flex; gap:8px}
+    #actionButtons.show{display:flex}
+    #confirmSaveBtn{background:#28a745; color:white; flex:1}
+    #confirmSaveBtn:hover{background:#218838}
+    #discardBtn{background:#6c757d; color:white; flex:1}
+    #discardBtn:hover{background:#5a6268}
   </style>
 </head>
 <body>
@@ -15,12 +38,13 @@
   <div style="margin-bottom:8px;font-size:12px;color:#666">
     <a href="#" id="optionsLink" style="color:#0066cc;text-decoration:underline">⚙️ Configure settings</a> (PAT, repo, owner)
   </div>
-  <div>
+  <div id="inputSection">
     <label>Format: <select id="format"><option value="md">Markdown (.md)</option><option value="html">HTML (.html)</option><option value="epub">EPUB (.epub)</option></select></label>
     <label>Commit message: <input id="message" type="text" placeholder="Add article" style="width:100%"></label>
-    <button id="saveBtn">Save to Saved_Reading/</button>
+    <button id="saveBtn">Preview & Save</button>
   </div>
-  <div id="status" style="margin-top:8px;color:#333"></div>
+  <div id="status" style="margin-top:8px;color:#333; font-size:13px"></div>
+
   <script src="popup.js"></script>
 </body>
 </html>

@@ -3,7 +3,7 @@
   "name": "Save Article to GitHub",
   "version": "0.1",
   "description": "Save the current web article as Markdown or HTML to a GitHub repo with one click.",
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["storage", "activeTab", "scripting", "tabs"],
   "host_permissions": ["https://api.github.com/*"],
   "action": {
     "default_popup": "popup.html",

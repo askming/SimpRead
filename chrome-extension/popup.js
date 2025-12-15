@@ -1,4 +1,4 @@
-// Popup script: extracts page HTML via scripting, converts to Markdown/EPUB, and saves to GitHub using stored options
+// Popup script: extracts page HTML, prepares content, and opens a preview window for saving to GitHub.
 
 async function querySettings() {
   return new Promise(resolve => chrome.storage.sync.get({
@@ -9,25 +9,17 @@ async function querySettings() {
   }, resolve));
 }
 
-// Simple EPUB generator (returns base64-encoded EPUB string)
+// Simple EPUB generator
 function generateEPUB(title, html, savedDate) {
-  // Create minimal EPUB structure as a ZIP-like format
-  // Most EPUB readers can read uncompressed EPUBs
-  var uuid = 'urn:uuid:' + 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-    var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
-    return v.toString(16);
-  });
-
   function escapeXml(str) {
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;');
   }
 
-  // For a proper EPUB, we'd need JSZip. For now, return HTML wrapped as XHTML for compatibility
   var epubContent = '<?xml version="1.0" encoding="UTF-8"?>\n' +
     '<html xmlns="http://www.w3.org/1999/xhtml">\n' +
-    '<head><meta charset="UTF-8"/><title>' + escapeXml(title) + '</title>' +
-    '<meta name="saved_date" content="' + (savedDate || '') + '"/>' +
-    '<style>body{font-family:serif;margin:1em;line-height:1.5}</style></head>\n' +
+    '<head><meta charset="UTF-8"/><title>' + escapeXml(title) + '</title>' + 
+    '<meta name="saved_date" content="' + (savedDate || '') + '"/>' + 
+    '<style>body{font-family:serif;margin:1em;line-height:1.5}</style></head>\n' + 
     '<body>\n<h1>' + escapeXml(title) + '</h1>\n' + html + '\n</body>\n</html>';
   
   return epubContent;
@@ -42,11 +34,10 @@ function toTitleCase(s){
 function titleToFilename(s){
   const title = toTitleCase(s) || '';
   if(!title) return '';
-  // Keep word separation as spaces instead of underscores
   return title.replace(/\s+/g,' ');
 }
 
-// Basic HTML -> Markdown converter (handles headings, p, a, strong/em, lists, images)
+// Basic HTML -> Markdown converter
 function htmlToMarkdown(html, pageUrl){
   const doc = new DOMParser().parseFromString(html, 'text/html');
 
@@ -56,15 +47,12 @@ function htmlToMarkdown(html, pageUrl){
     }
     if(node.nodeType !== Node.ELEMENT_NODE) return '';
     const tag = node.tagName.toLowerCase();
-    let out = '';
     if(tag.match(/^h[1-6]$/)){
       const level = parseInt(tag[1]);
-      out += '\n' + '#'.repeat(level) + ' ' + inner(node) + '\n\n';
-      return out;
+      return '\n' + '#'.repeat(level) + ' ' + inner(node) + '\n\n';
     }
     if(tag === 'p'){
-      out += '\n' + inner(node) + '\n\n';
-      return out;
+      return '\n' + inner(node) + '\n\n';
     }
     if(tag === 'br'){
       return '  \n';
@@ -75,12 +63,10 @@ function htmlToMarkdown(html, pageUrl){
     }
     if(tag === 'img'){
       const alt = node.getAttribute('alt') || '';
-      // Check for lazy-loaded images first (data-src, data-lazy-src)
       let src = node.getAttribute('src') || 
                 node.getAttribute('data-src') || 
                 node.getAttribute('data-lazy-src') || 
                 node.getAttribute('data-image') || '';
-      // Convert relative URLs to absolute
       if(src && pageUrl && !src.match(/^https?:\/\//)){
         try {
           src = new URL(src, pageUrl).href;
@@ -108,7 +94,6 @@ function htmlToMarkdown(html, pageUrl){
     if(tag === 'code'){
       return '`' + node.textContent + '`';
     }
-    // default: recurse
     return inner(node);
   }
 
@@ -116,40 +101,13 @@ function htmlToMarkdown(html, pageUrl){
     return Array.from(node.childNodes).map(walk).join('');
   }
 
-  // Prefer article tag if present
   const article = doc.querySelector('article');
   if(article) return inner(article).trim();
 
-  // Else main
   const main = doc.querySelector('main');
   if(main) return inner(main).trim();
 
-  // Fallback to body
   return inner(doc.body).trim();
-}
-
-function utf8ToBase64(str){
-  return btoa(unescape(encodeURIComponent(str)));
-}
-
-async function saveToGitHub({owner, repo, path, message, contentBase64, token, branch, isUpdate=false, sha=null}){
-  const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(path)}`;
-  const body = {
-    message: message || 'Add file via Save Article extension',
-    content: contentBase64,
-    branch: branch || undefined
-  };
-  if(sha) body.sha = sha;
-  const res = await fetch(url, {
-    method: 'PUT',
-    headers: {
-      'Authorization': 'token ' + token,
-      'Accept': 'application/vnd.github.v3+json',
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify(body)
-  });
-  return res;
 }
 
 async function getFileSha({owner, repo, path, branch, token}){
@@ -163,7 +121,6 @@ async function getFileSha({owner, repo, path, branch, token}){
 }
 
 async function extractPage(){
-  // executeScript returns result array
   const [tab] = await chrome.tabs.query({active:true,currentWindow:true});
   const results = await chrome.scripting.executeScript({
     target:{tabId:tab.id},
@@ -200,18 +157,14 @@ async function onSave(){
 
     let contentText = '';
     let ext = 'md';
-    // Use full ISO datetime including time and timezone
-    const savedDate = new Date().toISOString(); // YYYY-MM-DDTHH:MM:SS.sssZ
+    const savedDate = new Date().toISOString();
     
     if(fmt === 'md'){
-      // Add YAML front matter with saved_date (ISO datetime) and original title for sorting and display
-      // Quote the title to avoid YAML parsing issues
       const originalTitle = page.title || 'Untitled Article';
-      const originalTitleQuoted = '"' + String(originalTitle).replace(/"/g,'\\"') + '"';
+      const originalTitleQuoted = '"' + String(originalTitle).replace(/"/g,'\"') + '"';
       contentText = '---\nsaved_date: ' + savedDate + '\ntitle: ' + originalTitleQuoted + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
       ext = 'md';
     } else if(fmt === 'epub'){
-      // Pass savedDate to EPUB generator (will be stored as meta tag)
       contentText = generateEPUB(title, htmlToMarkdown(page.html, page.url), savedDate);
       ext = 'epub';
     } else {
@@ -223,27 +176,37 @@ async function onSave(){
     filename = filename + '.' + ext;
     const path = 'Saved_Reading/' + filename;
 
-    const contentBase64 = utf8ToBase64(contentText);
-
-    // Check if file exists
-    const sha = await getFileSha({owner:settings.owner, repo:settings.repo, path, branch: settings.branch, token: settings.githubToken});
-    let res = await saveToGitHub({owner:settings.owner, repo:settings.repo, path, message: messageInput, contentBase64, token: settings.githubToken, branch: settings.branch, sha});
-    if(res.ok){
-      statusEl.textContent = 'Saved to ' + settings.owner + '/' + settings.repo + '/' + path;
-    } else {
-      const errText = await res.text();
-      statusEl.textContent = 'Error: ' + res.status + ' ' + errText;
+    const existingSha = await getFileSha({owner:settings.owner, repo:settings.repo, path, branch: settings.branch, token: settings.githubToken});
+    if(existingSha){
+      statusEl.textContent = '⚠️ Article already saved! (' + filename + ')';
+      return;
     }
+
+    const pendingSaveData = {
+      settings,
+      path,
+      contentText,
+      messageInput
+    };
+    
+    await chrome.storage.session.set({ pendingSaveData });
+    
+    chrome.tabs.create({ url: chrome.runtime.getURL('preview.html') });
+
+    statusEl.textContent = 'Preview opened in a new tab.';
+    setTimeout(() => window.close(), 1000);
+    
   } catch(err){
     console.error(err);
     document.getElementById('status').textContent = 'Error: ' + err.message;
   }
 }
 
-document.getElementById('saveBtn').addEventListener('click', onSave);
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('saveBtn').addEventListener('click', onSave);
 
-// Open options page
-document.getElementById('optionsLink').addEventListener('click', (e) => {
-  e.preventDefault();
-  chrome.runtime.openOptionsPage();
+    document.getElementById('optionsLink').addEventListener('click', (e) => {
+      e.preventDefault();
+      chrome.runtime.openOptionsPage();
+    });
 });
