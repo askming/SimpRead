@@ -20,38 +20,58 @@ def extract_saved_date(file_path):
     try:
         if file_path.endswith('.md'):
             with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read(800)  # Read first 800 chars for front matter
-                # Look for YAML front matter: ---\nsaved_date: YYYY-MM-DD\ntitle: ...
-                date_match = re.search(r'---\s*\nsaved_date:\s*(\d{4}-\d{2}-\d{2})', content)
-                title_match = re.search(r'title:\s*(.+?)(?:\n|---)', content)
-                
+                content = f.read(1200)  # Read first part for front matter
+                # Look for YAML front matter: ---\nsaved_date: ISO_DATETIME\ntitle: "..."
+                date_match = re.search(r'saved_date:\s*([^\n\r]+)', content)
+                title_match = re.search(r'title:\s*"?(.+?)"?\s*(?:\n|---)', content)
+
                 if date_match:
-                    date_str = date_match.group(1)
-                    date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
-                    result = {
-                        'date': date,
-                        'date_str': str(date),
-                        'year': str(date.year)
-                    }
-                    if title_match:
-                        result['title'] = title_match.group(1).strip()
-                    
-                    if date_match:  # If we found saved_date, return it
+                    date_str_raw = date_match.group(1).strip()
+                    try:
+                        dt = datetime.datetime.fromisoformat(date_str_raw)
+                    except Exception:
+                        # Fallback: if only a date is present, parse as date at midnight
+                        try:
+                            d = datetime.datetime.strptime(date_str_raw, '%Y-%m-%d').date()
+                            dt = datetime.datetime.combine(d, datetime.time.min)
+                        except Exception:
+                            dt = None
+
+                    if dt:
+                        result = {
+                            'datetime': dt,
+                            'date_str': dt.isoformat(),
+                            'year': str(dt.year)
+                        }
+                        if title_match:
+                            result['title'] = title_match.group(1).strip()
                         return result
         
         elif file_path.endswith('.epub'):
             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                content = f.read(1000)  # Read first 1000 chars for meta tag
-                # Look for meta tag: <meta name="saved_date" content="YYYY-MM-DD"/>
-                match = re.search(r'<meta\s+name="saved_date"\s+content="(\d{4}-\d{2}-\d{2})"', content)
+                content = f.read(1200)  # Read first part for meta tag
+                # Look for meta tag: <meta name="saved_date" content="ISO_DATETIME"/>
+                match = re.search(r'<meta\s+name="saved_date"\s+content="([^"]+)"', content)
                 if match:
-                    date_str = match.group(1)
-                    date = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
-                    return {
-                        'date': date,
-                        'date_str': str(date),
-                        'year': str(date.year)
-                    }
+                    date_str_raw = match.group(1).strip()
+                    try:
+                        dt = datetime.datetime.fromisoformat(date_str_raw)
+                        return {
+                            'datetime': dt,
+                            'date_str': dt.isoformat(),
+                            'year': str(dt.year)
+                        }
+                    except Exception:
+                        try:
+                            d = datetime.datetime.strptime(date_str_raw, '%Y-%m-%d').date()
+                            dt = datetime.datetime.combine(d, datetime.time.min)
+                            return {
+                                'datetime': dt,
+                                'date_str': dt.isoformat(),
+                                'year': str(dt.year)
+                            }
+                        except Exception:
+                            pass
     except (FileNotFoundError, Exception):
         pass
     
@@ -70,22 +90,32 @@ def get_file_metadata_git(file_path):
         
         if result.returncode == 0 and result.stdout:
             date_str = result.stdout.strip()
-            # Parse ISO format: 2025-12-14T10:30:45+00:00
-            date = datetime.datetime.fromisoformat(date_str).date()
-            return {
-                'date': date,
-                'date_str': str(date),
-                'year': str(date.year)
-            }
+            # Parse ISO format into datetime (may include timezone)
+            try:
+                dt = datetime.datetime.fromisoformat(date_str)
+            except Exception:
+                # Fallback: parse as date only
+                try:
+                    d = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+                    dt = datetime.datetime.combine(d, datetime.time.min)
+                except Exception:
+                    dt = None
+
+            if dt:
+                return {
+                    'datetime': dt,
+                    'date_str': dt.isoformat(),
+                    'year': str(dt.year)
+                }
     except (subprocess.TimeoutExpired, Exception):
         pass
     
-    # Fallback: use current date if git log fails
-    today = datetime.date.today()
+    # Fallback: use current datetime if git log fails
+    now = datetime.datetime.now()
     return {
-        'date': today,
-        'date_str': str(today),
-        'year': str(today.year)
+        'datetime': now,
+        'date_str': now.isoformat(),
+        'year': str(now.year)
     }
 
 def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
@@ -106,8 +136,8 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
             # .pdf and other formats: use git log
             file_metadata[path] = get_file_metadata_git(path)
     
-    # Sort by date using cached metadata
-    filepaths.sort(key=lambda path: file_metadata[path]['date'], reverse=True)
+    # Sort by exact datetime using cached metadata (newest first)
+    filepaths.sort(key=lambda path: file_metadata[path].get('datetime', datetime.datetime.min), reverse=True)
     
     # Count articles by year
     file_years = [file_metadata[p]['year'] for p in filepaths]
@@ -124,8 +154,8 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
             filepath_display = filepath.replace(" ", "%20")
             filename = filepath.split('/')[-1].split('.')[0]
             metadata = file_metadata[filepath]
-            created_date = metadata['date_str']
-            created_year = metadata['year']
+            created_date = metadata.get('date_str')
+            created_year = metadata.get('year')
             # Use original title from metadata if available, otherwise use filename
             display_title = metadata.get('title') or filename
 

@@ -200,13 +200,15 @@ async function onSave(){
 
     let contentText = '';
     let ext = 'md';
-    const savedDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    // Use full ISO datetime including time and timezone
+    const savedDate = new Date().toISOString(); // YYYY-MM-DDTHH:MM:SS.sssZ
     
     if(fmt === 'md'){
-      // Add YAML front matter with saved_date and original title for sorting and display
-      // Use page.title as original title (not the slugified filename)
+      // Add YAML front matter with saved_date (ISO datetime) and original title for sorting and display
+      // Quote the title to avoid YAML parsing issues
       const originalTitle = page.title || 'Untitled Article';
-      contentText = '---\nsaved_date: ' + savedDate + '\ntitle: ' + originalTitle + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
+      const originalTitleQuoted = '"' + String(originalTitle).replace(/"/g,'\\"') + '"';
+      contentText = '---\nsaved_date: ' + savedDate + '\ntitle: ' + originalTitleQuoted + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
       ext = 'md';
     } else if(fmt === 'epub'){
       // Pass savedDate to EPUB generator (will be stored as meta tag)
