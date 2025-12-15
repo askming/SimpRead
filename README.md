@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-15; Total 283 articles._
+_Last updated on 2025-12-15; Total 284 articles._
 
 ## 2025
 
-_66 articles_
+_67 articles_
+
+- [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
 
 - [Why New Tech Only Feels Good For A Short Time Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), _added on 2025-12-15_
 
@@ -14,9 +16,9 @@ _66 articles_
 
 - [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
 
-- [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
-
 <details><summary>Show more</summary>
+
+- [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
 
 - [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-07_
 
