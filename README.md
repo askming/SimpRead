@@ -1,10 +1,10 @@
 # Saved readings
 
-_Last updated on 2025-12-15; Total 284 articles._
+_Last updated on 2025-12-15; Total 282 articles._
 
 ## 2025
 
-_67 articles_
+_65 articles_
 
 - [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
 
@@ -21,10 +21,6 @@ _67 articles_
 - [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
 
 - [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-07_
-
-- [why new tech only feels good for a short time popular science](./Saved_Reading/why%20new%20tech%20only%20feels%20good%20for%20a%20short%20time%20popular%20science.md), _added on 2025-12-07_
-
-- [how your brain creates aha moments and why they stick quanta magazine](./Saved_Reading/how%20your%20brain%20creates%20aha%20moments%20and%20why%20they%20stick%20quanta%20magazine.md), _added on 2025-12-07_
 
 - [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-07_
 
