@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-15; Total 282 articles._
+_Last updated on 2025-12-22; Total 283 articles._
 
 ## 2025
 
-_65 articles_
+_66 articles_
+
+- [2025 Llm Year In Review Karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), _added on 2025-12-22_
 
 - [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
 
@@ -14,9 +16,9 @@ _65 articles_
 
 - [When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT](./Saved_Reading/When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT.md), _added on 2025-12-14_
 
-- [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
-
 <details><summary>Show more</summary>
+
+- [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
 
 - [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
 
