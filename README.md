@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-22; Total 283 articles._
+_Last updated on 2025-12-22; Total 284 articles._
 
 ## 2025
 
-_66 articles_
+_67 articles_
+
+- [Ai Coding Agent Xxchans Blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), _added on 2025-12-22_
 
 - [2025 Llm Year In Review Karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), _added on 2025-12-22_
 
@@ -14,9 +16,9 @@ _66 articles_
 
 - [To Everyone Who Asks For Just A Little Of Your Time Heres What It Costs To Say Yes Thought Catalog](./Saved_Reading/To%20Everyone%20Who%20Asks%20For%20Just%20A%20Little%20Of%20Your%20Time%20Heres%20What%20It%20Costs%20To%20Say%20Yes%20Thought%20Catalog.md), _added on 2025-12-14_
 
-- [When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT](./Saved_Reading/When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT.md), _added on 2025-12-14_
-
 <details><summary>Show more</summary>
+
+- [When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT](./Saved_Reading/When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT.md), _added on 2025-12-14_
 
 - [daring fireball alan dye was in tim cooks blind spot](./Saved_Reading/daring%20fireball%20alan%20dye%20was%20in%20tim%20cooks%20blind%20spot.md), _added on 2025-12-14_
 
