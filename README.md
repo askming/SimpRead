@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-22; Total 284 articles._
+_Last updated on 2025-12-23; Total 285 articles._
 
 ## 2025
 
-_67 articles_
+_68 articles_
+
+- [This Life Gives You Nothing - Blackbird Spyplane](./Saved_Reading/This%20Life%20Gives%20You%20Nothing%20-%20Blackbird%20Spyplane.md), _added on 2025-12-22_
 
 - [Ai Coding Agent Xxchans Blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), _added on 2025-12-22_
 
@@ -14,9 +16,9 @@ _67 articles_
 
 - [Why New Tech Only Feels Good For A Short Time Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), _added on 2025-12-15_
 
-- [To Everyone Who Asks For Just A Little Of Your Time Heres What It Costs To Say Yes Thought Catalog](./Saved_Reading/To%20Everyone%20Who%20Asks%20For%20Just%20A%20Little%20Of%20Your%20Time%20Heres%20What%20It%20Costs%20To%20Say%20Yes%20Thought%20Catalog.md), _added on 2025-12-14_
-
 <details><summary>Show more</summary>
+
+- [To Everyone Who Asks For Just A Little Of Your Time Heres What It Costs To Say Yes Thought Catalog](./Saved_Reading/To%20Everyone%20Who%20Asks%20For%20Just%20A%20Little%20Of%20Your%20Time%20Heres%20What%20It%20Costs%20To%20Say%20Yes%20Thought%20Catalog.md), _added on 2025-12-14_
 
 - [When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT](./Saved_Reading/When_Linus_Met_Linus_Insights_From_Torvalds_Conversation_With_LTT.md), _added on 2025-12-14_
 
