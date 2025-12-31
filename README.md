@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-28; Total 286 articles._
+_Last updated on 2025-12-31; Total 287 articles._
 
 ## 2025
 
-_69 articles_
+_70 articles_
+
+- [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), _added on 2025-12-31_
 
 - [Useful Patterns For Building Html Tools](./Saved_Reading/Useful%20Patterns%20For%20Building%20Html%20Tools.md), _added on 2025-12-28_
 
@@ -14,9 +16,9 @@ _69 articles_
 
 - [2025 Llm Year In Review Karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), _added on 2025-12-22_
 
-- [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
-
 <details><summary>Show more</summary>
+
+- [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
 
 - [Why New Tech Only Feels Good For A Short Time Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), _added on 2025-12-15_
 
