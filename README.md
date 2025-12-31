@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2025-12-31; Total 287 articles._
+_Last updated on 2025-12-31; Total 288 articles._
 
 ## 2025
 
-_70 articles_
+_71 articles_
+
+- [Backing up Spotify - Anna’s Blog](./Saved_Reading/Backing%20up%20Spotify%20-%20Anna’s%20Blog.md), _added on 2025-12-31_
 
 - [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), _added on 2025-12-31_
 
@@ -14,9 +16,9 @@ _70 articles_
 
 - [Ai Coding Agent Xxchans Blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), _added on 2025-12-22_
 
-- [2025 Llm Year In Review Karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), _added on 2025-12-22_
-
 <details><summary>Show more</summary>
+
+- [2025 Llm Year In Review Karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), _added on 2025-12-22_
 
 - [How Your Brain Creates Aha Moments And Why They Stick Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), _added on 2025-12-15_
 
