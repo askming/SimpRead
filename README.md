@@ -1,6 +1,14 @@
 # Saved readings
 
-_Last updated on 2025-12-31; Total 288 articles._
+_Last updated on 2026-01-01; Total 289 articles._
+
+## 2026
+
+_1 articles_
+
+- [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), _added on 2026-01-01_
+
+</details>
 
 ## 2025
 
