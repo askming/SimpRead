@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-01; Total 289 articles._
+_Last updated on 2026-01-01; Total 290 articles._
 
 ## 2026
 
-_1 articles_
+_2 articles_
+
+- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), _added on 2026-01-01_
 
 - [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), _added on 2026-01-01_
 
