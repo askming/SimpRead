@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-03; Total 291 articles._
+_Last updated on 2026-01-03; Total 292 articles._
 
 ## 2026
 
-_3 articles_
+_4 articles_
+
+- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), _added on 2026-01-03_
 
 - [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), _added on 2026-01-03_
 
