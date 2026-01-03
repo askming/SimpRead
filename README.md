@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-01; Total 290 articles._
+_Last updated on 2026-01-03; Total 291 articles._
 
 ## 2026
 
-_2 articles_
+_3 articles_
+
+- [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), _added on 2026-01-03_
 
 - [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), _added on 2026-01-01_
 
