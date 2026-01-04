@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-04; Total 294 articles._
+_Last updated on 2026-01-04; Total 295 articles._
 
 ## 2026
 
-_6 articles_
+_7 articles_
+
+- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-04_
 
 - [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-04_
 
@@ -14,9 +16,9 @@ _6 articles_
 
 - [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), _added on 2026-01-03_
 
-- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), _added on 2026-01-01_
-
 <details><summary>Show more</summary>
+
+- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), _added on 2026-01-01_
 
 - [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), _added on 2026-01-01_
 
