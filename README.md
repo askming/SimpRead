@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-10; Total 296 articles._
+_Last updated on 2026-01-12; Total 297 articles._
 
 ## 2026
 
-_8 articles_
+_9 articles_
+
+- [Scientists Find Exercise Rivals Therapy For Depression Sciencedaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), _added on 2026-01-11_
 
 - [Addyosmanicom - 21 Lessons From 14 Years At Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), _added on 2026-01-09_
 
@@ -14,9 +16,9 @@ _8 articles_
 
 - [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), _added on 2026-01-04_
 
-- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), _added on 2026-01-03_
-
 <details><summary>Show more</summary>
+
+- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), _added on 2026-01-03_
 
 - [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), _added on 2026-01-03_
 
