@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-12; Total 297 articles._
+_Last updated on 2026-01-20; Total 298 articles._
 
 ## 2026
 
-_9 articles_
+_10 articles_
+
+- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), _added on 2026-01-19_
 
 - [Scientists Find Exercise Rivals Therapy For Depression Sciencedaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), _added on 2026-01-11_
 
@@ -14,9 +16,9 @@ _9 articles_
 
 - [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-04_
 
-- [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), _added on 2026-01-04_
-
 <details><summary>Show more</summary>
+
+- [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), _added on 2026-01-04_
 
 - [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), _added on 2026-01-03_
 
