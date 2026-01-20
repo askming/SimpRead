@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-20; Total 298 articles._
+_Last updated on 2026-01-20; Total 299 articles._
 
 ## 2026
 
-_10 articles_
+_11 articles_
+
+- [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), _added on 2026-01-20_
 
 - [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), _added on 2026-01-19_
 
@@ -14,9 +16,9 @@ _10 articles_
 
 - [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-04_
 
-- [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-04_
-
 <details><summary>Show more</summary>
+
+- [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-04_
 
 - [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), _added on 2026-01-04_
 
