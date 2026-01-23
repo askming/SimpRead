@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-20; Total 299 articles._
+_Last updated on 2026-01-23; Total 300 articles._
 
 ## 2026
 
-_11 articles_
+_12 articles_
+
+- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), _added on 2026-01-22_
 
 - [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), _added on 2026-01-20_
 
@@ -14,9 +16,9 @@ _11 articles_
 
 - [Addyosmanicom - 21 Lessons From 14 Years At Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), _added on 2026-01-09_
 
-- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-04_
-
 <details><summary>Show more</summary>
+
+- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-04_
 
 - [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-04_
 
