@@ -1,6 +1,7 @@
 ---
 saved_date: 2025-12-23T05:48:24.202Z
 title: "This life gives you nothing - Blackbird Spyplane"
+tags: [Health, Productivity, Science, Society, Technology]
 ---
 
 # This Life Gives You Nothing - Blackbird Spyplane

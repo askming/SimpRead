@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-01-12T01:11:37.272Z
 title: "Scientists find exercise rivals therapy for depression | ScienceDaily"
+tags: [Finance, Health, Productivity, Science, Society, Technology]
 ---
 
 # Scientists Find Exercise Rivals Therapy For Depression Sciencedaily

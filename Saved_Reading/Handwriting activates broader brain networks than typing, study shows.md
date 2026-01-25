@@ -3,6 +3,7 @@ title: "Handwriting activates broader brain networks than typing, study shows"
 url: "https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/"
 date: 2026-01-04
 status: read
+tags: [Productivity, Science, Technology]
 ---
 
 # Handwriting activates broader brain networks than typing, study shows

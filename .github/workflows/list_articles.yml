@@ -27,7 +27,10 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies & Run Python script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          pip install -r requirements.txt
           python main.py
       
       - name: Commit/Push changes 
@@ -35,7 +38,9 @@ jobs:
         with:
           github-token: ${{ secrets.SIMPREAD }}
           commit-message: "Create/Refresh article list"
-          files: README.md
+          files: |
+            README.md
+            Saved_Reading/*.md
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}

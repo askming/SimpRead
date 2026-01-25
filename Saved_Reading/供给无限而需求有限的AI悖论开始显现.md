@@ -3,6 +3,7 @@ title: "供给无限而需求有限的AI悖论开始显现"
 url: "https://mp.weixin.qq.com/s/9cR4uIXCEOISjyUnIYQ67w?from=singlemessage&scene=1&subscene=10000&sessionid=1768729379&clicktime=1768730992&enterid=1768730992&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8087779-zh_CN-zip&fasttmpl_flag=0&realreporttime=1768730992597"
 date: 2026-01-20
 status: read
+tags: [Technology]
 ---
 
 # 供给无限而需求有限的AI悖论开始显现

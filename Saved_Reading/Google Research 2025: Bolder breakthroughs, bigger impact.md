@@ -3,6 +3,7 @@ title: Google Research 2025: Bolder breakthroughs, bigger impact
 url: https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/
 date: 2025-12-31
 status: read
+tags: [Health, Productivity, Science, Society, Technology]
 ---
 
 # Google Research 2025: Bolder breakthroughs, bigger impact

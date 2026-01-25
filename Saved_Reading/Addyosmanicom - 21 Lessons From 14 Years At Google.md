@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-01-10T02:23:56.965Z
 title: "AddyOsmani.com - 21 Lessons From 14 Years at Google"
+tags: [Productivity, Society, Technology]
 ---
 
 # Addyosmanicom - 21 Lessons From 14 Years At Google

@@ -3,6 +3,7 @@ title: "OpenAI Atlas：第三次世界浏览器战争"
 url: "https://mp.weixin.qq.com/s/ZLLAFAxR_HZ6CcIe_OGDlQ"
 date: 2026-01-03
 status: read
+tags: [Technology]
 ---
 
 # OpenAI Atlas：第三次世界浏览器战争

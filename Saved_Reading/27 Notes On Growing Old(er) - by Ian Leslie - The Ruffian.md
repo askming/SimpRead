@@ -3,6 +3,7 @@ title: "27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian"
 url: "https://www.ian-leslie.com/p/27-notes-on-growing-older"
 date: 2026-01-04
 status: read
+tags: [Productivity, Society, Technology]
 ---
 
 # 27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian

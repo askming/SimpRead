@@ -3,6 +3,7 @@ title: "Original Mac calculator design came from letting Steve Jobs play with me
 url: "https://arstechnica.com/gadgets/2025/11/original-mac-calculators-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/"
 date: 2026-01-04
 status: read
+tags: [Productivity, Science, Society, Technology]
 ---
 
 # Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica

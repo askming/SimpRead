@@ -1,6 +1,7 @@
 ---
 saved_date: 2025-12-22T17:49:53.319Z
 title: "2025 LLM Year in Review | karpathy"
+tags: [Productivity, Science, Society, Technology]
 ---
 
 # 2025 Llm Year In Review Karpathy
