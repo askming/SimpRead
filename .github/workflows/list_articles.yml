@@ -26,9 +26,22 @@ jobs:
           python-version: 3.9
           cache: 'pip'
 
-      - name: Install dependencies & Run Python script
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run tag suggester (keyword-only)
+        run: |
+          python scripts/tag_suggester.py --apply --force-keyword || true
+
+      - name: Generate README using main.py (preserve existing formatting)
         run: |
           python main.py
+
+      - name: Insert first tag into README entries
+        run: |
+          python scripts/insert_tags_into_readme.py || true
       
       - name: Commit/Push changes 
         uses: github-actions-x/commit@v2.9
