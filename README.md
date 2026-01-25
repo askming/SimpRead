@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-25; Total 301 articles._
+_Last updated on 2026-01-25; Total 302 articles._
 
 ## 2026
 
-_13 articles_
+_14 articles_
+
+- [Skillsgithub -](./Saved_Reading/Skillsgithub%20-.md), _added on 2026-01-25_
 
 - [The Great Downzoning - Works In Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), _added on 2026-01-25_
 
@@ -14,9 +16,9 @@ _13 articles_
 
 - [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), _added on 2026-01-19_
 
-- [Scientists Find Exercise Rivals Therapy For Depression Sciencedaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), _added on 2026-01-11_
-
 <details><summary>Show more</summary>
+
+- [Scientists Find Exercise Rivals Therapy For Depression Sciencedaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), _added on 2026-01-11_
 
 - [Addyosmanicom - 21 Lessons From 14 Years At Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), _added on 2026-01-09_
 
