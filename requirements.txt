@@ -1,8 +1,1 @@
 PyGithub
- 
-# Tagging tool dependencies
-sentence-transformers>=2.2.2
-openai>=1.0.0
-pyyaml
-numpy
-tqdm
