@@ -6,7 +6,7 @@ import argparse
 import re
 import time
 try:
-    import google.generativeai as genai
+    from google import genai
     HAS_GENAI = True
 except ImportError:
     HAS_GENAI = False
@@ -54,8 +54,7 @@ def generate_tags_llm(content, title):
         return None
 
     try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash-latest') # Use a fast/cheap model
+        client = genai.Client(api_key=api_key)
         
         prompt = f"""
         Analyze the following article content and title. 
@@ -67,12 +66,13 @@ def generate_tags_llm(content, title):
         {content[:4000]}
         """
         
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model='gemini-2.0-flash', # Upgrade to 2.0 Flash
+            contents=prompt
+        )
         tag = response.text.strip()
         
-        # Validate response is in our list
         valid_tags = ["Technology", "Finance", "Productivity", "Health", "Science", "Society"]
-        # Basic cleanup
         for v_tag in valid_tags:
             if v_tag.lower() in tag.lower():
                 return [v_tag]
@@ -121,7 +121,7 @@ def update_file_tags(file_path):
                 generated_tags = generate_tags_keyword(body[:4000], title) 
             # If used LLM, maybe sleep briefly to respect rate limits if processing many files
             elif os.environ.get("GEMINI_API_KEY"):
-                time.sleep(4) # Free tier has roughly 15 RPM = 4 sec/req
+                time.sleep(2) 
             
             if generated_tags:
                 # Insert tags into frontmatter
@@ -142,120 +142,94 @@ def update_file_tags(file_path):
     return []
 
 def extract_saved_date(file_path):
-    """Extract saved_date, title, and tags from file metadata:
-    - For .md files: check YAML front matter for saved_date, title, and tags
-    - For .epub files: check meta tag in XHTML for saved_date
-    - For .pdf files: fall back to git log
-    
-    Returns dict with 'date', 'date_str', 'year', 'title', and 'tags' (if available)
-    """
+    """Extract metadata. Prefer Git Creation Date to ensure correct ordering."""
     result = {}
+    
+    # Always get Git metadata first to have a baseline "added date"
+    git_meta = get_file_metadata_git(file_path)
     
     try:
         if file_path.endswith('.md'):
-            # First, ensure tags are up to date/generated
+            # Ensure tags are generated (this might update modification time, so we trust git_meta for creation)
             tags = update_file_tags(file_path)
             
             with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read(1500)  # Read first part for front matter
-                # Look for YAML front matter: ---\nsaved_date: ISO_DATETIME\ntitle: "..."
-                date_match = re.search(r'saved_date:\s*([^\n\r]+)', content)
+                content = f.read(1500)
                 title_match = re.search(r'title:\s*"?(.+?)"?\s*(?:\n|---)', content)
                 tags_match = re.search(r'tags:\s*\[(.*?)\]', content)
 
-                if date_match:
-                    date_str_raw = date_match.group(1).strip()
-                    try:
-                        dt = datetime.datetime.fromisoformat(date_str_raw)
-                    except Exception:
-                        # Fallback: if only a date is present, parse as date at midnight
-                        try:
-                            d = datetime.datetime.strptime(date_str_raw, '%Y-%m-%d').date()
-                            dt = datetime.datetime.combine(d, datetime.time.min)
-                        except Exception:
-                            dt = None
+                # Prioritize Git Creation Date if available
+                if git_meta and git_meta.get('datetime'):
+                    result = git_meta.copy()
+                else:
+                    # Fallback to current time if git fails (shouldn't happen in repo)
+                    now = datetime.datetime.now()
+                    result = {'datetime': now, 'date_str': now.isoformat(), 'year': str(now.year)}
 
-                    if dt:
-                        result = {
-                            'datetime': dt,
-                            'date_str': dt.isoformat(),
-                            'year': str(dt.year)
-                        }
-                        if title_match:
-                            result['title'] = title_match.group(1).strip()
-                        
-                        # Use tags from processing or regex
-                        if tags:
-                             result['tags'] = tags
-                        elif tags_match:
-                             result['tags'] = [t.strip().strip("'").strip('"') for t in tags_match.group(1).split(',') if t.strip()]
+                if title_match:
+                    result['title'] = title_match.group(1).strip()
+                
+                if tags:
+                     result['tags'] = tags
+                elif tags_match:
+                     result['tags'] = [t.strip().strip("'").strip('"') for t in tags_match.group(1).split(',') if t.strip()]
 
-                        return result
+                return result
         
         elif file_path.endswith('.epub'):
-            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                content = f.read(1200)  # Read first part for meta tag
-                # Look for meta tag: <meta name="saved_date" content="ISO_DATETIME"/>
-                match = re.search(r'<meta\s+name="saved_date"\s+content="([^"]+)"', content)
-                if match:
-                    date_str_raw = match.group(1).strip()
-                    try:
-                        dt = datetime.datetime.fromisoformat(date_str_raw)
-                        return {
-                            'datetime': dt,
-                            'date_str': dt.isoformat(),
-                            'year': str(dt.year)
-                        }
-                    except Exception:
-                        try:
-                            d = datetime.datetime.strptime(date_str_raw, '%Y-%m-%d').date()
-                            dt = datetime.datetime.combine(d, datetime.time.min)
-                            return {
-                                'datetime': dt,
-                                'date_str': dt.isoformat(),
-                                'year': str(dt.year)
-                            }
-                        except Exception:
-                            pass
+             # ... (Keep existing EPUB logic or default to git) ...
+             # For simplicity, let's use git for EPUB as well to be consistent on "added date"
+             if git_meta:
+                 return git_meta
+             pass
     except (FileNotFoundError, Exception):
         pass
     
-    # Fallback: use git log if no metadata found
-    return get_file_metadata_git(file_path)
+    return git_meta
 
 def get_file_metadata_git(file_path):
-    """Get file date from git history using the last commit that modified it"""
+    """Get file creation date from git history"""
     try:
-        # Use the last commit that touched this file (most recent modification, not just creation)
-        # This better preserves the actual save date
+        # --diff-filter=A finds the commit that ADDED the file (Creation Date)
         result = subprocess.run(
-            ["git", "log", "-1", "--format=%aI", "--", file_path],
+            ["git", "log", "--diff-filter=A", "--follow", "--format=%aI", "-1", "--", file_path],
             capture_output=True, text=True, timeout=5
         )
         
         if result.returncode == 0 and result.stdout:
             date_str = result.stdout.strip()
-            # Parse ISO format into datetime (may include timezone)
             try:
                 dt = datetime.datetime.fromisoformat(date_str)
-            except Exception:
-                # Fallback: parse as date only
-                try:
-                    d = datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
-                    dt = datetime.datetime.combine(d, datetime.time.min)
-                except Exception:
-                    dt = None
-
-            if dt:
                 return {
                     'datetime': dt,
                     'date_str': dt.isoformat(),
                     'year': str(dt.year)
                 }
+            except ValueError:
+                pass
+        
+        # If diff-filter=A fails (e.g. initial commit oddities), try getting the oldest commit
+        result_reverse = subprocess.run(
+            ["git", "log", "--reverse", "--format=%aI", "--", file_path],
+            capture_output=True, text=True, timeout=5
+        )
+        if result_reverse.returncode == 0 and result_reverse.stdout:
+            # First line is the oldest commit
+            date_str = result_reverse.stdout.splitlines()[0].strip()
+            try:
+                dt = datetime.datetime.fromisoformat(date_str)
+                return {
+                    'datetime': dt,
+                    'date_str': dt.isoformat(),
+                    'year': str(dt.year)
+                }
+            except ValueError:
+                pass
+
     except (subprocess.TimeoutExpired, Exception):
         pass
     
-    # Fallback: use current datetime if git log fails
+    # Final Fallback: use current time
     now = datetime.datetime.now()
     return {
         'datetime': now,
