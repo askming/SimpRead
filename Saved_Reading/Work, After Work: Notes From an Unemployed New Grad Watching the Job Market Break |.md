@@ -4,6 +4,7 @@ url: "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-n
 date: 2026-01-03
 status: read
 tags: [Finance, Productivity, Science, Society, Technology]
+tags: [Finance, Technology, Science]
 ---
 
 # Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |

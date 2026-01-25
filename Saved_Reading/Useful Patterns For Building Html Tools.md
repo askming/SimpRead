@@ -2,6 +2,7 @@
 saved_date: 2025-12-28T22:04:31.202Z
 title: "Useful patterns for building HTML tools"
 tags: [Technology]
+tags: [Technology]
 ---
 
 # Useful Patterns For Building Html Tools

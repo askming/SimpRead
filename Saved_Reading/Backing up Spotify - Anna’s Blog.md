@@ -4,6 +4,7 @@ url: "https://zh.annas-archive.org/blog/backing-up-spotify.html"
 date: 2025-12-31
 status: read
 tags: [Technology]
+tags: [Technology]
 ---
 
 # Backing up Spotify - Anna’s Blog

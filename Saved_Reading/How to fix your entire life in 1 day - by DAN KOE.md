@@ -4,6 +4,7 @@ url: "https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1"
 date: 2026-01-19
 status: read
 tags: [Health, Productivity, Science, Society, Technology]
+tags: [Productivity, Health]
 ---
 
 # How to fix your entire life in 1 day - by DAN KOE

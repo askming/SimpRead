@@ -2,6 +2,7 @@
 saved_date: 2025-12-22T19:28:39.833Z
 title: "我对各种 AI Coding Agent 工具的看法 · xxchan's blog"
 tags: [Productivity, Technology]
+tags: [Technology]
 ---
 
 # Ai Coding Agent Xxchans Blog

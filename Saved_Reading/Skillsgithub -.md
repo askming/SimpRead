@@ -2,6 +2,7 @@
 saved_date: 2026-01-25T21:37:24.403Z
 title: "Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎"
 tags: [Society, Technology]
+tags: [Technology]
 ---
 
 # Skillsgithub -
