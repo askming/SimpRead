@@ -5,7 +5,11 @@ import datetime
 import argparse
 import re
 import time
-import google.generativeai as genai
+try:
+    import google.generativeai as genai
+    HAS_GENAI = True
+except ImportError:
+    HAS_GENAI = False
 
 SOURCE = './Saved_Reading'
 
@@ -42,6 +46,9 @@ def generate_tags_keyword(content, title):
 
 def generate_tags_llm(content, title):
     """Generate tags using Gemini API"""
+    if not HAS_GENAI:
+        return None
+        
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -94,9 +101,12 @@ def update_file_tags(file_path):
                  # Extract existing tags
                 tag_match = re.search(r'tags:\s*\[(.*?)\]', frontmatter)
                 if tag_match:
+                    print(f"Skipping {file_path}: Tags already present.")
                     return [t.strip().strip("'").strip('"') for t in tag_match.group(1).split(',') if t.strip()]
+                print(f"Skipping {file_path}: 'tags:' field present but empty/unparseable.")
                 return [] 
             
+            print(f"Generating tags for {file_path}...")
             # Generate tags
             title_match = re.search(r'title:\s*"?(.+?)"?\s*\n', frontmatter)
             title = title_match.group(1) if title_match else ""
