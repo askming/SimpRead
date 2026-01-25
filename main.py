@@ -74,10 +74,23 @@ def generate_tags_llm(content, title):
         {content}
         """
         
-        response = client.models.generate_content(
-            model='gemini-2.0-flash', 
-            contents=prompt
-        )
+        # Simple Retry Mechanism (1 retry)
+        try:
+            response = client.models.generate_content(
+                model='gemini-2.0-flash', 
+                contents=prompt
+            )
+        except Exception as e:
+            if "429" in str(e) or "ResourceExhausted" in str(e):
+                print("Rate limit hit (429). Sleeping for 60s...")
+                time.sleep(60)
+                response = client.models.generate_content(
+                    model='gemini-2.0-flash', 
+                    contents=prompt
+                )
+            else:
+                raise e
+
         tag = response.text.strip()
         
         valid_tags = ["Technology", "Finance", "Productivity", "Health", "Science", "Society"]
@@ -133,7 +146,7 @@ def update_file_tags(file_path, force=False):
                 generated_tags = generate_tags_keyword(body[:4000], title) 
             # If used LLM, maybe sleep briefly to respect rate limits if processing many files
             elif os.environ.get("GEMINI_API_KEY"):
-                time.sleep(2) 
+                time.sleep(4)  # Increased from 2s to 4s to fit 15 RPM 
             
             if generated_tags:
                 # Remove existing tags line if forcing update
