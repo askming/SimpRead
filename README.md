@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-23; Total 300 articles._
+_Last updated on 2026-01-25; Total 301 articles._
 
 ## 2026
 
-_12 articles_
+_13 articles_
+
+- [The Great Downzoning - Works In Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), _added on 2026-01-25_
 
 - [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), _added on 2026-01-22_
 
@@ -14,9 +16,9 @@ _12 articles_
 
 - [Scientists Find Exercise Rivals Therapy For Depression Sciencedaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), _added on 2026-01-11_
 
-- [Addyosmanicom - 21 Lessons From 14 Years At Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), _added on 2026-01-09_
-
 <details><summary>Show more</summary>
+
+- [Addyosmanicom - 21 Lessons From 14 Years At Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), _added on 2026-01-09_
 
 - [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-04_
 
