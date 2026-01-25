@@ -6,23 +6,23 @@ _Last updated on 2026-01-25; Total 302 articles._
 
 _14 articles_
 
-- [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
+- [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Society]</sup> _added on 2026-01-25_
 
-- [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Society]</sup> _added on 2026-01-25_
+- [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Health]</sup> _added on 2026-01-25_
 
-- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Technology]</sup> _added on 2026-01-22_
+- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Finance]</sup> _added on 2026-01-22_
 
 - [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
 
-- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Productivity]</sup> _added on 2026-01-19_
+- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Health]</sup> _added on 2026-01-19_
 
 <details><summary>Show more</summary>
 
-- [Scientists find exercise rivals therapy for depression | ScienceDaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), <sup>[Health]</sup> _added on 2026-01-11_
+- [Scientists find exercise rivals therapy for depression | ScienceDaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), <sup>[Finance]</sup> _added on 2026-01-11_
 
 - [AddyOsmani.com - 21 Lessons From 14 Years at Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), <sup>[Productivity]</sup> _added on 2026-01-09_
 
-- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), <sup>[Health]</sup> _added on 2026-01-04_
+- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), <sup>[Productivity]</sup> _added on 2026-01-04_
 
 - [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), <sup>[Productivity]</sup> _added on 2026-01-04_
 
@@ -32,7 +32,7 @@ _14 articles_
 
 - [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), <sup>[Technology]</sup> _added on 2026-01-03_
 
-- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), <sup>[Science]</sup> _added on 2026-01-01_
+- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), <sup>[Health]</sup> _added on 2026-01-01_
 
 - [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), <sup>[Health]</sup> _added on 2026-01-01_
 
@@ -44,19 +44,19 @@ _70 articles_
 
 - [Backing up Spotify - Anna’s Blog](./Saved_Reading/Backing%20up%20Spotify%20-%20Anna’s%20Blog.md), <sup>[Technology]</sup> _added on 2025-12-31_
 
-- [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), <sup>[Science]</sup> _added on 2025-12-31_
+- [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), <sup>[Health]</sup> _added on 2025-12-31_
 
 - [Useful patterns for building HTML tools](./Saved_Reading/Useful%20Patterns%20For%20Building%20Html%20Tools.md), <sup>[Technology]</sup> _added on 2025-12-28_
 
 - [This life gives you nothing - Blackbird Spyplane](./Saved_Reading/This%20Life%20Gives%20You%20Nothing%20-%20Blackbird%20Spyplane.md), <sup>[Health]</sup> _added on 2025-12-22_
 
-- [我对各种 AI Coding Agent 工具的看法 · xxchan's blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), <sup>[Technology]</sup> _added on 2025-12-22_
+- [我对各种 AI Coding Agent 工具的看法 · xxchan's blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), <sup>[Productivity]</sup> _added on 2025-12-22_
 
 <details><summary>Show more</summary>
 
-- [2025 LLM Year in Review | karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), <sup>[Technology]</sup> _added on 2025-12-22_
+- [2025 LLM Year in Review | karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), <sup>[Productivity]</sup> _added on 2025-12-22_
 
-- [Why new tech only feels good for a short time | Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), <sup>[Science]</sup> _added on 2025-12-15_
+- [Why new tech only feels good for a short time | Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), <sup>[Finance]</sup> _added on 2025-12-15_
 
 - [To Everyone Who Asks For Just A Little Of Your Time Heres What It Costs To Say Yes Thought Catalog](./Saved_Reading/To%20Everyone%20Who%20Asks%20For%20Just%20A%20Little%20Of%20Your%20Time%20Heres%20What%20It%20Costs%20To%20Say%20Yes%20Thought%20Catalog.md), _added on 2025-12-14_
 
