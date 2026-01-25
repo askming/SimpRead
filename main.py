@@ -57,17 +57,25 @@ def generate_tags_llm(content, title):
         client = genai.Client(api_key=api_key)
         
         prompt = f"""
-        Analyze the following article content and title. 
-        Identify the single most relevant category from this list: [Technology, Finance, Productivity, Health, Science, Society]. 
-        Return ONLY the category name. If none fit perfectly, choose the closest one.
+        Analyze the full text of the article below.
+        Classify it into EXACTLY ONE of these categories:
+        - Technology (Software, AI, Engineering, Tools)
+        - Finance (Investing, Economics, Markets, Money)
+        - Productivity (Work, Habits, Career, Learning)
+        - Health (Medicine, Fitness, Psychology, Neuroscience)
+        - Science (Physics, Biology, Astronomy, Research)
+        - Society (Politics, History, Culture, Urbanism)
+
+        If it fits multiple, choose the PRIMARY domain.
+        Return ONLY the category name.
         
         Title: {title}
-        Content Snippet:
-        {content[:4000]}
+        Content:
+        {content}
         """
         
         response = client.models.generate_content(
-            model='gemini-2.0-flash', # Upgrade to 2.0 Flash
+            model='gemini-2.0-flash', 
             contents=prompt
         )
         tag = response.text.strip()
@@ -82,7 +90,7 @@ def generate_tags_llm(content, title):
         print(f"Gemini API Error: {e}")
         return None
 
-def update_file_tags(file_path):
+def update_file_tags(file_path, force=False):
     """Check for tags in frontmatter, generate if missing, and update file."""
     if not file_path.endswith('.md'):
         return []
@@ -97,7 +105,7 @@ def update_file_tags(file_path):
         if match:
             frontmatter = match.group(1)
             # Check if tags already exist
-            if 'tags:' in frontmatter:
+            if 'tags:' in frontmatter and not force:
                  # Extract existing tags
                 tag_match = re.search(r'tags:\s*\[(.*?)\]', frontmatter)
                 if tag_match:
@@ -106,7 +114,11 @@ def update_file_tags(file_path):
                 print(f"Skipping {file_path}: 'tags:' field present but empty/unparseable.")
                 return [] 
             
-            print(f"Generating tags for {file_path}...")
+            if force:
+                print(f"Force updating tags for {file_path}...")
+            else:
+                print(f"Generating tags for {file_path}...")
+
             # Generate tags
             title_match = re.search(r'title:\s*"?(.+?)"?\s*\n', frontmatter)
             title = title_match.group(1) if title_match else ""
@@ -124,10 +136,14 @@ def update_file_tags(file_path):
                 time.sleep(2) 
             
             if generated_tags:
+                # Remove existing tags line if forcing update
+                if 'tags:' in frontmatter:
+                    frontmatter = re.sub(r'tags:.*?\n', '', frontmatter).strip()
+
                 # Insert tags into frontmatter
                 tags_line = f"tags: [{', '.join(generated_tags)}]"
                 new_frontmatter = frontmatter.rstrip() + "\n" + tags_line + "\n"
-                new_content = content.replace(f"---\n{frontmatter}\n---", f"---\n{new_frontmatter}---")
+                new_content = content.replace(f"---\n{match.group(1)}\n---", f"---\n{new_frontmatter}---")
                 
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(new_content)
@@ -141,7 +157,7 @@ def update_file_tags(file_path):
         
     return []
 
-def extract_saved_date(file_path):
+def extract_saved_date(file_path, force_update=False):
     """Extract metadata. Prefer Git Creation Date to ensure correct ordering."""
     result = {}
     
@@ -151,7 +167,7 @@ def extract_saved_date(file_path):
     try:
         if file_path.endswith('.md'):
             # Ensure tags are generated (this might update modification time, so we trust git_meta for creation)
-            tags = update_file_tags(file_path)
+            tags = update_file_tags(file_path, force=force_update)
             
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read(1500)
@@ -237,7 +253,7 @@ def get_file_metadata_git(file_path):
         'year': str(now.year)
     }
 
-def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
+def read_list_files(sourcepath=SOURCE, md_name ="./README.md", force_update=False):
     file_types = ["*.md", "*.pdf", "*.epub"]
     filepaths = []
     for ext in file_types:
@@ -250,7 +266,7 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
     file_metadata = {}
     for path in filepaths:
         if path.endswith('.md') or path.endswith('.epub'):
-            file_metadata[path] = extract_saved_date(path)
+            file_metadata[path] = extract_saved_date(path, force_update=force_update)
         else:
             # .pdf and other formats: use git log
             file_metadata[path] = get_file_metadata_git(path)
@@ -308,5 +324,9 @@ def read_list_files(sourcepath=SOURCE, md_name ="./README.md"):
                 f.write("</details>\n\n")   
 
 if __name__ == "__main__":
-    read_list_files()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--force', action='store_true', help='Force regenerate all tags')
+    args = parser.parse_args()
+    
+    read_list_files(force_update=args.force)
 

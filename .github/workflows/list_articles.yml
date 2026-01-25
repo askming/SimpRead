@@ -2,6 +2,13 @@ name: Generate article list
 
 on:
   workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Force regenerate all tags'
+        required: false
+        type: boolean
+        default: false
+  
   push:
     branches:
       - main
@@ -31,7 +38,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           pip install -r requirements.txt
-          python main.py
+          ARGS=""
+          if [ "${{ inputs.force_update }}" == "true" ]; then
+            ARGS="--force"
+          fi
+          python main.py $ARGS
       
       - name: Commit/Push changes 
         uses: github-actions-x/commit@v2.9
