@@ -4,61 +4,57 @@ _Last updated on 2026-01-25; Total 302 articles._
 
 ## 2026
 
-_17 articles_
-
-- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), _added on 2026-01-25_
-
-- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), _added on 2026-01-25_
-
-- [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), _added on 2026-01-25_
-
-- [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), _added on 2026-01-25_
-
-- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), _added on 2026-01-25_
-
-<details><summary>Show more</summary>
-
-- [Backing up Spotify - Anna’s Blog](./Saved_Reading/Backing%20up%20Spotify%20-%20Anna’s%20Blog.md), _added on 2026-01-25_
-
-- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), _added on 2026-01-25_
-
-- [渴望矩阵](./Saved_Reading/渴望矩阵.md), _added on 2026-01-25_
-
-- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), _added on 2026-01-25_
-
-- [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), _added on 2026-01-25_
-
-- [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), _added on 2026-01-25_
-
-- [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), _added on 2026-01-25_
-
-- [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), _added on 2026-01-25_
+_14 articles_
 
 - [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Society]</sup> _added on 2026-01-25_
 
 - [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Health]</sup> _added on 2026-01-25_
 
-- [Scientists find exercise rivals therapy for depression | ScienceDaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), <sup>[Finance]</sup> _added on 2026-01-12_
+- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Finance]</sup> _added on 2026-01-22_
 
-- [AddyOsmani.com - 21 Lessons From 14 Years at Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), <sup>[Productivity]</sup> _added on 2026-01-10_
+- [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
+
+- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Health]</sup> _added on 2026-01-19_
+
+<details><summary>Show more</summary>
+
+- [Scientists find exercise rivals therapy for depression | ScienceDaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), <sup>[Finance]</sup> _added on 2026-01-11_
+
+- [AddyOsmani.com - 21 Lessons From 14 Years at Google](./Saved_Reading/Addyosmanicom%20-%2021%20Lessons%20From%2014%20Years%20At%20Google.md), <sup>[Productivity]</sup> _added on 2026-01-09_
+
+- [Handwriting activates broader brain networks than typing, study shows](./Saved_Reading/Handwriting%20activates%20broader%20brain%20networks%20than%20typing,%20study%20shows.md), <sup>[Productivity]</sup> _added on 2026-01-04_
+
+- [Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes - Ars Technica](./Saved_Reading/Original%20Mac%20calculator%20design%20came%20from%20letting%20Steve%20Jobs%20play%20with%20menus%20for%2010%20minutes%20-%20Ars%20Technica.md), <sup>[Productivity]</sup> _added on 2026-01-04_
+
+- [27 Notes On Growing Old(er) - by Ian Leslie - The Ruffian](./Saved_Reading/27%20Notes%20On%20Growing%20Old(er)%20-%20by%20Ian%20Leslie%20-%20The%20Ruffian.md), <sup>[Productivity]</sup> _added on 2026-01-04_
+
+- [Work, After Work: Notes From an Unemployed New Grad Watching the Job Market Break |](./Saved_Reading/Work,%20After%20Work:%20Notes%20From%20an%20Unemployed%20New%20Grad%20Watching%20the%20Job%20Market%20Break%20|.md), <sup>[Finance]</sup> _added on 2026-01-03_
+
+- [OpenAI Atlas：第三次世界浏览器战争](./Saved_Reading/OpenAI%20Atlas：第三次世界浏览器战争.md), <sup>[Technology]</sup> _added on 2026-01-03_
+
+- [THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA](./Saved_Reading/THE%20PROBLEM%20OF%20TEACHING%20PHYSICS%20IN%20LATIN%20AMERICA.md), <sup>[Health]</sup> _added on 2026-01-01_
+
+- [Andrej's advice for success](./Saved_Reading/Andrej's%20advice%20for%20success.md), <sup>[Health]</sup> _added on 2026-01-01_
 
 </details>
 
 ## 2025
 
-_69 articles_
+_70 articles_
+
+- [Backing up Spotify - Anna’s Blog](./Saved_Reading/Backing%20up%20Spotify%20-%20Anna’s%20Blog.md), <sup>[Technology]</sup> _added on 2025-12-31_
+
+- [Google Research 2025: Bolder breakthroughs, bigger impact](./Saved_Reading/Google%20Research%202025:%20Bolder%20breakthroughs,%20bigger%20impact.md), <sup>[Health]</sup> _added on 2025-12-31_
 
 - [Useful patterns for building HTML tools](./Saved_Reading/Useful%20Patterns%20For%20Building%20Html%20Tools.md), <sup>[Technology]</sup> _added on 2025-12-28_
 
-- [This life gives you nothing - Blackbird Spyplane](./Saved_Reading/This%20Life%20Gives%20You%20Nothing%20-%20Blackbird%20Spyplane.md), <sup>[Health]</sup> _added on 2025-12-23_
+- [This life gives you nothing - Blackbird Spyplane](./Saved_Reading/This%20Life%20Gives%20You%20Nothing%20-%20Blackbird%20Spyplane.md), <sup>[Health]</sup> _added on 2025-12-22_
 
 - [我对各种 AI Coding Agent 工具的看法 · xxchan's blog](./Saved_Reading/Ai%20Coding%20Agent%20Xxchans%20Blog.md), <sup>[Productivity]</sup> _added on 2025-12-22_
 
-- [2025 LLM Year in Review | karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), <sup>[Productivity]</sup> _added on 2025-12-22_
-
-- [How Your Brain Creates ‘Aha’ Moments and Why They Stick | Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), <sup>[Health]</sup> _added on 2025-12-15_
-
 <details><summary>Show more</summary>
+
+- [2025 LLM Year in Review | karpathy](./Saved_Reading/2025%20Llm%20Year%20In%20Review%20Karpathy.md), <sup>[Productivity]</sup> _added on 2025-12-22_
 
 - [Why new tech only feels good for a short time | Popular Science](./Saved_Reading/Why%20New%20Tech%20Only%20Feels%20Good%20For%20A%20Short%20Time%20Popular%20Science.md), <sup>[Finance]</sup> _added on 2025-12-15_
 
@@ -71,6 +67,8 @@ _69 articles_
 - [texting myself the weather every day](./Saved_Reading/texting%20myself%20the%20weather%20every%20day.md), _added on 2025-12-07_
 
 - [why writing by hand is better for memory and learning scientific american](./Saved_Reading/why%20writing%20by%20hand%20is%20better%20for%20memory%20and%20learning%20scientific%20american.md), _added on 2025-12-07_
+
+- [How Your Brain Creates ‘Aha’ Moments and Why They Stick | Quanta Magazine](./Saved_Reading/How%20Your%20Brain%20Creates%20Aha%20Moments%20And%20Why%20They%20Stick%20Quanta%20Magazine.md), <sup>[Health]</sup> _added on 2025-12-07_
 
 - [the-last-people-before-the-internet-by-drew-austin](./Saved_Reading/the-last-people-before-the-internet-by-drew-austin.md), _added on 2025-12-07_
 
@@ -118,19 +116,17 @@ _69 articles_
 
 - [The Relationship Is the Job - by Anu Atluru](./Saved_Reading/The%20Relationship%20Is%20the%20Job%20-%20by%20Anu%20Atluru.md), _added on 2025-06-15_
 
-- [🙏少读点书，多刷刷抖音吧](./Saved_Reading/🙏少读点书，多刷刷抖音吧.md), _added on 2025-06-09_
-
-- [HumanSystemOptimization: 健康学习到 150 岁 - 人体系统调优不完全指南](./Saved_Reading/HumanSystemOptimization:%20健康学习到%20150%20岁%20-%20人体系统调优不完全指南.md), _added on 2025-06-09_
-
-- [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-06-09_
-
-- [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-09_
+- [From Typewriters to Transformers: AI is Just the Next Tools Abstraction](./Saved_Reading/From%20Typewriters%20to%20Transformers:%20AI%20is%20Just%20the%20Next%20Tools%20Abstraction.md), _added on 2025-06-08_
 
 - [The tax code time bomb fueling mass tech layoffs](./Saved_Reading/The%20tax%20code%20time%20bomb%20fueling%20mass%20tech%20layoffs.md), _added on 2025-06-08_
 
 - [If you are useful, it doesn’t mean you are valued](./Saved_Reading/If%20you%20are%20useful,%20it%20doesn’t%20mean%20you%20are%20valued.md), _added on 2025-06-08_
 
 - [如何成为天才 – Sqr5's blog](./Saved_Reading/如何成为天才%20–%20Sqr5's%20blog.md), _added on 2025-06-04_
+
+- [HumanSystemOptimization: 健康学习到 150 岁 - 人体系统调优不完全指南](./Saved_Reading/HumanSystemOptimization:%20健康学习到%20150%20岁%20-%20人体系统调优不完全指南.md), _added on 2025-04-27_
+
+- [Are Your A Creator Or A Consumer?](./Saved_Reading/Are%20Your%20A%20Creator%20Or%20A%20Consumer?.md), _added on 2025-04-24_
 
 - [5 NotebookLM tips I use to supercharge my productivity](./Saved_Reading/5%20NotebookLM%20tips%20I%20use%20to%20supercharge%20my%20productivity.md), _added on 2025-04-24_
 
@@ -160,8 +156,6 @@ _69 articles_
 
 - [Bacteria (and Their Metabolites) and Depression  | Science | AAAS](./Saved_Reading/Bacteria%20(and%20Their%20Metabolites)%20and%20Depression%20%20|%20Science%20|%20AAAS.md), _added on 2025-02-22_
 
-- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-21_
-
 - [Federal Funds Rate History: 1980 Through The Present | Bankrate](./Saved_Reading/Federal%20Funds%20Rate%20History:%201980%20Through%20The%20Present%20|%20Bankrate.md), _added on 2025-02-12_
 
 - [揭开 Spotify 的惊天黑幕](./Saved_Reading/揭开%20Spotify%20的惊天黑幕.md), _added on 2025-02-09_
@@ -174,13 +168,15 @@ _69 articles_
 
 - [这些益生菌实际上可能会损害你的 “肠道健康” – Telegraph](./Saved_Reading/这些益生菌实际上可能会损害你的%20“肠道健康”%20–%20Telegraph.md), _added on 2025-02-07_
 
+- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-02_
+
 - [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-02_
 
 - [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-24_
 
-- [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-23_
+- [Why do bees die when they sting you](./Saved_Reading/Why%20do%20bees%20die%20when%20they%20sting%20you.md), _added on 2025-01-22_
 
-- [Why probability probably doesn’t exist](./Saved_Reading/Why%20probability%20probably%20doesn’t%20exist.md), _added on 2025-01-23_
+- [Why probability probably doesn’t exist](./Saved_Reading/Why%20probability%20probably%20doesn’t%20exist.md), _added on 2025-01-13_
 
 - [The unbearable slowness of being-Why do we live at 10 bits:s?](./Saved_Reading/The%20unbearable%20slowness%20of%20being-Why%20do%20we%20live%20at%2010%20bits:s?.pdf), _added on 2025-01-07_
 
@@ -192,7 +188,7 @@ _69 articles_
 
 ## 2024
 
-_43 articles_
+_44 articles_
 
 - [Stopping by Woods on a Snowy Evening by Robert Frost - Poems | Academy of American Poets](./Saved_Reading/Stopping%20by%20Woods%20on%20a%20Snowy%20Evening%20by%20Robert%20Frost%20-%20Poems%20|%20Academy%20of%20American%20Poets.md), _added on 2024-12-23_
 
@@ -242,9 +238,9 @@ _43 articles_
 
 - [Sleep on it: How the brain processes many experiences — even when ‘offline’ | YaleNews](./Saved_Reading/Sleep%20on%20it:%20How%20the%20brain%20processes%20many%20experiences%20—%20even%20when%20‘offline’%20|%20YaleNews.md), _added on 2024-09-02_
 
-- [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-23_
+- [🙏少读点书，多刷刷抖音吧](./Saved_Reading/🙏少读点书，多刷刷抖音吧.md), _added on 2024-09-02_
 
-- [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-08-20_
+- [White-Collar Work Is Just Meetings Now - The Atlantic](./Saved_Reading/White-Collar%20Work%20Is%20Just%20Meetings%20Now%20-%20The%20Atlantic.md), _added on 2024-08-23_
 
 - [Increasing Retention without Increasing Study Time](./Saved_Reading/Increasing%20Retention%20without%20Increasing%20Study%20Time.pdf), _added on 2024-08-19_
 
@@ -259,6 +255,8 @@ _43 articles_
 - [Just Be Rich 🤷‍♂️](./Saved_Reading/Just%20Be%20Rich%20🤷‍♂️.md), _added on 2024-07-31_
 
 - [How To Know When It's Time To Go](./Saved_Reading/How%20To%20Know%20When%20It's%20Time%20To%20Go.md), _added on 2024-07-31_
+
+- [Step by step，如何替换掉你厨房里的中国产调味料！](./Saved_Reading/Step%20by%20step，如何替换掉你厨房里的中国产调味料！.md), _added on 2024-07-23_
 
 - [Working title (insurance)](./Saved_Reading/Working%20title%20(insurance).epub), _added on 2024-07-19_
 
@@ -426,23 +424,23 @@ _100 articles_
 
 - [Five Lessonf From History](./Saved_Reading/Five%20Lessonf%20From%20History.pdf), _added on 2022-08-24_
 
-- [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-22_
-
-- [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-08-22_
-
-- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-08-22_
-
 - [Lecture at the University of Florida School of Business](./Saved_Reading/Lecture%20at%20the%20University%20of%20Florida%20School%20of%20Business.pdf), _added on 2022-08-22_
+
+- [如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验](./Saved_Reading/如果能获得某位友人终身收入的十分之一你会选谁-巴菲特的4个思想实验.md), _added on 2022-08-22_
 
 - [“宇宙药厂” 辉瑞是如何炼成的？](./Saved_Reading/“宇宙药厂”%20辉瑞是如何炼成的？.md), _added on 2022-08-07_
 
 - [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
-- [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
-
 - [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
 
+- [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
+
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
+
+- [我零基础独立开发一个 Web Hybrid 项目的经历 - f_ms | painter](./Saved_Reading/我零基础独立开发一个%20Web%20Hybrid%20项目的经历%20-%20f_ms%20|%20painter.md), _added on 2022-07-17_
+
+- [job-search-viz: A tool for visualization of complex job searches](./Saved_Reading/job-search-viz:%20A%20tool%20for%20visualization%20of%20complex%20job%20searches..md), _added on 2022-07-16_
 
 - [How to Calm the Anxious Brain](./Saved_Reading/How%20to%20Calm%20the%20Anxious%20Brain.md), _added on 2022-07-16_
 
@@ -504,9 +502,9 @@ _100 articles_
 
 - [How I read papers](./Saved_Reading/How%20I%20read%20papers.pdf), _added on 2022-04-24_
 
-- [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-23_
-
 - [How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily](./Saved_Reading/How%20to%20Write%20More%20Clearly,%20Think%20More%20Clearly,%20and%20Learn%20Complex%20Material%20More%20Easily.pdf), _added on 2022-04-23_
+
+- [How Intuit's TurboTax capitalized on taxpayers' fear](./Saved_Reading/How%20Intuit's%20TurboTax%20capitalized%20on%20taxpayers'%20fear..md), _added on 2022-04-23_
 
 - [如何管理 1400 本电子书？ - 很少明白](./Saved_Reading/如何管理%201400%20本电子书？%20-%20很少明白.md), _added on 2022-04-23_
 
@@ -520,37 +518,39 @@ _100 articles_
 
 - [Data salaries at FAANG companies in 2022](./Saved_Reading/Data%20salaries%20at%20FAANG%20companies%20in%202022.md), _added on 2022-03-24_
 
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
-
-- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
+- [渴望矩阵](./Saved_Reading/渴望矩阵.md), <sup>[Technology]</sup> _added on 2022-03-20_
 
 - [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
+
+- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+
+- [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
+
+- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
 
 - [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
 
 - [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
 
 - [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
-
-- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
-
-- [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
-
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
 - [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
 
-- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
 
 - [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
 
-- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+- [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
@@ -574,8 +574,6 @@ _100 articles_
 
 - [Buy Things, Not Experiences — harold lee](./Saved_Reading/Buy%20Things,%20Not%20Experiences%20—%20harold%20lee.md), _added on 2022-02-21_
 
-- [ PPI 以及像素密度 | INFOLINK Blog](./Saved_Reading/%20PPI%20以及像素密度%20|%20INFOLINK%20Blog.md), _added on 2022-02-20_
-
 - [Dangers of being a Straight A student - supermemo](./Saved_Reading/Dangers%20of%20being%20a%20Straight%20A%20student%20-%20supermemo.guru.md), _added on 2022-02-20_
 
 - [How I made the viral map – Data Stuff](./Saved_Reading/How%20I%20made%20the%20viral%20map%20–%20Data%20Stuff.md), _added on 2022-02-16_
@@ -598,7 +596,7 @@ _100 articles_
 
 ## 2021
 
-_25 articles_
+_26 articles_
 
 - [My Path to Financial Independence as a Software Engineer – Software the Hard way](./Saved_Reading/My%20Path%20to%20Financial%20Independence%20as%20a%20Software%20Engineer%20–%20Software%20the%20Hard%20way.md), _added on 2021-12-30_
 
@@ -627,6 +625,8 @@ _25 articles_
 - [坚果云 + Zotero+Typora+RSS， 我的终极文献阅读解决方案！](./Saved_Reading/坚果云%20+%20Zotero+Typora+RSS，%20我的终极文献阅读解决方案！.md), _added on 2021-09-15_
 
 - [Internal Combustion Engine – Bartosz Ciechanowski](./Saved_Reading/Internal%20Combustion%20Engine%20–%20Bartosz%20Ciechanowski.md), _added on 2021-08-21_
+
+- [ PPI 以及像素密度 | INFOLINK Blog](./Saved_Reading/%20PPI%20以及像素密度%20|%20INFOLINK%20Blog.md), _added on 2021-08-14_
 
 - [22954 - The PROC LOGISTIC proportional odds test and fitting a partial proportional odds model](./Saved_Reading/22954%20-%20The%20PROC%20LOGISTIC%20proportional%20odds%20test%20and%20fitting%20a%20partial%20proportional%20odds%20model.md), _added on 2021-08-12_
 
