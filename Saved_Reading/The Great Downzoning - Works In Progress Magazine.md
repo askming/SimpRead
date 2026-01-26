@@ -1,7 +1,7 @@
 ---
 saved_date: 2026-01-25T20:28:24.737Z
 title: "The Great Downzoning - Works in Progress Magazine"
-tags: [Health, Productivity, Science, Society, Technology]
+tags: [Society, Health]
 tags: [Society, Health]
 ---
 

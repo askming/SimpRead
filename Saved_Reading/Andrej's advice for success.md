@@ -3,7 +3,7 @@ title: "Andrej's advice for success"
 url: "https://cs.stanford.edu/people/karpathy/advice.html"
 date: 2026-01-01
 status: read
-tags: [Health, Productivity, Science, Technology]
+tags: [Health]
 tags: [Health]
 ---
 

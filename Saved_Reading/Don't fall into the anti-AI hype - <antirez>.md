@@ -3,7 +3,7 @@ title: "Don't fall into the anti-AI hype - <antirez>"
 url: "https://antirez.com/news/158"
 date: 2026-01-22
 status: read
-tags: [Finance, Health, Productivity, Society, Technology]
+tags: [Technology, Finance, Productivity]
 tags: [Technology, Finance, Productivity]
 ---
 

@@ -3,7 +3,7 @@ title: "THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA"
 url: "https://calteches.library.caltech.edu/46/2/LatinAmerica.htm"
 date: 2026-01-01
 status: read
-tags: [Health, Productivity, Science, Society, Technology]
+tags: [Science, Productivity]
 tags: [Science, Productivity]
 ---
 

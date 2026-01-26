@@ -1,7 +1,7 @@
 ---
 saved_date: 2025-12-15T19:37:56.428Z
 title: "Why new tech only feels good for a short time | Popular Science"
-tags: [Finance, Productivity, Science, Society, Technology]
+tags: [Science, Health, Society]
 tags: [Science, Health, Society]
 ---
 

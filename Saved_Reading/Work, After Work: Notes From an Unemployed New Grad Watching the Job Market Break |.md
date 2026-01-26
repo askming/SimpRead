@@ -3,7 +3,7 @@ title: "Work, After Work: Notes From an Unemployed New Grad Watching the Job Mar
 url: "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/"
 date: 2026-01-03
 status: read
-tags: [Finance, Productivity, Science, Society, Technology]
+tags: [Finance, Technology, Science]
 tags: [Finance, Technology, Science]
 ---
 
