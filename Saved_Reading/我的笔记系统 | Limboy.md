@@ -3,6 +3,7 @@ title: "我的笔记系统 | Limboy"
 url: "https://limboy.me/posts/my-notes-system"
 date: 2026-01-31
 status: read
+tags: [Technology, Health]
 ---
 
 # 我的笔记系统 | Limboy

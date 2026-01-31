@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-26; Total 302 articles._
+_Last updated on 2026-01-31; Total 303 articles._
 
 ## 2026
 
-_14 articles_
+_15 articles_
+
+- [我的笔记系统 | Limboy](./Saved_Reading/我的笔记系统%20|%20Limboy.md), <sup>[Technology]</sup> _added on 2026-01-31_
 
 - [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
 
@@ -14,9 +16,9 @@ _14 articles_
 
 - [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
 
-- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Productivity]</sup> _added on 2026-01-19_
-
 <details><summary>Show more</summary>
+
+- [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Productivity]</sup> _added on 2026-01-19_
 
 - [Scientists find exercise rivals therapy for depression | ScienceDaily](./Saved_Reading/Scientists%20Find%20Exercise%20Rivals%20Therapy%20For%20Depression%20Sciencedaily.md), <sup>[Health]</sup> _added on 2026-01-11_
 
