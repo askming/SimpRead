@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-01-31; Total 303 articles._
+_Last updated on 2026-02-01; Total 304 articles._
 
 ## 2026
 
-_15 articles_
+_16 articles_
+
+- [Vitamin D & Omega-3 have a larger effect on depression than antidepressants](./Saved_Reading/Vitamin%20D%20Omega-3%20Have%20A%20Larger%20Effect%20On%20Depression%20Than%20Antidepressants.md), <sup>[Science]</sup> _added on 2026-01-31_
 
 - [我的笔记系统 | Limboy](./Saved_Reading/我的笔记系统%20|%20Limboy.md), <sup>[Technology]</sup> _added on 2026-01-31_
 
@@ -14,9 +16,9 @@ _15 articles_
 
 - [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Technology]</sup> _added on 2026-01-22_
 
-- [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
-
 <details><summary>Show more</summary>
+
+- [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
 
 - [How to fix your entire life in 1 day - by DAN KOE](./Saved_Reading/How%20to%20fix%20your%20entire%20life%20in%201%20day%20-%20by%20DAN%20KOE.md), <sup>[Productivity]</sup> _added on 2026-01-19_
 

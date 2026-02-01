@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-02-01T00:35:46.684Z
 title: "Vitamin D & Omega-3 have a larger effect on depression than antidepressants"
+tags: [Science, Health, Technology]
 ---
 
 # Vitamin D Omega-3 Have A Larger Effect On Depression Than Antidepressants
