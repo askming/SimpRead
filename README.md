@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-01; Total 304 articles._
+_Last updated on 2026-02-01; Total 305 articles._
 
 ## 2026
 
-_16 articles_
+_17 articles_
+
+- [How Markdown took over the world - Anil Dash](./Saved_Reading/How%20Markdown%20took%20over%20the%20world%20-%20Anil%20Dash.md), <sup>[Productivity]</sup> _added on 2026-01-31_
 
 - [Vitamin D & Omega-3 have a larger effect on depression than antidepressants](./Saved_Reading/Vitamin%20D%20Omega-3%20Have%20A%20Larger%20Effect%20On%20Depression%20Than%20Antidepressants.md), <sup>[Science]</sup> _added on 2026-01-31_
 
@@ -14,9 +16,9 @@ _16 articles_
 
 - [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Society]</sup> _added on 2026-01-25_
 
-- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Technology]</sup> _added on 2026-01-22_
-
 <details><summary>Show more</summary>
+
+- [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Technology]</sup> _added on 2026-01-22_
 
 - [供给无限而需求有限的AI悖论开始显现](./Saved_Reading/供给无限而需求有限的AI悖论开始显现.md), <sup>[Technology]</sup> _added on 2026-01-20_
 

@@ -3,6 +3,7 @@ title: "How Markdown took over the world - Anil Dash"
 url: "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/"
 date: 2026-01-31
 status: read
+tags: [Productivity, Society]
 ---
 
 # How Markdown took over the world - Anil Dash
