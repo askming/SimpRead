@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-12; Total 306 articles._
+_Last updated on 2026-02-12; Total 307 articles._
 
 ## 2026
 
-_18 articles_
+_19 articles_
+
+- [Data centers in space makes no sense - CivAI Blog](./Saved_Reading/Data%20Centers%20In%20Space%20Makes%20No%20Sense%20-%20Civai%20Blog.md), <sup>[Science]</sup> _added on 2026-02-11_
 
 - [I miss thinking hard.](./Saved_Reading/I%20Miss%20Thinking%20Hard.md), <sup>[Health]</sup> _added on 2026-02-11_
 
@@ -14,9 +16,9 @@ _18 articles_
 
 - [我的笔记系统 | Limboy](./Saved_Reading/我的笔记系统%20|%20Limboy.md), <sup>[Technology]</sup> _added on 2026-01-31_
 
-- [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
-
 <details><summary>Show more</summary>
+
+- [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
 
 - [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Society]</sup> _added on 2026-01-25_
 

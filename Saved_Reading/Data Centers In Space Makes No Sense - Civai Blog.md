@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-02-12T05:56:27.754Z
 title: "Data centers in space makes no sense - CivAI Blog"
+tags: [Science]
 ---
 
 # Data Centers In Space Makes No Sense - Civai Blog
