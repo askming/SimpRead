@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-02-12T06:18:13.506Z
 title: "My AI Adoption Journey – Mitchell Hashimoto"
+tags: [Technology, Productivity]
 ---
 
 # My Ai Adoption Journey Mitchell Hashimoto

@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-12; Total 307 articles._
+_Last updated on 2026-02-12; Total 308 articles._
 
 ## 2026
 
-_19 articles_
+_20 articles_
+
+- [My AI Adoption Journey – Mitchell Hashimoto](./Saved_Reading/My%20Ai%20Adoption%20Journey%20Mitchell%20Hashimoto.md), <sup>[Technology]</sup> _added on 2026-02-11_
 
 - [Data centers in space makes no sense - CivAI Blog](./Saved_Reading/Data%20Centers%20In%20Space%20Makes%20No%20Sense%20-%20Civai%20Blog.md), <sup>[Science]</sup> _added on 2026-02-11_
 
@@ -14,9 +16,9 @@ _19 articles_
 
 - [Vitamin D & Omega-3 have a larger effect on depression than antidepressants](./Saved_Reading/Vitamin%20D%20Omega-3%20Have%20A%20Larger%20Effect%20On%20Depression%20Than%20Antidepressants.md), <sup>[Science]</sup> _added on 2026-01-31_
 
-- [我的笔记系统 | Limboy](./Saved_Reading/我的笔记系统%20|%20Limboy.md), <sup>[Technology]</sup> _added on 2026-01-31_
-
 <details><summary>Show more</summary>
+
+- [我的笔记系统 | Limboy](./Saved_Reading/我的笔记系统%20|%20Limboy.md), <sup>[Technology]</sup> _added on 2026-01-31_
 
 - [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
 
