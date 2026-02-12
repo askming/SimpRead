@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-02-12T05:52:05.135Z
 title: "I miss thinking hard."
+tags: [Health, Technology, Science]
 ---
 
 # I Miss Thinking Hard

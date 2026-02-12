@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-01; Total 305 articles._
+_Last updated on 2026-02-12; Total 306 articles._
 
 ## 2026
 
-_17 articles_
+_18 articles_
+
+- [I miss thinking hard.](./Saved_Reading/I%20Miss%20Thinking%20Hard.md), <sup>[Health]</sup> _added on 2026-02-11_
 
 - [How Markdown took over the world - Anil Dash](./Saved_Reading/How%20Markdown%20took%20over%20the%20world%20-%20Anil%20Dash.md), <sup>[Productivity]</sup> _added on 2026-01-31_
 
@@ -14,9 +16,9 @@ _17 articles_
 
 - [Skills的最正确用法，是将整个Github压缩成你自己的超级技能库。 - 知乎](./Saved_Reading/Skillsgithub%20-.md), <sup>[Technology]</sup> _added on 2026-01-25_
 
-- [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Society]</sup> _added on 2026-01-25_
-
 <details><summary>Show more</summary>
+
+- [The Great Downzoning - Works in Progress Magazine](./Saved_Reading/The%20Great%20Downzoning%20-%20Works%20In%20Progress%20Magazine.md), <sup>[Society]</sup> _added on 2026-01-25_
 
 - [Don't fall into the anti-AI hype - <antirez>](./Saved_Reading/Don't%20fall%20into%20the%20anti-AI%20hype%20-%20<antirez>.md), <sup>[Technology]</sup> _added on 2026-01-22_
 
