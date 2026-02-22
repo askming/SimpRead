@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-22; Total 310 articles._
+_Last updated on 2026-02-22; Total 311 articles._
 
 ## 2026
 
-_22 articles_
+_23 articles_
+
+- [老牟：乡村振兴与三农问题的龙门阵 – Telegraph](./Saved_Reading/老牟：乡村振兴与三农问题的龙门阵%20–%20Telegraph.md), _added on 2026-02-22_
 
 - [为什么有时候“讲道理”，会让人更生气？ – Telegraph](./Saved_Reading/为什么有时候“讲道理”，会让人更生气？%20–%20Telegraph.md), _added on 2026-02-21_
 
@@ -14,9 +16,9 @@ _22 articles_
 
 - [Data centers in space makes no sense - CivAI Blog](./Saved_Reading/Data%20Centers%20In%20Space%20Makes%20No%20Sense%20-%20Civai%20Blog.md), <sup>[Science]</sup> _added on 2026-02-11_
 
-- [I miss thinking hard.](./Saved_Reading/I%20Miss%20Thinking%20Hard.md), <sup>[Health]</sup> _added on 2026-02-11_
-
 <details><summary>Show more</summary>
+
+- [I miss thinking hard.](./Saved_Reading/I%20Miss%20Thinking%20Hard.md), <sup>[Health]</sup> _added on 2026-02-11_
 
 - [How Markdown took over the world - Anil Dash](./Saved_Reading/How%20Markdown%20took%20over%20the%20world%20-%20Anil%20Dash.md), <sup>[Productivity]</sup> _added on 2026-01-31_
 
