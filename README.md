@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-22; Total 309 articles._
+_Last updated on 2026-02-22; Total 310 articles._
 
 ## 2026
 
-_21 articles_
+_22 articles_
+
+- [为什么有时候“讲道理”，会让人更生气？ – Telegraph](./Saved_Reading/为什么有时候“讲道理”，会让人更生气？%20–%20Telegraph.md), _added on 2026-02-21_
 
 - [“逃离”三甲医院，一本医学研究生正在涌入社区医院 – Telegraph](./Saved_Reading/“逃离”三甲医院，一本医学研究生正在涌入社区医院%20–%20Telegraph.md), _added on 2026-02-21_
 
@@ -14,9 +16,9 @@ _21 articles_
 
 - [I miss thinking hard.](./Saved_Reading/I%20Miss%20Thinking%20Hard.md), <sup>[Health]</sup> _added on 2026-02-11_
 
-- [How Markdown took over the world - Anil Dash](./Saved_Reading/How%20Markdown%20took%20over%20the%20world%20-%20Anil%20Dash.md), <sup>[Productivity]</sup> _added on 2026-01-31_
-
 <details><summary>Show more</summary>
+
+- [How Markdown took over the world - Anil Dash](./Saved_Reading/How%20Markdown%20took%20over%20the%20world%20-%20Anil%20Dash.md), <sup>[Productivity]</sup> _added on 2026-01-31_
 
 - [Vitamin D & Omega-3 have a larger effect on depression than antidepressants](./Saved_Reading/Vitamin%20D%20Omega-3%20Have%20A%20Larger%20Effect%20On%20Depression%20Than%20Antidepressants.md), <sup>[Science]</sup> _added on 2026-01-31_
 
