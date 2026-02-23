@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-22; Total 312 articles._
+_Last updated on 2026-02-23; Total 313 articles._
 
 ## 2026
 
-_24 articles_
+_25 articles_
+
+- [Where are the best restaurants in my city? A statistical analysis - mattsayar.com](./Saved_Reading/Where%20Are%20The%20Best%20Restaurants%20In%20My%20City%20A%20Statistical%20Analysis%20-%20Mattsayarcom.md), <sup>[Technology]</sup> _added on 2026-02-22_
 
 - [美国斩杀线，更适合中国宝宝体质 – Telegraph](./Saved_Reading/美国斩杀线，更适合中国宝宝体质%20–%20Telegraph.md), _added on 2026-02-22_
 
@@ -14,9 +16,9 @@ _24 articles_
 
 - [“逃离”三甲医院，一本医学研究生正在涌入社区医院 – Telegraph](./Saved_Reading/“逃离”三甲医院，一本医学研究生正在涌入社区医院%20–%20Telegraph.md), _added on 2026-02-21_
 
-- [My AI Adoption Journey – Mitchell Hashimoto](./Saved_Reading/My%20Ai%20Adoption%20Journey%20Mitchell%20Hashimoto.md), <sup>[Technology]</sup> _added on 2026-02-11_
-
 <details><summary>Show more</summary>
+
+- [My AI Adoption Journey – Mitchell Hashimoto](./Saved_Reading/My%20Ai%20Adoption%20Journey%20Mitchell%20Hashimoto.md), <sup>[Technology]</sup> _added on 2026-02-11_
 
 - [Data centers in space makes no sense - CivAI Blog](./Saved_Reading/Data%20Centers%20In%20Space%20Makes%20No%20Sense%20-%20Civai%20Blog.md), <sup>[Science]</sup> _added on 2026-02-11_
 
