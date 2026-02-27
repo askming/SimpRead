@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-23; Total 313 articles._
+_Last updated on 2026-02-27; Total 314 articles._
 
 ## 2026
 
-_25 articles_
+_26 articles_
+
+- [Derivation and Intuition behind Poisson distribution](./Saved_Reading/Derivation%20And%20Intuition%20Behind%20Poisson%20Distribution.md), _added on 2026-02-27_
 
 - [Where are the best restaurants in my city? A statistical analysis - mattsayar.com](./Saved_Reading/Where%20Are%20The%20Best%20Restaurants%20In%20My%20City%20A%20Statistical%20Analysis%20-%20Mattsayarcom.md), <sup>[Technology]</sup> _added on 2026-02-22_
 
@@ -14,9 +16,9 @@ _25 articles_
 
 - [为什么有时候“讲道理”，会让人更生气？ – Telegraph](./Saved_Reading/为什么有时候“讲道理”，会让人更生气？%20–%20Telegraph.md), _added on 2026-02-21_
 
-- [“逃离”三甲医院，一本医学研究生正在涌入社区医院 – Telegraph](./Saved_Reading/“逃离”三甲医院，一本医学研究生正在涌入社区医院%20–%20Telegraph.md), _added on 2026-02-21_
-
 <details><summary>Show more</summary>
+
+- [“逃离”三甲医院，一本医学研究生正在涌入社区医院 – Telegraph](./Saved_Reading/“逃离”三甲医院，一本医学研究生正在涌入社区医院%20–%20Telegraph.md), _added on 2026-02-21_
 
 - [My AI Adoption Journey – Mitchell Hashimoto](./Saved_Reading/My%20Ai%20Adoption%20Journey%20Mitchell%20Hashimoto.md), <sup>[Technology]</sup> _added on 2026-02-11_
 
@@ -190,9 +192,9 @@ _70 articles_
 
 - [这些益生菌实际上可能会损害你的 “肠道健康” – Telegraph](./Saved_Reading/这些益生菌实际上可能会损害你的%20“肠道健康”%20–%20Telegraph.md), _added on 2025-02-07_
 
-- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-02_
-
 - [Deepseek R1 可能找到了超越人类的办法 |           TL;DR](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法%20|%20%20%20%20%20%20%20%20%20%20%20TL;DR.md), _added on 2025-02-02_
+
+- [Deepseek R1 可能找到了超越人类的办法](./Saved_Reading/Deepseek%20R1%20可能找到了超越人类的办法.md), _added on 2025-02-02_
 
 - [Rondam Ramblings: I am (not) a Failure: Lessons Learned From Six (and a half) Failed Startup Attempts](./Saved_Reading/Rondam%20Ramblings:%20I%20am%20(not)%20a%20Failure:%20Lessons%20Learned%20From%20Six%20(and%20a%20half)%20Failed%20Startup%20Attempts.md), _added on 2025-01-24_
 
@@ -454,9 +456,9 @@ _100 articles_
 
 - [Productivity Porn - Caleb Schoepp](./Saved_Reading/Productivity%20Porn%20-%20Caleb%20Schoepp.md), _added on 2022-08-07_
 
-- [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
-
 - [我在方舱，看见老人们的孤岛求生｜hayami's blog](./Saved_Reading/我在方舱，看见老人们的孤岛求生｜hayami's%20blog.pdf), _added on 2022-07-30_
+
+- [李承鹏：记一段正能量科学幻想和终将告别的春天 - 议报](./Saved_Reading/李承鹏：记一段正能量科学幻想和终将告别的春天%20-%20议报.pdf), _added on 2022-07-30_
 
 - [刘亚洲：金门战役检讨-中美印象](./Saved_Reading/刘亚洲：金门战役检讨-中美印象.pdf), _added on 2022-07-30_
 
@@ -542,37 +544,37 @@ _100 articles_
 
 - [渴望矩阵](./Saved_Reading/渴望矩阵.md), <sup>[Technology]</sup> _added on 2022-03-20_
 
-- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
-
-- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
-
-- [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
-
-- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
-
-- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
-
-- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
-
-- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
-
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
-
 - [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
-
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
-- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
-
-- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
 
 - [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
 
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+- [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
 
 - [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
+
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
+
+- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
+
+- [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
+
+- [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
+
+- [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
+
+- [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
+- [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
