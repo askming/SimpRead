@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-02-27; Total 314 articles._
+_Last updated on 2026-02-28; Total 315 articles._
 
 ## 2026
 
-_26 articles_
+_27 articles_
+
+- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](./Saved_Reading/How%20I%20Built%20Timeframe%20Our%20Family%20E-paper%20Dashboard%20-%20Joel%20Hawksley.md), <sup>[Technology]</sup> _added on 2026-02-28_
 
 - [Derivation and Intuition behind Poisson distribution](./Saved_Reading/Derivation%20And%20Intuition%20Behind%20Poisson%20Distribution.md), _added on 2026-02-27_
 
@@ -14,9 +16,9 @@ _26 articles_
 
 - [老牟：乡村振兴与三农问题的龙门阵 – Telegraph](./Saved_Reading/老牟：乡村振兴与三农问题的龙门阵%20–%20Telegraph.md), _added on 2026-02-22_
 
-- [为什么有时候“讲道理”，会让人更生气？ – Telegraph](./Saved_Reading/为什么有时候“讲道理”，会让人更生气？%20–%20Telegraph.md), _added on 2026-02-21_
-
 <details><summary>Show more</summary>
+
+- [为什么有时候“讲道理”，会让人更生气？ – Telegraph](./Saved_Reading/为什么有时候“讲道理”，会让人更生气？%20–%20Telegraph.md), _added on 2026-02-21_
 
 - [“逃离”三甲医院，一本医学研究生正在涌入社区医院 – Telegraph](./Saved_Reading/“逃离”三甲医院，一本医学研究生正在涌入社区医院%20–%20Telegraph.md), _added on 2026-02-21_
 
