@@ -3,6 +3,7 @@ title: "In California, About the Only Way to Get a House Is to Inherit One - WSJ
 url: "https://archive.ph/uArWD"
 date: 2026-03-01
 status: read
+tags: [Finance, Technology]
 ---
 
 # In California, About the Only Way to Get a House Is to Inherit One - WSJ
