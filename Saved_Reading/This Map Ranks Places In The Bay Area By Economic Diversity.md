@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-03-02T17:56:14.603Z
 title: "This map ranks places in the Bay Area by economic diversity"
+tags: [Finance]
 ---
 
 # This Map Ranks Places In The Bay Area By Economic Diversity
