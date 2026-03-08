@@ -3,6 +3,7 @@ title: "Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs"
 url: "https://nesslabs.com/devotion-friction-matrix"
 date: 2026-03-08
 status: read
+tags: [Science, Productivity, Health]
 ---
 
 # Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs
