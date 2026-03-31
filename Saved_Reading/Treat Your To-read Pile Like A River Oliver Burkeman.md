@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-03-31T04:25:15.268Z
 title: "Treat your to-read pile like a river | Oliver Burkeman"
+tags: [Technology, Finance, Productivity]
 ---
 
 # Treat Your To-read Pile Like A River Oliver Burkeman
