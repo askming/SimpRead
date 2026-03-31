@@ -3,6 +3,7 @@ title: "Neuroscientists just upended our understanding of Pavlovian learning"
 url: "https://www.psypost.org/neuroscientists-just-upended-our-understanding-of-pavlovian-learning/"
 date: 2026-03-30
 status: read
+tags: [Productivity, Health, Science]
 ---
 
 # Neuroscientists just upended our understanding of Pavlovian learning
