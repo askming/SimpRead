@@ -3,6 +3,7 @@ title: "4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - 
 url: "https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html"
 date: 2026-04-09
 status: read
+tags: [Finance, Society]
 ---
 
 # 4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times

@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-09; Total 321 articles._
+_Last updated on 2026-04-09; Total 322 articles._
 
 ## 2026
 
-_32 articles_
+_33 articles_
+
+- [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](./Saved_Reading/4%20Takeaways%20From%20Our%20Search%20for%20Satoshi%20Nakamoto,%20Bitcoin’s%20Creator%20-%20The%20New%20York%20Times.md), <sup>[Finance]</sup> _added on 2026-04-09_
 
 - [Enhancing gut-brain communication reversed cognitive decline, improved memory formation in aging mice](./Saved_Reading/Enhancing%20gut-brain%20communication%20reversed%20cognitive%20decline,%20improved%20memory%20formation%20in%20aging%20mice.md), <sup>[Health]</sup> _added on 2026-04-09_
 
@@ -14,9 +16,9 @@ _32 articles_
 
 - [This map ranks places in the Bay Area by economic diversity](./Saved_Reading/This%20Map%20Ranks%20Places%20In%20The%20Bay%20Area%20By%20Economic%20Diversity.md), <sup>[Finance]</sup> _added on 2026-03-02_
 
-- [In California, About the Only Way to Get a House Is to Inherit One - WSJ](./Saved_Reading/In%20California,%20About%20the%20Only%20Way%20to%20Get%20a%20House%20Is%20to%20Inherit%20One%20-%20WSJ.md), <sup>[Finance]</sup> _added on 2026-03-01_
-
 <details><summary>Show more</summary>
+
+- [In California, About the Only Way to Get a House Is to Inherit One - WSJ](./Saved_Reading/In%20California,%20About%20the%20Only%20Way%20to%20Get%20a%20House%20Is%20to%20Inherit%20One%20-%20WSJ.md), <sup>[Finance]</sup> _added on 2026-03-01_
 
 - [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](./Saved_Reading/How%20I%20Built%20Timeframe%20Our%20Family%20E-paper%20Dashboard%20-%20Joel%20Hawksley.md), <sup>[Technology]</sup> _added on 2026-02-28_
 
