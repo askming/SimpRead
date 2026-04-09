@@ -3,6 +3,7 @@ title: "Enhancing gut-brain communication reversed cognitive decline, improved m
 url: "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html"
 date: 2026-04-09
 status: read
+tags: [Health, Productivity, Science]
 ---
 
 # Enhancing gut-brain communication reversed cognitive decline, improved memory formation in aging mice

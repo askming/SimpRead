@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-03-31; Total 320 articles._
+_Last updated on 2026-04-09; Total 321 articles._
 
 ## 2026
 
-_31 articles_
+_32 articles_
+
+- [Enhancing gut-brain communication reversed cognitive decline, improved memory formation in aging mice](./Saved_Reading/Enhancing%20gut-brain%20communication%20reversed%20cognitive%20decline,%20improved%20memory%20formation%20in%20aging%20mice.md), <sup>[Health]</sup> _added on 2026-04-09_
 
 - [Neuroscientists just upended our understanding of Pavlovian learning](./Saved_Reading/Neuroscientists%20just%20upended%20our%20understanding%20of%20Pavlovian%20learning.md), <sup>[Productivity]</sup> _added on 2026-03-30_
 
@@ -14,9 +16,9 @@ _31 articles_
 
 - [In California, About the Only Way to Get a House Is to Inherit One - WSJ](./Saved_Reading/In%20California,%20About%20the%20Only%20Way%20to%20Get%20a%20House%20Is%20to%20Inherit%20One%20-%20WSJ.md), <sup>[Finance]</sup> _added on 2026-03-01_
 
-- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](./Saved_Reading/How%20I%20Built%20Timeframe%20Our%20Family%20E-paper%20Dashboard%20-%20Joel%20Hawksley.md), <sup>[Technology]</sup> _added on 2026-02-28_
-
 <details><summary>Show more</summary>
+
+- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](./Saved_Reading/How%20I%20Built%20Timeframe%20Our%20Family%20E-paper%20Dashboard%20-%20Joel%20Hawksley.md), <sup>[Technology]</sup> _added on 2026-02-28_
 
 - [Derivation and Intuition behind Poisson distribution](./Saved_Reading/Derivation%20And%20Intuition%20Behind%20Poisson%20Distribution.md), _added on 2026-02-27_
 
@@ -558,35 +560,35 @@ _100 articles_
 
 - [如何不靠运气变得富有(上)_Naval](./Saved_Reading/如何不靠运气变得富有(上)_Naval.pdf), _added on 2022-03-20_
 
-- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
-
-- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
-
 - [为啥负利率国债有人抢着买？因为时代变了](./Saved_Reading/为啥负利率国债有人抢着买？因为时代变了.pdf), _added on 2022-03-20_
 
 - [Why Are Clinical Trials So Complicated](./Saved_Reading/Why%20Are%20Clinical%20Trials%20So%20Complicated.pdf), _added on 2022-03-20_
 
-- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
-
 - [Thinking Clearly about Performance](./Saved_Reading/Thinking%20Clearly%20about%20Performance.pdf), _added on 2022-03-20_
+
+- [The Fall of Silicon Valley](./Saved_Reading/The%20Fall%20of%20Silicon%20Valley.pdf), _added on 2022-03-20_
 
 - [何伟：中国是如何控制住新冠疫情的？（全文） ](./Saved_Reading/何伟：中国是如何控制住新冠疫情的？（全文）%20.pdf), _added on 2022-03-20_
 
-- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
-
-- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
-
-- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
 
 - [童大焕：负价格时代 打趴一个国家轻而易举](./Saved_Reading/童大焕：负价格时代%20打趴一个国家轻而易举.pdf), _added on 2022-03-20_
 
-- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
+- [Why I Am Not a Christian by Bertrand Russell - The Bertrand Russell Society](./Saved_Reading/Why%20I%20Am%20Not%20a%20Christian%20by%20Bertrand%20Russell%20-%20The%20Bertrand%20Russell%20Society.pdf), _added on 2022-03-20_
 
-- [How China Controlled the Coronavirus - Reader Mode](./Saved_Reading/How%20China%20Controlled%20the Coronavirus%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+- [正向教育和挫折教育](./Saved_Reading/正向教育和挫折教育.pdf), _added on 2022-03-20_
 
 - [一名九十後香港人回應緩緩君所著的 《香港問題的來龍去脈》_zh-CN](./Saved_Reading/一名九十後香港人回應緩緩君所著的%20《香港問題的來龍去脈》_zh-CN.pdf), _added on 2022-03-20_
 
+- [方方：目前疫情的蔓延，并未完全控制](./Saved_Reading/方方：目前疫情的蔓延，并未完全控制.pdf), _added on 2022-03-20_
+
+- [达利欧最新长文：中国大周期及其货币 - Reader Mode](./Saved_Reading/达利欧最新长文：中国大周期及其货币%20-%20Reader%20Mode.pdf), _added on 2022-03-20_
+
 - [How to turn $2 million into $2 trillion, by Charlie Munger](./Saved_Reading/How%20to%20turn%20$2%20million%20into%20$2%20trillion,%20by%20Charlie%20Munger.pdf), _added on 2022-03-20_
+
+- [段永平最完整投资思路梳理(能看完这211个问答算你牛) ](./Saved_Reading/段永平最完整投资思路梳理(能看完这211个问答算你牛)%20.pdf), _added on 2022-03-20_
+
+- [The Complete Guide to Effective Reading ](./Saved_Reading/The%20Complete%20Guide%20to%20Effective%20Reading%20.pdf), _added on 2022-03-20_
 
 - [光刻巨头 ASML 是怎么炼成的](./Saved_Reading/光刻巨头%20ASML%20是怎么炼成的.md), _added on 2022-03-20_
 
