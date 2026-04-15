@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-09; Total 322 articles._
+_Last updated on 2026-04-15; Total 323 articles._
 
 ## 2026
 
-_33 articles_
+_34 articles_
+
+- [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
 
 - [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](./Saved_Reading/4%20Takeaways%20From%20Our%20Search%20for%20Satoshi%20Nakamoto,%20Bitcoin’s%20Creator%20-%20The%20New%20York%20Times.md), <sup>[Finance]</sup> _added on 2026-04-09_
 
@@ -14,9 +16,9 @@ _33 articles_
 
 - [Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs](./Saved_Reading/Discipline%20is%20Overrated:%20The%20Devotion–Friction%20Matrix%20-%20Ness%20Labs.md), <sup>[Science]</sup> _added on 2026-03-08_
 
-- [This map ranks places in the Bay Area by economic diversity](./Saved_Reading/This%20Map%20Ranks%20Places%20In%20The%20Bay%20Area%20By%20Economic%20Diversity.md), <sup>[Finance]</sup> _added on 2026-03-02_
-
 <details><summary>Show more</summary>
+
+- [This map ranks places in the Bay Area by economic diversity](./Saved_Reading/This%20Map%20Ranks%20Places%20In%20The%20Bay%20Area%20By%20Economic%20Diversity.md), <sup>[Finance]</sup> _added on 2026-03-02_
 
 - [In California, About the Only Way to Get a House Is to Inherit One - WSJ](./Saved_Reading/In%20California,%20About%20the%20Only%20Way%20to%20Get%20a%20House%20Is%20to%20Inherit%20One%20-%20WSJ.md), <sup>[Finance]</sup> _added on 2026-03-01_
 
