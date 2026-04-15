@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-15; Total 323 articles._
+_Last updated on 2026-04-15; Total 324 articles._
 
 ## 2026
 
-_34 articles_
+_35 articles_
+
+- [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
 
 - [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
 
@@ -14,9 +16,9 @@ _34 articles_
 
 - [Neuroscientists just upended our understanding of Pavlovian learning](./Saved_Reading/Neuroscientists%20just%20upended%20our%20understanding%20of%20Pavlovian%20learning.md), <sup>[Productivity]</sup> _added on 2026-03-30_
 
-- [Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs](./Saved_Reading/Discipline%20is%20Overrated:%20The%20Devotion–Friction%20Matrix%20-%20Ness%20Labs.md), <sup>[Science]</sup> _added on 2026-03-08_
-
 <details><summary>Show more</summary>
+
+- [Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs](./Saved_Reading/Discipline%20is%20Overrated:%20The%20Devotion–Friction%20Matrix%20-%20Ness%20Labs.md), <sup>[Science]</sup> _added on 2026-03-08_
 
 - [This map ranks places in the Bay Area by economic diversity](./Saved_Reading/This%20Map%20Ranks%20Places%20In%20The%20Bay%20Area%20By%20Economic%20Diversity.md), <sup>[Finance]</sup> _added on 2026-03-02_
 

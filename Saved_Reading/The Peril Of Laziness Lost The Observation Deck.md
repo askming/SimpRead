@@ -1,6 +1,7 @@
 ---
 saved_date: 2026-04-15T04:59:52.150Z
 title: "The peril of laziness lost | The Observation Deck"
+tags: [Technology]
 ---
 
 # The Peril Of Laziness Lost The Observation Deck
