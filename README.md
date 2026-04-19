@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-15; Total 324 articles._
+_Last updated on 2026-04-19; Total 325 articles._
 
 ## 2026
 
-_35 articles_
+_36 articles_
+
+- [风暴中的网易](./Saved_Reading/风暴中的网易.md), _added on 2026-04-19_
 
 - [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
 
@@ -14,9 +16,9 @@ _35 articles_
 
 - [Enhancing gut-brain communication reversed cognitive decline, improved memory formation in aging mice](./Saved_Reading/Enhancing%20gut-brain%20communication%20reversed%20cognitive%20decline,%20improved%20memory%20formation%20in%20aging%20mice.md), <sup>[Health]</sup> _added on 2026-04-09_
 
-- [Neuroscientists just upended our understanding of Pavlovian learning](./Saved_Reading/Neuroscientists%20just%20upended%20our%20understanding%20of%20Pavlovian%20learning.md), <sup>[Productivity]</sup> _added on 2026-03-30_
-
 <details><summary>Show more</summary>
+
+- [Neuroscientists just upended our understanding of Pavlovian learning](./Saved_Reading/Neuroscientists%20just%20upended%20our%20understanding%20of%20Pavlovian%20learning.md), <sup>[Productivity]</sup> _added on 2026-03-30_
 
 - [Discipline is Overrated: The Devotion–Friction Matrix - Ness Labs](./Saved_Reading/Discipline%20is%20Overrated:%20The%20Devotion–Friction%20Matrix%20-%20Ness%20Labs.md), <sup>[Science]</sup> _added on 2026-03-08_
 
