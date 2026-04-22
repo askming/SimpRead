@@ -4,12 +4,6 @@ import subprocess
 import datetime
 import argparse
 import re
-import time
-try:
-    from google import genai
-    HAS_GENAI = True
-except ImportError:
-    HAS_GENAI = False
 
 SOURCE = './Saved_Reading'
 
@@ -44,64 +38,6 @@ def generate_tags_keyword(content, title):
     sorted_tags = sorted(tag_scores.items(), key=lambda item: item[1], reverse=True)
     return [tag for tag, score in sorted_tags]
 
-def generate_tags_llm(content, title):
-    """Generate tags using Gemini API"""
-    if not HAS_GENAI:
-        return None
-        
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        return None
-
-    try:
-        client = genai.Client(api_key=api_key)
-        
-        prompt = f"""
-        Analyze the full text of the article below.
-        Classify it into EXACTLY ONE of these categories:
-        - Technology (Software, AI, Engineering, Tools)
-        - Finance (Investing, Economics, Markets, Money)
-        - Productivity (Work, Habits, Career, Learning)
-        - Health (Medicine, Fitness, Psychology, Neuroscience)
-        - Science (Physics, Biology, Astronomy, Research)
-        - Society (Politics, History, Culture, Urbanism)
-
-        If it fits multiple, choose the PRIMARY domain.
-        Return ONLY the category name.
-        
-        Title: {title}
-        Content:
-        {content}
-        """
-        
-        # Simple Retry Mechanism (1 retry)
-        try:
-            response = client.models.generate_content(
-                model='gemini-2.0-flash', 
-                contents=prompt
-            )
-        except Exception as e:
-            if "429" in str(e) or "ResourceExhausted" in str(e):
-                print("Rate limit hit (429). Sleeping for 60s...")
-                time.sleep(60)
-                response = client.models.generate_content(
-                    model='gemini-2.0-flash', 
-                    contents=prompt
-                )
-            else:
-                raise e
-
-        tag = response.text.strip()
-        
-        valid_tags = ["Technology", "Finance", "Productivity", "Health", "Science", "Society"]
-        for v_tag in valid_tags:
-            if v_tag.lower() in tag.lower():
-                return [v_tag]
-                
-        return None
-    except Exception as e:
-        print(f"Gemini API Error: {e}")
-        return None
 
 def update_file_tags(file_path, force=False):
     """Check for tags in frontmatter, generate if missing, and update file."""
@@ -138,15 +74,7 @@ def update_file_tags(file_path, force=False):
             
             body = content[match.end():]
             
-            # Try LLM first
-            generated_tags = generate_tags_llm(body, title)
-            
-            # Fallback to keyword if LLM failed or not configured
-            if not generated_tags:
-                generated_tags = generate_tags_keyword(body[:4000], title) 
-            # If used LLM, maybe sleep briefly to respect rate limits if processing many files
-            elif os.environ.get("GEMINI_API_KEY"):
-                time.sleep(4)  # Increased from 2s to 4s to fit 15 RPM 
+            generated_tags = generate_tags_keyword(body[:4000], title)
             
             if generated_tags:
                 # Remove existing tags line if forcing update

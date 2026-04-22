@@ -122,18 +122,23 @@ async function getFileSha({owner, repo, path, branch, token}){
 
 async function extractPage(){
   const [tab] = await chrome.tabs.query({active:true,currentWindow:true});
+  await chrome.scripting.executeScript({
+    target: {tabId: tab.id},
+    files: ['defuddle.bundle.js']
+  });
   const results = await chrome.scripting.executeScript({
-    target:{tabId:tab.id},
+    target: {tabId: tab.id},
     func: () => {
-      function findArticle(){
-        const selectors = ['article','main','[role="article"]'];
-        for(const s of selectors){
-          const el = document.querySelector(s);
-          if(el) return el.innerHTML;
-        }
-        return document.body.innerHTML;
-      }
-      return {html: findArticle(), title: document.title, url: window.location.href};
+      const result = new window.Defuddle(document).parse();
+      return {
+        html: result.content || document.body.innerHTML,
+        title: result.title || document.title,
+        author: result.author || '',
+        description: result.description || '',
+        publishDate: result.publishDate || '',
+        wordCount: result.wordCount || 0,
+        url: window.location.href
+      };
     }
   });
   return results[0].result;
@@ -149,10 +154,11 @@ async function onSave(){
       return;
     }
     const fmt = document.getElementById('format').value;
-    const messageInput = document.getElementById('message').value.trim() || 'Add article via extension';
+    const userMessage = document.getElementById('message').value.trim();
 
     const page = await extractPage();
     const title = page.title || (new Date()).toISOString();
+    const messageInput = userMessage || `Add article "${title}" via extension`;
     const headingTitle = toTitleCase(title) || ((new Date()).toISOString());
 
     let contentText = '';
@@ -161,8 +167,17 @@ async function onSave(){
     
     if(fmt === 'md'){
       const originalTitle = page.title || 'Untitled Article';
-      const originalTitleQuoted = '"' + String(originalTitle).replace(/"/g,'\"') + '"';
-      contentText = '---\nsaved_date: ' + savedDate + '\ntitle: ' + originalTitleQuoted + '\n---\n\n# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
+      const q = s => '"' + String(s).replace(/"/g, '\\"') + '"';
+      let fm = '---\n';
+      fm += 'saved_date: ' + savedDate + '\n';
+      fm += 'title: ' + q(originalTitle) + '\n';
+      fm += 'url: ' + q(page.url || '') + '\n';
+      if(page.author)      fm += 'author: '       + q(page.author)      + '\n';
+      if(page.description) fm += 'description: '  + q(page.description) + '\n';
+      if(page.publishDate) fm += 'publish_date: '  + q(page.publishDate) + '\n';
+      if(page.wordCount)   fm += 'word_count: '    + page.wordCount      + '\n';
+      fm += '---\n\n';
+      contentText = fm + '# ' + headingTitle + '\n\n' + htmlToMarkdown(page.html, page.url);
       ext = 'md';
     } else if(fmt === 'epub'){
       contentText = generateEPUB(title, htmlToMarkdown(page.html, page.url), savedDate);

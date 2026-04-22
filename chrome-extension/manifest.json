@@ -22,5 +22,11 @@
     "128": "icon128.png"
   },
   "options_page": "options.html",
-  "background": { "service_worker": "background.js" }
+  "background": { "service_worker": "background.js" },
+  "web_accessible_resources": [
+    {
+      "resources": ["defuddle.bundle.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
