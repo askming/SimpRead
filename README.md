@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-22; Total 326 articles._
+_Last updated on 2026-04-22; Total 327 articles._
 
 ## 2026
 
-_37 articles_
+_38 articles_
+
+- [AI Resistance is Growing](./Saved_Reading/Ai%20Resistance%20Is%20Growing.md), _added on 2026-04-21_
 
 - [价投大佬格兰瑟姆：辛勤的工作反而会阻碍思考，若非AI“续命”美股本该暴跌40%](./Saved_Reading/Ai40.md), _added on 2026-04-21_
 
@@ -14,9 +16,9 @@ _37 articles_
 
 - [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
 
-- [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](./Saved_Reading/4%20Takeaways%20From%20Our%20Search%20for%20Satoshi%20Nakamoto,%20Bitcoin’s%20Creator%20-%20The%20New%20York%20Times.md), <sup>[Finance]</sup> _added on 2026-04-09_
-
 <details><summary>Show more</summary>
+
+- [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](./Saved_Reading/4%20Takeaways%20From%20Our%20Search%20for%20Satoshi%20Nakamoto,%20Bitcoin’s%20Creator%20-%20The%20New%20York%20Times.md), <sup>[Finance]</sup> _added on 2026-04-09_
 
 - [Enhancing gut-brain communication reversed cognitive decline, improved memory formation in aging mice](./Saved_Reading/Enhancing%20gut-brain%20communication%20reversed%20cognitive%20decline,%20improved%20memory%20formation%20in%20aging%20mice.md), <sup>[Health]</sup> _added on 2026-04-09_
 
