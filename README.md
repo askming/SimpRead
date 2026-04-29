@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-22; Total 327 articles._
+_Last updated on 2026-04-29; Total 328 articles._
 
 ## 2026
 
-_38 articles_
+_39 articles_
+
+- [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
 
 - [AI Resistance is Growing](./Saved_Reading/Ai%20Resistance%20Is%20Growing.md), _added on 2026-04-21_
 
@@ -14,9 +16,9 @@ _38 articles_
 
 - [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
 
-- [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
-
 <details><summary>Show more</summary>
+
+- [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
 
 - [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](./Saved_Reading/4%20Takeaways%20From%20Our%20Search%20for%20Satoshi%20Nakamoto,%20Bitcoin’s%20Creator%20-%20The%20New%20York%20Times.md), <sup>[Finance]</sup> _added on 2026-04-09_
 

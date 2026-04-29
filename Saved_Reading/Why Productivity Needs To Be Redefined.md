@@ -4,6 +4,7 @@ title: "Why Productivity Needs to be Redefined"
 url: "https://www.sidjha.com/2026/02/why-productivity-needs-to-be-redefined/"
 description: "Siddharth S. Jha's personal site."
 word_count: 531
+tags: [Productivity, Society, Technology]
 ---
 
 # Why Productivity Needs To Be Redefined
