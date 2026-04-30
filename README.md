@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-29; Total 328 articles._
+_Last updated on 2026-04-30; Total 329 articles._
 
 ## 2026
 
-_39 articles_
+_40 articles_
+
+- [How I run multiple $10K MRR companies on a $20/month tech stack](./Saved_Reading/How%20I%20Run%20Multiple%2010k%20Mrr%20Companies%20On%20A%2020month%20Tech%20Stack.md), <sup>[Technology]</sup> _added on 2026-04-30_
 
 - [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
 
@@ -14,9 +16,9 @@ _39 articles_
 
 - [风暴中的网易](./Saved_Reading/风暴中的网易.md), _added on 2026-04-19_
 
-- [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
-
 <details><summary>Show more</summary>
+
+- [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
 
 - [对话大疆汪滔：求真理、得自由、活成故事](./Saved_Reading/对话大疆汪滔：求真理、得自由、活成故事.md), _added on 2026-04-14_
 

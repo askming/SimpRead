@@ -3,6 +3,7 @@ saved_date: 2026-04-30T17:34:04.540Z
 title: "How I run multiple $10K MRR companies on a $20/month tech stack"
 url: "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack"
 word_count: 1522
+tags: [Technology, Finance]
 ---
 
 # How I Run Multiple 10k Mrr Companies On A 20month Tech Stack
