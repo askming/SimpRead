@@ -5,6 +5,7 @@ url: "https://nooneshappy.com/article/appearing-productive-in-the-workplace/"
 author: "No One's Happy"
 description: "AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace."
 word_count: 2252
+tags: [Science]
 ---
 
 # Appearing Productive In The Workplace

@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-04-30; Total 329 articles._
+_Last updated on 2026-05-10; Total 330 articles._
 
 ## 2026
 
-_40 articles_
+_41 articles_
+
+- [Appearing Productive in The Workplace](./Saved_Reading/Appearing%20Productive%20In%20The%20Workplace.md), <sup>[Science]</sup> _added on 2026-05-09_
 
 - [How I run multiple $10K MRR companies on a $20/month tech stack](./Saved_Reading/How%20I%20Run%20Multiple%2010k%20Mrr%20Companies%20On%20A%2020month%20Tech%20Stack.md), <sup>[Technology]</sup> _added on 2026-04-30_
 
@@ -14,9 +16,9 @@ _40 articles_
 
 - [价投大佬格兰瑟姆：辛勤的工作反而会阻碍思考，若非AI“续命”美股本该暴跌40%](./Saved_Reading/Ai40.md), _added on 2026-04-21_
 
-- [风暴中的网易](./Saved_Reading/风暴中的网易.md), _added on 2026-04-19_
-
 <details><summary>Show more</summary>
+
+- [风暴中的网易](./Saved_Reading/风暴中的网易.md), _added on 2026-04-19_
 
 - [The peril of laziness lost | The Observation Deck](./Saved_Reading/The%20Peril%20Of%20Laziness%20Lost%20The%20Observation%20Deck.md), <sup>[Technology]</sup> _added on 2026-04-14_
 
