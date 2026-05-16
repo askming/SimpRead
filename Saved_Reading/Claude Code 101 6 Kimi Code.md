@@ -5,6 +5,7 @@ url: "https://mp.weixin.qq.com/s?__biz=MzkwOTM1MTQ0NA%3D%3D&mid=2247484259&idx=1
 author: "Ethan Li"
 description: "从十几人团队的工作量，到一个人两天完成 —— 我的 Claude Code 插件实战记录写在前面"
 word_count: 2663
+tags: [Technology, Productivity]
 ---
 
 # Claude Code 101 6 Kimi Code
