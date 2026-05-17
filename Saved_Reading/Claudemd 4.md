@@ -5,6 +5,7 @@ url: "https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA%3D%3D&mid=2247501696&idx=2
 author: "AI研究生"
 description: "在 2026 年 4 月的一周内，Anthropic 发布了 Claude Opus 4.7，上线了名为 C"
 word_count: 5369
+tags: [Technology]
 ---
 
 # Claudemd 4

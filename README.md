@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-05-16; Total 331 articles._
+_Last updated on 2026-05-17; Total 332 articles._
 
 ## 2026
 
-_42 articles_
+_43 articles_
+
+- [每个 CLAUDE.md 都必须有的 4 行配置](./Saved_Reading/Claudemd%204.md), <sup>[Technology]</sup> _added on 2026-05-17_
 
 - [Claude Code 101:普通人都能快速上手的 6 个高分插件(亲测 Kimi Code 也能用)](./Saved_Reading/Claude%20Code%20101%206%20Kimi%20Code.md), <sup>[Technology]</sup> _added on 2026-05-16_
 
@@ -14,9 +16,9 @@ _42 articles_
 
 - [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
 
-- [AI Resistance is Growing](./Saved_Reading/Ai%20Resistance%20Is%20Growing.md), _added on 2026-04-21_
-
 <details><summary>Show more</summary>
+
+- [AI Resistance is Growing](./Saved_Reading/Ai%20Resistance%20Is%20Growing.md), _added on 2026-04-21_
 
 - [价投大佬格兰瑟姆：辛勤的工作反而会阻碍思考，若非AI“续命”美股本该暴跌40%](./Saved_Reading/Ai40.md), _added on 2026-04-21_
 
