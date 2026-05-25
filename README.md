@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-05-17; Total 332 articles._
+_Last updated on 2026-05-25; Total 333 articles._
 
 ## 2026
 
-_43 articles_
+_44 articles_
+
+- [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
 
 - [每个 CLAUDE.md 都必须有的 4 行配置](./Saved_Reading/Claudemd%204.md), <sup>[Technology]</sup> _added on 2026-05-17_
 
@@ -14,9 +16,9 @@ _43 articles_
 
 - [How I run multiple $10K MRR companies on a $20/month tech stack](./Saved_Reading/How%20I%20Run%20Multiple%2010k%20Mrr%20Companies%20On%20A%2020month%20Tech%20Stack.md), <sup>[Technology]</sup> _added on 2026-04-30_
 
-- [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
-
 <details><summary>Show more</summary>
+
+- [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
 
 - [AI Resistance is Growing](./Saved_Reading/Ai%20Resistance%20Is%20Growing.md), _added on 2026-04-21_
 
