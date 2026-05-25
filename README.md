@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-05-25; Total 333 articles._
+_Last updated on 2026-05-25; Total 334 articles._
 
 ## 2026
 
-_44 articles_
+_45 articles_
+
+- [School is Not Enough](./Saved_Reading/School%20Is%20Not%20Enough.md), _added on 2026-05-25_
 
 - [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
 
@@ -14,9 +16,9 @@ _44 articles_
 
 - [Appearing Productive in The Workplace](./Saved_Reading/Appearing%20Productive%20In%20The%20Workplace.md), <sup>[Science]</sup> _added on 2026-05-09_
 
-- [How I run multiple $10K MRR companies on a $20/month tech stack](./Saved_Reading/How%20I%20Run%20Multiple%2010k%20Mrr%20Companies%20On%20A%2020month%20Tech%20Stack.md), <sup>[Technology]</sup> _added on 2026-04-30_
-
 <details><summary>Show more</summary>
+
+- [How I run multiple $10K MRR companies on a $20/month tech stack](./Saved_Reading/How%20I%20Run%20Multiple%2010k%20Mrr%20Companies%20On%20A%2020month%20Tech%20Stack.md), <sup>[Technology]</sup> _added on 2026-04-30_
 
 - [Why Productivity Needs to be Redefined](./Saved_Reading/Why%20Productivity%20Needs%20To%20Be%20Redefined.md), <sup>[Productivity]</sup> _added on 2026-04-28_
 
