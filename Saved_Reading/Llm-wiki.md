@@ -5,6 +5,7 @@ url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 author: "karpathy"
 description: "llm-wiki. GitHub Gist: instantly share code, notes, and snippets."
 word_count: 1946
+tags: [Technology]
 ---
 
 # Llm-wiki

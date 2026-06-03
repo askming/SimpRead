@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-05-30; Total 336 articles._
+_Last updated on 2026-06-03; Total 337 articles._
 
 ## 2026
 
-_47 articles_
+_48 articles_
+
+- [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
 
 - [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
 
@@ -14,9 +16,9 @@ _47 articles_
 
 - [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
 
-- [每个 CLAUDE.md 都必须有的 4 行配置](./Saved_Reading/Claudemd%204.md), <sup>[Technology]</sup> _added on 2026-05-17_
-
 <details><summary>Show more</summary>
+
+- [每个 CLAUDE.md 都必须有的 4 行配置](./Saved_Reading/Claudemd%204.md), <sup>[Technology]</sup> _added on 2026-05-17_
 
 - [Claude Code 101:普通人都能快速上手的 6 个高分插件(亲测 Kimi Code 也能用)](./Saved_Reading/Claude%20Code%20101%206%20Kimi%20Code.md), <sup>[Technology]</sup> _added on 2026-05-16_
 
