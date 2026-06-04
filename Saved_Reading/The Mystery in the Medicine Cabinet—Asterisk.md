@@ -3,6 +3,7 @@ title: "The Mystery in the Medicine Cabinet—Asterisk"
 url: "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet"
 date: 2026-06-03
 status: read
+tags: [Health, Science, Society]
 ---
 
 # The Mystery in the Medicine Cabinet—Asterisk

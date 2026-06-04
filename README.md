@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-03; Total 337 articles._
+_Last updated on 2026-06-04; Total 338 articles._
 
 ## 2026
 
-_48 articles_
+_49 articles_
+
+- [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
 - [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
 
@@ -14,9 +16,9 @@ _48 articles_
 
 - [School is Not Enough](./Saved_Reading/School%20Is%20Not%20Enough.md), _added on 2026-05-25_
 
-- [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
-
 <details><summary>Show more</summary>
+
+- [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
 
 - [每个 CLAUDE.md 都必须有的 4 行配置](./Saved_Reading/Claudemd%204.md), <sup>[Technology]</sup> _added on 2026-05-17_
 
