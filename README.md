@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-06; Total 340 articles._
+_Last updated on 2026-06-06; Total 341 articles._
 
 ## 2026
 
-_51 articles_
+_52 articles_
+
+- [Ian's Shoelace Site – Ian's Secure Shoelace Knot](./Saved_Reading/Ian's%20Shoelace%20Site%20–%20Ian's%20Secure%20Shoelace%20Knot.md), _added on 2026-06-06_
 
 - [Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes | Academics | dailycal.org](./Saved_Reading/Failing%20grades%20soar%20as%20professors%20see%20greater%20AI%20usage,%20dwindling%20math%20skills%20in%20UC%20Berkeley%20computer%20science%20classes%20|%20Academics%20|%20dailycal.org.md), <sup>[Science]</sup> _added on 2026-06-06_
 
@@ -14,9 +16,9 @@ _51 articles_
 
 - [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
 
-- [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
-
 <details><summary>Show more</summary>
+
+- [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
 
 - [为什么要写作 | Limboy](./Saved_Reading/为什么要写作%20|%20Limboy.md), _added on 2026-05-30_
 
