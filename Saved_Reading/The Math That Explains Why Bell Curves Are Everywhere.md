@@ -5,6 +5,7 @@ url: "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-
 author: "Joseph Howlett"
 description: "The central limit theorem started as a bar trick for 18th-century gamblers. Now scientists rely on it every day."
 word_count: 1458
+tags: [Science]
 ---
 
 # The Math That Explains Why Bell Curves Are Everywhere

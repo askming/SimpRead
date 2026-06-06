@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-06; Total 342 articles._
+_Last updated on 2026-06-06; Total 343 articles._
 
 ## 2026
 
-_53 articles_
+_54 articles_
+
+- [The Math That Explains Why Bell Curves Are Everywhere](./Saved_Reading/The%20Math%20That%20Explains%20Why%20Bell%20Curves%20Are%20Everywhere.md), <sup>[Science]</sup> _added on 2026-06-06_
 
 - [Please Use AI - by Shawn Smucker - The Courage to Live It](./Saved_Reading/Please%20Use%20AI%20-%20by%20Shawn%20Smucker%20-%20The%20Courage%20to%20Live%20It.md), <sup>[Health]</sup> _added on 2026-06-06_
 
@@ -14,9 +16,9 @@ _53 articles_
 
 - [The Desperation of NYTimes - rozumem's weblog](./Saved_Reading/The%20Desperation%20of%20NYTimes%20-%20rozumem's%20weblog.md), _added on 2026-06-06_
 
-- [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
-
 <details><summary>Show more</summary>
+
+- [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
 - [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
 
