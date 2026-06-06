@@ -3,6 +3,7 @@ title: "Failing grades soar as professors see greater AI usage, dwindling math s
 url: "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
 date: 2026-06-06
 status: read
+tags: [Science, Technology]
 ---
 
 # Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes | Academics | dailycal.org

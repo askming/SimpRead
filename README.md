@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-06; Total 339 articles._
+_Last updated on 2026-06-06; Total 340 articles._
 
 ## 2026
 
-_50 articles_
+_51 articles_
+
+- [Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes | Academics | dailycal.org](./Saved_Reading/Failing%20grades%20soar%20as%20professors%20see%20greater%20AI%20usage,%20dwindling%20math%20skills%20in%20UC%20Berkeley%20computer%20science%20classes%20|%20Academics%20|%20dailycal.org.md), <sup>[Science]</sup> _added on 2026-06-06_
 
 - [The Desperation of NYTimes - rozumem's weblog](./Saved_Reading/The%20Desperation%20of%20NYTimes%20-%20rozumem's%20weblog.md), _added on 2026-06-06_
 
@@ -14,9 +16,9 @@ _50 articles_
 
 - [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
 
-- [为什么要写作 | Limboy](./Saved_Reading/为什么要写作%20|%20Limboy.md), _added on 2026-05-30_
-
 <details><summary>Show more</summary>
+
+- [为什么要写作 | Limboy](./Saved_Reading/为什么要写作%20|%20Limboy.md), _added on 2026-05-30_
 
 - [School is Not Enough](./Saved_Reading/School%20Is%20Not%20Enough.md), _added on 2026-05-25_
 
