@@ -3,6 +3,7 @@ title: "Please Use AI - by Shawn Smucker - The Courage to Live It"
 url: "https://shawnsmucker.substack.com/p/please-use-ai"
 date: 2026-06-06
 status: read
+tags: [Health]
 ---
 
 # Please Use AI - by Shawn Smucker - The Courage to Live It

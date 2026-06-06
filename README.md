@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-06; Total 341 articles._
+_Last updated on 2026-06-06; Total 342 articles._
 
 ## 2026
 
-_52 articles_
+_53 articles_
+
+- [Please Use AI - by Shawn Smucker - The Courage to Live It](./Saved_Reading/Please%20Use%20AI%20-%20by%20Shawn%20Smucker%20-%20The%20Courage%20to%20Live%20It.md), <sup>[Health]</sup> _added on 2026-06-06_
 
 - [Ian's Shoelace Site – Ian's Secure Shoelace Knot](./Saved_Reading/Ian's%20Shoelace%20Site%20–%20Ian's%20Secure%20Shoelace%20Knot.md), _added on 2026-06-06_
 
@@ -14,9 +16,9 @@ _52 articles_
 
 - [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
-- [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
-
 <details><summary>Show more</summary>
+
+- [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
 
 - [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
 
