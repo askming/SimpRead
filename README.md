@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-04; Total 338 articles._
+_Last updated on 2026-06-06; Total 339 articles._
 
 ## 2026
 
-_49 articles_
+_50 articles_
+
+- [The Desperation of NYTimes - rozumem's weblog](./Saved_Reading/The%20Desperation%20of%20NYTimes%20-%20rozumem's%20weblog.md), _added on 2026-06-06_
 
 - [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
@@ -14,9 +16,9 @@ _49 articles_
 
 - [为什么要写作 | Limboy](./Saved_Reading/为什么要写作%20|%20Limboy.md), _added on 2026-05-30_
 
-- [School is Not Enough](./Saved_Reading/School%20Is%20Not%20Enough.md), _added on 2026-05-25_
-
 <details><summary>Show more</summary>
+
+- [School is Not Enough](./Saved_Reading/School%20Is%20Not%20Enough.md), _added on 2026-05-25_
 
 - [我在贝索斯私人派对中所学到的一切](./Saved_Reading/Article.md), _added on 2026-05-25_
 
