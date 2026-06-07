@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-07; Total 343 articles._
+_Last updated on 2026-06-07; Total 344 articles._
 
 ## 2026
 
-_54 articles_
+_55 articles_
+
+- [Strong opinions, loosely held — and what that means in the age of AI](./Saved_Reading/Strong%20opinions,%20loosely%20held%20—%20and%20what%20that%20means%20in%20the%20age%20of%20AI.md), _added on 2026-06-07_
 
 - [The Math That Explains Why Bell Curves Are Everywhere](./Saved_Reading/The%20Math%20That%20Explains%20Why%20Bell%20Curves%20Are%20Everywhere.md), <sup>[Science]</sup> _added on 2026-06-06_
 
@@ -14,9 +16,9 @@ _54 articles_
 
 - [Failing grades soar as professors see greater AI usage, dwindling math skills in UC Berkeley computer science classes | Academics | dailycal.org](./Saved_Reading/Failing%20grades%20soar%20as%20professors%20see%20greater%20AI%20usage,%20dwindling%20math%20skills%20in%20UC%20Berkeley%20computer%20science%20classes%20|%20Academics%20|%20dailycal.org.md), <sup>[Science]</sup> _added on 2026-06-06_
 
-- [The Desperation of NYTimes - rozumem's weblog](./Saved_Reading/The%20Desperation%20of%20NYTimes%20-%20rozumem's%20weblog.md), _added on 2026-06-06_
-
 <details><summary>Show more</summary>
+
+- [The Desperation of NYTimes - rozumem's weblog](./Saved_Reading/The%20Desperation%20of%20NYTimes%20-%20rozumem's%20weblog.md), _added on 2026-06-06_
 
 - [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
