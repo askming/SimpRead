@@ -3,6 +3,7 @@ title: "The first hour of work - by David Hoang - Proof of Concept"
 url: "https://www.proofofconcept.pub/p/the-first-hour-of-work"
 date: 2026-06-07
 status: read
+tags: [Productivity]
 ---
 
 # The first hour of work - by David Hoang - Proof of Concept
