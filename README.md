@@ -1,10 +1,10 @@
 # Saved readings
 
-_Last updated on 2026-06-07; Total 344 articles._
+_Last updated on 2026-06-08; Total 343 articles._
 
 ## 2026
 
-_55 articles_
+_54 articles_
 
 - [Strong opinions, loosely held — and what that means in the age of AI](./Saved_Reading/Strong%20opinions,%20loosely%20held%20—%20and%20what%20that%20means%20in%20the%20age%20of%20AI.md), _added on 2026-06-07_
 
@@ -23,8 +23,6 @@ _55 articles_
 - [The Mystery in the Medicine Cabinet—Asterisk](./Saved_Reading/The%20Mystery%20in%20the%20Medicine%20Cabinet—Asterisk.md), <sup>[Health]</sup> _added on 2026-06-03_
 
 - [llm-wiki](./Saved_Reading/Llm-wiki.md), <sup>[Technology]</sup> _added on 2026-06-03_
-
-- [Oops... | Limboy](./Saved_Reading/Oops...%20|%20Limboy.md), _added on 2026-05-30_
 
 - [为什么要写作 | Limboy](./Saved_Reading/为什么要写作%20|%20Limboy.md), _added on 2026-05-30_
 
