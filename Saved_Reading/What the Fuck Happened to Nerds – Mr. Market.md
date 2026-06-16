@@ -3,6 +3,7 @@ title: "What the Fuck Happened to Nerds – Mr. Market"
 url: "https://mrmarket.lol/what-the-fuck-happened-to-nerds/"
 date: 2026-06-16
 status: read
+tags: [Productivity, Finance]
 ---
 
 # What the Fuck Happened to Nerds – Mr. Market
