@@ -3,6 +3,7 @@ saved_date: 2026-07-02T01:52:12.286Z
 title: "What School Doesn’t Teach You About Succeeding at Work"
 url: "https://stattrak.amstat.org/2026/07/01/what-school-doesnt-teach-you/"
 word_count: 1046
+tags: [Productivity, Society, Science]
 ---
 
 # What School Doesnt Teach You About Succeeding At Work

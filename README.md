@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-02; Total 346 articles._
+_Last updated on 2026-07-02; Total 347 articles._
 
 ## 2026
 
-_57 articles_
+_58 articles_
+
+- [What School Doesn’t Teach You About Succeeding at Work](./Saved_Reading/What%20School%20Doesnt%20Teach%20You%20About%20Succeeding%20At%20Work.md), <sup>[Productivity]</sup> _added on 2026-07-01_
 
 - [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
 
@@ -14,9 +16,9 @@ _57 articles_
 
 - [Strong opinions, loosely held — and what that means in the age of AI](./Saved_Reading/Strong%20opinions,%20loosely%20held%20—%20and%20what%20that%20means%20in%20the%20age%20of%20AI.md), _added on 2026-06-07_
 
-- [The Math That Explains Why Bell Curves Are Everywhere](./Saved_Reading/The%20Math%20That%20Explains%20Why%20Bell%20Curves%20Are%20Everywhere.md), <sup>[Science]</sup> _added on 2026-06-06_
-
 <details><summary>Show more</summary>
+
+- [The Math That Explains Why Bell Curves Are Everywhere](./Saved_Reading/The%20Math%20That%20Explains%20Why%20Bell%20Curves%20Are%20Everywhere.md), <sup>[Science]</sup> _added on 2026-06-06_
 
 - [Please Use AI - by Shawn Smucker - The Courage to Live It](./Saved_Reading/Please%20Use%20AI%20-%20by%20Shawn%20Smucker%20-%20The%20Courage%20to%20Live%20It.md), <sup>[Health]</sup> _added on 2026-06-06_
 
