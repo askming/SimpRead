@@ -5,6 +5,7 @@ url: "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-
 author: "Darron Kloster"
 description: "A U.S. decision to yank scientific instruments from around its shores will leave a gap in research, said the head of UVic’s Ocean Networks Canada."
 word_count: 1072
+tags: [Science]
 ---
 
 # Us Pulling Ocean Sensors A Shock For Canadian Research As El Nio Nears

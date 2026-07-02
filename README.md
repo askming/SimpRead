@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-06-16; Total 345 articles._
+_Last updated on 2026-07-02; Total 346 articles._
 
 ## 2026
 
-_56 articles_
+_57 articles_
+
+- [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
 
 - [What the Fuck Happened to Nerds – Mr. Market](./Saved_Reading/What%20the%20Fuck%20Happened%20to%20Nerds%20–%20Mr.%20Market.md), <sup>[Productivity]</sup> _added on 2026-06-16_
 
@@ -14,9 +16,9 @@ _56 articles_
 
 - [The Math That Explains Why Bell Curves Are Everywhere](./Saved_Reading/The%20Math%20That%20Explains%20Why%20Bell%20Curves%20Are%20Everywhere.md), <sup>[Science]</sup> _added on 2026-06-06_
 
-- [Please Use AI - by Shawn Smucker - The Courage to Live It](./Saved_Reading/Please%20Use%20AI%20-%20by%20Shawn%20Smucker%20-%20The%20Courage%20to%20Live%20It.md), <sup>[Health]</sup> _added on 2026-06-06_
-
 <details><summary>Show more</summary>
+
+- [Please Use AI - by Shawn Smucker - The Courage to Live It](./Saved_Reading/Please%20Use%20AI%20-%20by%20Shawn%20Smucker%20-%20The%20Courage%20to%20Live%20It.md), <sup>[Health]</sup> _added on 2026-06-06_
 
 - [Ian's Shoelace Site – Ian's Secure Shoelace Knot](./Saved_Reading/Ian's%20Shoelace%20Site%20–%20Ian's%20Secure%20Shoelace%20Knot.md), _added on 2026-06-06_
 
