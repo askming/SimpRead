@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-02; Total 348 articles._
+_Last updated on 2026-07-05; Total 349 articles._
 
 ## 2026
 
-_59 articles_
+_60 articles_
+
+- [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
 
 - [The quiet grief of adult friendship](./Saved_Reading/The%20quiet%20grief%20of%20adult%20friendship.md), _added on 2026-07-02_
 
@@ -14,9 +16,9 @@ _59 articles_
 
 - [What the Fuck Happened to Nerds – Mr. Market](./Saved_Reading/What%20the%20Fuck%20Happened%20to%20Nerds%20–%20Mr.%20Market.md), <sup>[Productivity]</sup> _added on 2026-06-16_
 
-- [The first hour of work - by David Hoang - Proof of Concept](./Saved_Reading/The%20first%20hour%20of%20work%20-%20by%20David%20Hoang%20-%20Proof%20of%20Concept.md), <sup>[Productivity]</sup> _added on 2026-06-07_
-
 <details><summary>Show more</summary>
+
+- [The first hour of work - by David Hoang - Proof of Concept](./Saved_Reading/The%20first%20hour%20of%20work%20-%20by%20David%20Hoang%20-%20Proof%20of%20Concept.md), <sup>[Productivity]</sup> _added on 2026-06-07_
 
 - [Strong opinions, loosely held — and what that means in the age of AI](./Saved_Reading/Strong%20opinions,%20loosely%20held%20—%20and%20what%20that%20means%20in%20the%20age%20of%20AI.md), _added on 2026-06-07_
 
