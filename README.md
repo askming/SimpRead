@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-05; Total 349 articles._
+_Last updated on 2026-07-07; Total 350 articles._
 
 ## 2026
 
-_60 articles_
+_61 articles_
+
+- [How to Time Travel. I once met a traveler named Charlie. He… | by Brian Chesky | Medium](./Saved_Reading/How%20to%20Time%20Travel.%20I%20once%20met%20a%20traveler%20named%20Charlie.%20He…%20|%20by%20Brian%20Chesky%20|%20Medium.md), _added on 2026-07-07_
 
 - [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
 
@@ -14,9 +16,9 @@ _60 articles_
 
 - [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
 
-- [What the Fuck Happened to Nerds – Mr. Market](./Saved_Reading/What%20the%20Fuck%20Happened%20to%20Nerds%20–%20Mr.%20Market.md), <sup>[Productivity]</sup> _added on 2026-06-16_
-
 <details><summary>Show more</summary>
+
+- [What the Fuck Happened to Nerds – Mr. Market](./Saved_Reading/What%20the%20Fuck%20Happened%20to%20Nerds%20–%20Mr.%20Market.md), <sup>[Productivity]</sup> _added on 2026-06-16_
 
 - [The first hour of work - by David Hoang - Proof of Concept](./Saved_Reading/The%20first%20hour%20of%20work%20-%20by%20David%20Hoang%20-%20Proof%20of%20Concept.md), <sup>[Productivity]</sup> _added on 2026-06-07_
 
