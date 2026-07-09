@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-09; Total 351 articles._
+_Last updated on 2026-07-09; Total 352 articles._
 
 ## 2026
 
-_62 articles_
+_63 articles_
+
+- [How to Time Travel](./Saved_Reading/How%20To%20Time%20Travel.md), _added on 2026-07-08_
 
 - [Maybe you should learn something](./Saved_Reading/Maybe%20You%20Should%20Learn%20Something.md), <sup>[Productivity]</sup> _added on 2026-07-08_
 
@@ -14,9 +16,9 @@ _62 articles_
 
 - [The quiet grief of adult friendship](./Saved_Reading/The%20quiet%20grief%20of%20adult%20friendship.md), _added on 2026-07-02_
 
-- [What School Doesn’t Teach You About Succeeding at Work](./Saved_Reading/What%20School%20Doesnt%20Teach%20You%20About%20Succeeding%20At%20Work.md), <sup>[Productivity]</sup> _added on 2026-07-01_
-
 <details><summary>Show more</summary>
+
+- [What School Doesn’t Teach You About Succeeding at Work](./Saved_Reading/What%20School%20Doesnt%20Teach%20You%20About%20Succeeding%20At%20Work.md), <sup>[Productivity]</sup> _added on 2026-07-01_
 
 - [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
 
