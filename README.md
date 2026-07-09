@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-07; Total 350 articles._
+_Last updated on 2026-07-09; Total 351 articles._
 
 ## 2026
 
-_61 articles_
+_62 articles_
+
+- [Maybe you should learn something](./Saved_Reading/Maybe%20You%20Should%20Learn%20Something.md), <sup>[Productivity]</sup> _added on 2026-07-08_
 
 - [How to Time Travel. I once met a traveler named Charlie. He… | by Brian Chesky | Medium](./Saved_Reading/How%20to%20Time%20Travel.%20I%20once%20met%20a%20traveler%20named%20Charlie.%20He…%20|%20by%20Brian%20Chesky%20|%20Medium.md), _added on 2026-07-07_
 
@@ -14,9 +16,9 @@ _61 articles_
 
 - [What School Doesn’t Teach You About Succeeding at Work](./Saved_Reading/What%20School%20Doesnt%20Teach%20You%20About%20Succeeding%20At%20Work.md), <sup>[Productivity]</sup> _added on 2026-07-01_
 
-- [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
-
 <details><summary>Show more</summary>
+
+- [U.S. pulling ocean sensors a ‘shock’ for Canadian research as El Niño nears](./Saved_Reading/Us%20Pulling%20Ocean%20Sensors%20A%20Shock%20For%20Canadian%20Research%20As%20El%20Nio%20Nears.md), <sup>[Science]</sup> _added on 2026-07-01_
 
 - [What the Fuck Happened to Nerds – Mr. Market](./Saved_Reading/What%20the%20Fuck%20Happened%20to%20Nerds%20–%20Mr.%20Market.md), <sup>[Productivity]</sup> _added on 2026-06-16_
 
