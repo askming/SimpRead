@@ -4,6 +4,7 @@ title: "Maybe \"is AI a bubble?\" is the wrong question"
 url: "https://emilesilvis.com/maybe-is-ai-a-bubble-is-the-wrong-question.html"
 description: "Bulls and bears agree the technology is real—they disagree on the clocks. Not whether AI is a bubble, but whether the payoff arrives before the financing runs out."
 word_count: 1189
+tags: [Society, Finance]
 ---
 
 # Maybe Is Ai A Bubble Is The Wrong Question
