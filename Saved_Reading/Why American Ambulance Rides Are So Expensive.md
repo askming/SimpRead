@@ -5,6 +5,7 @@ url: "https://davidoks.blog/p/why-american-ambulance-rides-are"
 author: "David Oks"
 description: "The unfortunately botched economics of emergency care"
 word_count: 4309
+tags: [Health]
 ---
 
 # Why American Ambulance Rides Are So Expensive

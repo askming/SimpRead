@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-10; Total 352 articles._
+_Last updated on 2026-07-11; Total 353 articles._
 
 ## 2026
 
-_63 articles_
+_64 articles_
+
+- [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
 
 - [Maybe \"is AI a bubble?\" is the wrong question](./Saved_Reading/Maybe%20Is%20Ai%20A%20Bubble%20Is%20The%20Wrong%20Question.md), <sup>[Society]</sup> _added on 2026-07-09_
 
@@ -14,9 +16,9 @@ _63 articles_
 
 - [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
 
-- [The quiet grief of adult friendship](./Saved_Reading/The%20quiet%20grief%20of%20adult%20friendship.md), _added on 2026-07-02_
-
 <details><summary>Show more</summary>
+
+- [The quiet grief of adult friendship](./Saved_Reading/The%20quiet%20grief%20of%20adult%20friendship.md), _added on 2026-07-02_
 
 - [What School Doesn’t Teach You About Succeeding at Work](./Saved_Reading/What%20School%20Doesnt%20Teach%20You%20About%20Succeeding%20At%20Work.md), <sup>[Productivity]</sup> _added on 2026-07-01_
 
