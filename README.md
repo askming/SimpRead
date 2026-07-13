@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-13; Total 354 articles._
+_Last updated on 2026-07-13; Total 355 articles._
 
 ## 2026
 
-_65 articles_
+_66 articles_
+
+- [How doctors die. It’s not like the rest of us, but it should be | Cancer World Archive](./Saved_Reading/How%20doctors%20die.%20It’s%20not%20like%20the%20rest%20of%20us,%20but%20it%20should%20be%20|%20Cancer%20World%20Archive.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
 - [How to read more books](./Saved_Reading/How%20to%20read%20more%20books.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
@@ -14,9 +16,9 @@ _65 articles_
 
 - [How to Time Travel](./Saved_Reading/How%20To%20Time%20Travel.md), _added on 2026-07-08_
 
-- [Maybe you should learn something](./Saved_Reading/Maybe%20You%20Should%20Learn%20Something.md), <sup>[Productivity]</sup> _added on 2026-07-08_
-
 <details><summary>Show more</summary>
+
+- [Maybe you should learn something](./Saved_Reading/Maybe%20You%20Should%20Learn%20Something.md), <sup>[Productivity]</sup> _added on 2026-07-08_
 
 - [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
 

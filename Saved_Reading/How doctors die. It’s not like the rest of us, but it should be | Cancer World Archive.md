@@ -3,6 +3,7 @@ title: "How doctors die. It’s not like the rest of us, but it should be | Canc
 url: "https://archive.cancerworld.net/featured/how-doctors-die/"
 date: 2026-07-13
 status: read
+tags: [Productivity]
 ---
 
 # How doctors die. It’s not like the rest of us, but it should be | Cancer World Archive
