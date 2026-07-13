@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-11; Total 353 articles._
+_Last updated on 2026-07-13; Total 354 articles._
 
 ## 2026
 
-_64 articles_
+_65 articles_
+
+- [How to read more books](./Saved_Reading/How%20to%20read%20more%20books.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
 - [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
 
@@ -14,9 +16,9 @@ _64 articles_
 
 - [Maybe you should learn something](./Saved_Reading/Maybe%20You%20Should%20Learn%20Something.md), <sup>[Productivity]</sup> _added on 2026-07-08_
 
-- [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
-
 <details><summary>Show more</summary>
+
+- [一个中年人决定要写日记](./Saved_Reading/一个中年人决定要写日记.md), _added on 2026-07-05_
 
 - [The quiet grief of adult friendship](./Saved_Reading/The%20quiet%20grief%20of%20adult%20friendship.md), _added on 2026-07-02_
 

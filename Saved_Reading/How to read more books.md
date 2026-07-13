@@ -3,6 +3,7 @@ title: "How to read more books"
 url: "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
 date: 2026-07-13
 status: read
+tags: [Productivity, Health]
 ---
 
 # How to read more books
