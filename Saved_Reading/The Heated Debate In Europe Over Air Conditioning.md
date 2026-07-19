@@ -5,6 +5,7 @@ url: "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning
 author: "Nathan Gardels"
 description: "Technology, like climate, shapes culture."
 word_count: 979
+tags: [Society, Science]
 ---
 
 # The Heated Debate In Europe Over Air Conditioning
