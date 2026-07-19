@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-19; Total 356 articles._
+_Last updated on 2026-07-19; Total 357 articles._
 
 ## 2026
 
-_67 articles_
+_68 articles_
+
+- [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](./Saved_Reading/Ai.md), _added on 2026-07-19_
 
 - [The Heated Debate In Europe Over Air Conditioning](./Saved_Reading/The%20Heated%20Debate%20In%20Europe%20Over%20Air%20Conditioning.md), <sup>[Society]</sup> _added on 2026-07-19_
 
@@ -14,9 +16,9 @@ _67 articles_
 
 - [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
 
-- [Maybe \"is AI a bubble?\" is the wrong question](./Saved_Reading/Maybe%20Is%20Ai%20A%20Bubble%20Is%20The%20Wrong%20Question.md), <sup>[Society]</sup> _added on 2026-07-09_
-
 <details><summary>Show more</summary>
+
+- [Maybe \"is AI a bubble?\" is the wrong question](./Saved_Reading/Maybe%20Is%20Ai%20A%20Bubble%20Is%20The%20Wrong%20Question.md), <sup>[Society]</sup> _added on 2026-07-09_
 
 - [How to Time Travel](./Saved_Reading/How%20To%20Time%20Travel.md), _added on 2026-07-08_
 
