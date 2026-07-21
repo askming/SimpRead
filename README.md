@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-19; Total 357 articles._
+_Last updated on 2026-07-21; Total 358 articles._
 
 ## 2026
 
-_68 articles_
+_69 articles_
+
+- [If You Build It, They Will Come - Ben Landau-Taylor](./Saved_Reading/If%20You%20Build%20It,%20They%20Will%20Come%20-%20Ben%20Landau-Taylor.md), _added on 2026-07-20_
 
 - [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](./Saved_Reading/Ai.md), _added on 2026-07-19_
 
@@ -14,9 +16,9 @@ _68 articles_
 
 - [How to read more books](./Saved_Reading/How%20to%20read%20more%20books.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
-- [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
-
 <details><summary>Show more</summary>
+
+- [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
 
 - [Maybe \"is AI a bubble?\" is the wrong question](./Saved_Reading/Maybe%20Is%20Ai%20A%20Bubble%20Is%20The%20Wrong%20Question.md), <sup>[Society]</sup> _added on 2026-07-09_
 
