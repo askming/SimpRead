@@ -3,6 +3,7 @@ title: "The Kimi K3 Moment | Stephen Bochinski"
 url: "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
 date: 2026-07-20
 status: read
+tags: [Society]
 ---
 
 # The Kimi K3 Moment | Stephen Bochinski

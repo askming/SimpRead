@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-21; Total 358 articles._
+_Last updated on 2026-07-21; Total 359 articles._
 
 ## 2026
 
-_69 articles_
+_70 articles_
+
+- [The Kimi K3 Moment | Stephen Bochinski](./Saved_Reading/The%20Kimi%20K3%20Moment%20|%20Stephen%20Bochinski.md), <sup>[Society]</sup> _added on 2026-07-20_
 
 - [If You Build It, They Will Come - Ben Landau-Taylor](./Saved_Reading/If%20You%20Build%20It,%20They%20Will%20Come%20-%20Ben%20Landau-Taylor.md), _added on 2026-07-20_
 
@@ -14,9 +16,9 @@ _69 articles_
 
 - [How doctors die. It’s not like the rest of us, but it should be | Cancer World Archive](./Saved_Reading/How%20doctors%20die.%20It’s%20not%20like%20the%20rest%20of%20us,%20but%20it%20should%20be%20|%20Cancer%20World%20Archive.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
-- [How to read more books](./Saved_Reading/How%20to%20read%20more%20books.md), <sup>[Productivity]</sup> _added on 2026-07-13_
-
 <details><summary>Show more</summary>
+
+- [How to read more books](./Saved_Reading/How%20to%20read%20more%20books.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
 - [Why American ambulance rides are so expensive](./Saved_Reading/Why%20American%20Ambulance%20Rides%20Are%20So%20Expensive.md), <sup>[Health]</sup> _added on 2026-07-10_
 
