@@ -1,0 +1,64 @@
+---
+title: "It's getting harder to focus every day | Glyphack"
+url: "https://glyphack.com/attention/"
+date: 2026-07-25
+status: read
+---
+
+# It's getting harder to focus every day | Glyphack
+
+I’m feeling it right now. I had to set a timer for 15 minute on my computer and block all distractions to write this. If I didn’t force myself to focus I would easily get distracted by something after few minutes. Even when I’m doing things that I’ve been waiting to do it, I still feel the urge to do something else.
+
+I don’t know how and when this happened. During the last few years I was always studying, working, and doing open source. And actually got stuff done. Doing all of those at the same time requires paying attention to what I wanted to do and ignore the noise.
+
+Nowadays, I’m lucky if I get 1 hour of focused time. Just to be clear, my goal is not to work 90 hours a week or anything crazy. That is not possible for me. I just want the hour I spend programming, learning, or writing to be just one activity. But instead I spend 10 minute on something then I get distracted, and try to focus again.
+
+Ideally, I want to be able to plan to work on something for long hours without any distraction. After that time get back online check for messages and other things.
+
+The distractions are not one particular thing. A few examples:
+
+  * I want to do something and I remember there’s a post related to this. I go to find it and in between I click on some links and end up reading something completely unrelated.
+  * I am waiting for something then I go browse the web and I get distracted.
+  * I’m working on something and I face a challenge I have to think for 10 minutes. I get up to get some water and check my phone along the way and get distracted. Sometimes I get distracted by making the bed.
+
+It feels like my brain finds a way to do something else and avoid painful situations like boredom or hard work.
+
+* * *
+
+It reminds me of when I was in high school talking to a friend about how laying in bed with your phone can kill hours without you noticing it. It was circa 2015, back then [attention hungry](https://world.hey.com/dhh/the-totalitarians-of-the-attention-economy-3e239524) apps were less powerful but still lure a teenager’s mind for few hours. I learned that these apps should be used very carefully. At that time I made a decision to never have a charger near my bed. Back then it was mostly about my phone, because when I was on the computer I was either reading, or programming, or playing a game. Even if I wasn’t in the mood to think, I played a strategic game or chess. These activities exercise the mind and are fun. All of them were an intentional activity. I didn’t do any passive activities like browsing or chatting on my computer.
+
+Later I discovered HackerNoon and Medium, it was the first website that I was browsing whenever I was bored behind the computer. This meant that I had a way to get out boredom easily. It used to have some high quality content. It inspired me to do some projects and learn more programming. I found channels like [CSDojo](https://www.youtube.com/@CSDojo/videos) there. Nowadays I don’t even open them. They are filled with slop or click bait articles, probably because of monetization incentives. Then hackernews, and YouTube and others took their place. I also found some good people and blogs along the way. I learned to keep a [reading list](https://r.glyphack.com/s/s) from people I like to read when I’m on the bus.
+
+I slowly found more activities for when I’m bored. This made it harder to focus on hard things for me. What kept me on track was that there was no way out. I had to work out some algebra problems. I kept myself to a very high bar of understanding what I do. And I did everything in LaTeX so I couldn’t copy from someone else. I was the only one typing them.
+
+* * *
+
+The first time I saw people not putting the effort and still get the reward for it was at work. You might wonder, aren’t people in the university constantly cheating and copying homework, and get good grades? Well yes, but when you talked with someone in that group it was clear that he is clueless about the subject. A good grade didn’t mean much to me at that time. And as a student cheating does not get you that far.
+
+At work it is different. My days are mostly spend meetings and over chat. The balance between [actual work and bullshit](https://www.spakhm.com/bullshit-ratio) is skewed. I saw people who were barely doing any work and just talk are successful. As long as people give 10% of their attention to work they are considered fine in most environments. Previously I did [an experiment](https://glyphack.com/tracking-time/) to track my time and found out that I spent 8 hours chatting on slack in a week.
+
+I don’t care how employers want to shatter employee’s focus. But this made me get used to distractions when I’m programming. I’m trying to undo this damage.
+
+* * *
+
+The next big change is more usage of LLMs. I find myself in this situation too many times, where I outsource something to an LLM and then I start working on something else. And while doing this I keep thinking about what it’s doing. Or when I’m thinking about something I start chatting with an LLM about my idea and instead of getting started on something I’m in research mode only for hours.
+
+It’s good that I’m able to ask something else to research some topic for me. But the productivity only comes if I can move on to something else and not think about it. I don’t have any notifications turned on so it doesn’t distract me. But I still find myself thinking about what I just asked it to do and I cannot focus on something else.
+
+At the same time if I’m spending the time interactively with an LLM I feel slow. I have to wait for the response and I have to correct every response coming out. The best use of AI seems to be outsourcing what they can do end to end without error.
+
+Why do I keep doing this? Presumably because it’s easy and fast, and productive. If I realize I have to do something I can write it down to do it later or I can just ask the LLM to do it. The problem only shows up when I start doing so many things at once because it’s actually doing the thing. Then I have multiple things on my mind and can’t focus really. I have to check on it and guide it in the right direction every now and then.
+
+And this is overstimulating, in a way that doing something without LLM sometimes is boring. You don’t see the results as fast. Which makes focusing harder.
+
+* * *
+
+So how can I regain my ability to focus? Sometimes I [live stream](https://www.youtube.com/channel/UCcmQIfYP9cdK291cvDIsllg) what I’m doing just because with a camera I cannot escape from hard challenges by grabbing my phone. I used to co-work with my friends over discord. Unfortunately it’s not possible anymore because people in Iran cannot have a stable internet connection nowadays.
+
+It’s incredibly hard to commit to something for a long period of time. If what I’m doing is going to take multiple days to have a result I have less motivations to do it. Meanwhile, vibe coding small utility scripts is fun I keep doing it whenever I see a friction. Whenever I am stuck I can throw my problem into it and wait strengthen this habit of waiting for an answer from someone as opposed to work through problems. And they are fast in getting back the results. So next time I have to read a paper to understand the subject I will be more reluctant because I can get a faster result through them.
+
+I’m changing some habits to replace the current ones. If I don’t feel motivated enough to do anything I get up and pick up a book to read. I’m keeping a [Garden](/s/garden/) in my balcony is that when I’m tired I can move the soil around and plant some pots and prune plants. I find this to be a less addictive than say, watching a movie. When the motivation comes back I can stop it easily.
+
+* * *
+
+My goal was not to find an answer for this problem. I wanted to see what’s going on and why I am not doing anything inconsequential in the past few months. Anyway the timer I set to write this really helped. I spent a lot more time to write this but it gave me the initial motivation to write.
