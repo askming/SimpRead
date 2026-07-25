@@ -3,6 +3,7 @@ title: "It's getting harder to focus every day | Glyphack"
 url: "https://glyphack.com/attention/"
 date: 2026-07-25
 status: read
+tags: [Productivity, Technology, Health]
 ---
 
 # It's getting harder to focus every day | Glyphack
