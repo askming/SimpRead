@@ -5,6 +5,7 @@ url: "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
 author: "Neal Stephenson"
 description: "Because I am known to write using a fountain pen on paper, a number of people have pointed me to this post and its underlying research. I won’t rehash what is said in those sources, but the gist of it is that when you write things down by hand you’re recruiting more of your brain, which is a good thing."
 word_count: 2461
+tags: [Health, Science]
 ---
 
 # Writing By Hand Is Good For Your Brain - Heres How To Do It

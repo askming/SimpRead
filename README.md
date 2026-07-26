@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-25; Total 360 articles._
+_Last updated on 2026-07-26; Total 361 articles._
 
 ## 2026
 
-_71 articles_
+_72 articles_
+
+- [Writing by Hand is Good for your Brain - Here's how to do it](./Saved_Reading/Writing%20By%20Hand%20Is%20Good%20For%20Your%20Brain%20-%20Heres%20How%20To%20Do%20It.md), <sup>[Health]</sup> _added on 2026-07-25_
 
 - [It's getting harder to focus every day | Glyphack](./Saved_Reading/It's%20getting%20harder%20to%20focus%20every%20day%20|%20Glyphack.md), <sup>[Productivity]</sup> _added on 2026-07-25_
 
@@ -14,9 +16,9 @@ _71 articles_
 
 - [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](./Saved_Reading/Ai.md), _added on 2026-07-19_
 
-- [The Heated Debate In Europe Over Air Conditioning](./Saved_Reading/The%20Heated%20Debate%20In%20Europe%20Over%20Air%20Conditioning.md), <sup>[Society]</sup> _added on 2026-07-19_
-
 <details><summary>Show more</summary>
+
+- [The Heated Debate In Europe Over Air Conditioning](./Saved_Reading/The%20Heated%20Debate%20In%20Europe%20Over%20Air%20Conditioning.md), <sup>[Society]</sup> _added on 2026-07-19_
 
 - [How doctors die. It’s not like the rest of us, but it should be | Cancer World Archive](./Saved_Reading/How%20doctors%20die.%20It’s%20not%20like%20the%20rest%20of%20us,%20but%20it%20should%20be%20|%20Cancer%20World%20Archive.md), <sup>[Productivity]</sup> _added on 2026-07-13_
 
