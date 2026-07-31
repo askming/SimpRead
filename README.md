@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-07-26; Total 361 articles._
+_Last updated on 2026-07-31; Total 362 articles._
 
 ## 2026
 
-_72 articles_
+_73 articles_
+
+- [The Cold Email](./Saved_Reading/The%20Cold%20Email.md), <sup>[Technology]</sup> _added on 2026-07-30_
 
 - [Writing by Hand is Good for your Brain - Here's how to do it](./Saved_Reading/Writing%20By%20Hand%20Is%20Good%20For%20Your%20Brain%20-%20Heres%20How%20To%20Do%20It.md), <sup>[Health]</sup> _added on 2026-07-25_
 
@@ -14,9 +16,9 @@ _72 articles_
 
 - [If You Build It, They Will Come - Ben Landau-Taylor](./Saved_Reading/If%20You%20Build%20It,%20They%20Will%20Come%20-%20Ben%20Landau-Taylor.md), _added on 2026-07-20_
 
-- [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](./Saved_Reading/Ai.md), _added on 2026-07-19_
-
 <details><summary>Show more</summary>
+
+- [给「AI 组织」交了好几波学费后，终于看清了这五级台阶](./Saved_Reading/Ai.md), _added on 2026-07-19_
 
 - [The Heated Debate In Europe Over Air Conditioning](./Saved_Reading/The%20Heated%20Debate%20In%20Europe%20Over%20Air%20Conditioning.md), <sup>[Society]</sup> _added on 2026-07-19_
 

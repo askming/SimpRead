@@ -3,6 +3,7 @@ title: "The Cold Email"
 url: "https://zachholman.com/posts/cold-email"
 date: 2026-07-30
 status: read
+tags: [Technology, Productivity]
 ---
 
 # The Cold Email
