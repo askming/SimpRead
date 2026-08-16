@@ -5,6 +5,7 @@ url: "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-pr
 author: "Senko Rašić"
 description: "The software development profession is in the midst of upheaval. Nobody knows how the AI revolution will play out in the end, but it is c..."
 word_count: 1525
+tags: [Technology, Productivity]
 ---
 
 # Code Was Never The Hard Part Is An Insult To All Programmers
