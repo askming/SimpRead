@@ -3,6 +3,7 @@ title: "How I use LLMs to learn complex topics · Laurentiu Raducu"
 url: "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
 date: 2026-08-16
 status: read
+tags: [Technology, Productivity]
 ---
 
 # How I use LLMs to learn complex topics · Laurentiu Raducu

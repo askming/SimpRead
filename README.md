@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-16; Total 364 articles._
+_Last updated on 2026-08-16; Total 365 articles._
 
 ## 2026
 
-_75 articles_
+_76 articles_
+
+- [How I use LLMs to learn complex topics · Laurentiu Raducu](./Saved_Reading/How%20I%20use%20LLMs%20to%20learn%20complex%20topics%20·%20Laurentiu%20Raducu.md), <sup>[Technology]</sup> _added on 2026-08-16_
 
 - [How to Exist](./Saved_Reading/How%20To%20Exist.md), <sup>[Science]</sup> _added on 2026-08-15_
 
@@ -14,9 +16,9 @@ _75 articles_
 
 - [Writing by Hand is Good for your Brain - Here's how to do it](./Saved_Reading/Writing%20By%20Hand%20Is%20Good%20For%20Your%20Brain%20-%20Heres%20How%20To%20Do%20It.md), <sup>[Health]</sup> _added on 2026-07-25_
 
-- [It's getting harder to focus every day | Glyphack](./Saved_Reading/It's%20getting%20harder%20to%20focus%20every%20day%20|%20Glyphack.md), <sup>[Productivity]</sup> _added on 2026-07-25_
-
 <details><summary>Show more</summary>
+
+- [It's getting harder to focus every day | Glyphack](./Saved_Reading/It's%20getting%20harder%20to%20focus%20every%20day%20|%20Glyphack.md), <sup>[Productivity]</sup> _added on 2026-07-25_
 
 - [The Kimi K3 Moment | Stephen Bochinski](./Saved_Reading/The%20Kimi%20K3%20Moment%20|%20Stephen%20Bochinski.md), <sup>[Society]</sup> _added on 2026-07-20_
 
