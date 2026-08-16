@@ -5,6 +5,7 @@ url: "https://www.raptitude.com/2026/07/how-to-exist/"
 author: "David Cain"
 description: "FacebookEmailPinterestRedditShareHere’s an experiment for a true daredevil. Sit there for a three minutes, following two rules: By “don’t do anything,” I mean don’t move, don’t fidget, don’t indulge any thoughts or daydreams. You’re allowed to breathe, and blink. By “be […]"
 word_count: 1206
+tags: [Science]
 ---
 
 # How To Exist

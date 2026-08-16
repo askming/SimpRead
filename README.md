@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-16; Total 363 articles._
+_Last updated on 2026-08-16; Total 364 articles._
 
 ## 2026
 
-_74 articles_
+_75 articles_
+
+- [How to Exist](./Saved_Reading/How%20To%20Exist.md), <sup>[Science]</sup> _added on 2026-08-15_
 
 - [\"Code was never the hard part\" is an insult to all programmers](./Saved_Reading/Code%20Was%20Never%20The%20Hard%20Part%20Is%20An%20Insult%20To%20All%20Programmers.md), <sup>[Technology]</sup> _added on 2026-08-15_
 
@@ -14,9 +16,9 @@ _74 articles_
 
 - [It's getting harder to focus every day | Glyphack](./Saved_Reading/It's%20getting%20harder%20to%20focus%20every%20day%20|%20Glyphack.md), <sup>[Productivity]</sup> _added on 2026-07-25_
 
-- [The Kimi K3 Moment | Stephen Bochinski](./Saved_Reading/The%20Kimi%20K3%20Moment%20|%20Stephen%20Bochinski.md), <sup>[Society]</sup> _added on 2026-07-20_
-
 <details><summary>Show more</summary>
+
+- [The Kimi K3 Moment | Stephen Bochinski](./Saved_Reading/The%20Kimi%20K3%20Moment%20|%20Stephen%20Bochinski.md), <sup>[Society]</sup> _added on 2026-07-20_
 
 - [If You Build It, They Will Come - Ben Landau-Taylor](./Saved_Reading/If%20You%20Build%20It,%20They%20Will%20Come%20-%20Ben%20Landau-Taylor.md), _added on 2026-07-20_
 
