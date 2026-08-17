@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-16; Total 365 articles._
+_Last updated on 2026-08-17; Total 366 articles._
 
 ## 2026
 
-_76 articles_
+_77 articles_
+
+- [Ranking California high schools: Private schools that perform best on UC admissions](./Saved_Reading/Ranking%20California%20high%20schools:%20Private%20schools%20that%20perform%20best%20on%20UC%20admissions.md), _added on 2026-08-17_
 
 - [How I use LLMs to learn complex topics · Laurentiu Raducu](./Saved_Reading/How%20I%20use%20LLMs%20to%20learn%20complex%20topics%20·%20Laurentiu%20Raducu.md), <sup>[Technology]</sup> _added on 2026-08-16_
 
@@ -14,9 +16,9 @@ _76 articles_
 
 - [The Cold Email](./Saved_Reading/The%20Cold%20Email.md), <sup>[Technology]</sup> _added on 2026-07-30_
 
-- [Writing by Hand is Good for your Brain - Here's how to do it](./Saved_Reading/Writing%20By%20Hand%20Is%20Good%20For%20Your%20Brain%20-%20Heres%20How%20To%20Do%20It.md), <sup>[Health]</sup> _added on 2026-07-25_
-
 <details><summary>Show more</summary>
+
+- [Writing by Hand is Good for your Brain - Here's how to do it](./Saved_Reading/Writing%20By%20Hand%20Is%20Good%20For%20Your%20Brain%20-%20Heres%20How%20To%20Do%20It.md), <sup>[Health]</sup> _added on 2026-07-25_
 
 - [It's getting harder to focus every day | Glyphack](./Saved_Reading/It's%20getting%20harder%20to%20focus%20every%20day%20|%20Glyphack.md), <sup>[Productivity]</sup> _added on 2026-07-25_
 
