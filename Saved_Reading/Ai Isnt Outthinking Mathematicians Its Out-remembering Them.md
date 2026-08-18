@@ -5,6 +5,7 @@ url: "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
 author: "Davide Piffer"
 description: "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory."
 word_count: 3063
+tags: [Productivity, Science]
 ---
 
 # Ai Isnt Outthinking Mathematicians Its Out-remembering Them
