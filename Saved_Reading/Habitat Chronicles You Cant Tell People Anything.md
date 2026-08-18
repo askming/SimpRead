@@ -3,6 +3,7 @@ saved_date: 2026-08-18T04:39:05.902Z
 title: "Habitat Chronicles:   You can't tell people anything"
 url: "https://web.archive.org/web/20091025030730/https://habitatchronicles.com/2004/04/you-cant-tell-people-anything/"
 word_count: 1231
+tags: [Productivity, Technology]
 ---
 
 # Habitat Chronicles You Cant Tell People Anything
