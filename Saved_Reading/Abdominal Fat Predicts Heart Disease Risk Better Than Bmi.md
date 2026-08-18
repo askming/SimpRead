@@ -3,6 +3,7 @@ saved_date: 2026-08-18T04:23:53.972Z
 title: "Abdominal Fat Predicts Heart Disease Risk Better Than BMI"
 url: "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi"
 word_count: 907
+tags: [Health, Science]
 ---
 
 # Abdominal Fat Predicts Heart Disease Risk Better Than Bmi

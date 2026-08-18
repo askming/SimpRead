@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-18; Total 367 articles._
+_Last updated on 2026-08-18; Total 368 articles._
 
 ## 2026
 
-_78 articles_
+_79 articles_
+
+- [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](./Saved_Reading/Abdominal%20Fat%20Predicts%20Heart%20Disease%20Risk%20Better%20Than%20Bmi.md), <sup>[Health]</sup> _added on 2026-08-17_
 
 - [AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.](./Saved_Reading/Ai%20Isnt%20Outthinking%20Mathematicians%20Its%20Out-remembering%20Them.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 
@@ -14,9 +16,9 @@ _78 articles_
 
 - [How to Exist](./Saved_Reading/How%20To%20Exist.md), <sup>[Science]</sup> _added on 2026-08-15_
 
-- [\"Code was never the hard part\" is an insult to all programmers](./Saved_Reading/Code%20Was%20Never%20The%20Hard%20Part%20Is%20An%20Insult%20To%20All%20Programmers.md), <sup>[Technology]</sup> _added on 2026-08-15_
-
 <details><summary>Show more</summary>
+
+- [\"Code was never the hard part\" is an insult to all programmers](./Saved_Reading/Code%20Was%20Never%20The%20Hard%20Part%20Is%20An%20Insult%20To%20All%20Programmers.md), <sup>[Technology]</sup> _added on 2026-08-15_
 
 - [The Cold Email](./Saved_Reading/The%20Cold%20Email.md), <sup>[Technology]</sup> _added on 2026-07-30_
 
