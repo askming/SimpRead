@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-18; Total 369 articles._
+_Last updated on 2026-08-18; Total 370 articles._
 
 ## 2026
 
-_80 articles_
+_81 articles_
+
+- [分享我知识管理 12 年来最重要的经验：INL 结构 - 少数派](./Saved_Reading/12%20Inl%20-.md), _added on 2026-08-17_
 
 - [Habitat Chronicles:   You can't tell people anything](./Saved_Reading/Habitat%20Chronicles%20You%20Cant%20Tell%20People%20Anything.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 
@@ -14,9 +16,9 @@ _80 articles_
 
 - [Ranking California high schools: Private schools that perform best on UC admissions](./Saved_Reading/Ranking%20California%20high%20schools:%20Private%20schools%20that%20perform%20best%20on%20UC%20admissions.md), _added on 2026-08-17_
 
-- [How I use LLMs to learn complex topics · Laurentiu Raducu](./Saved_Reading/How%20I%20use%20LLMs%20to%20learn%20complex%20topics%20·%20Laurentiu%20Raducu.md), <sup>[Technology]</sup> _added on 2026-08-16_
-
 <details><summary>Show more</summary>
+
+- [How I use LLMs to learn complex topics · Laurentiu Raducu](./Saved_Reading/How%20I%20use%20LLMs%20to%20learn%20complex%20topics%20·%20Laurentiu%20Raducu.md), <sup>[Technology]</sup> _added on 2026-08-16_
 
 - [How to Exist](./Saved_Reading/How%20To%20Exist.md), <sup>[Science]</sup> _added on 2026-08-15_
 
