@@ -4,6 +4,7 @@ title: "The Amazon tax"
 url: "https://seths.blog/2026/08/the-amazon-tax/"
 description: "Seth Godin's Blog on marketing, tribes and respect"
 word_count: 622
+tags: [Finance, Science]
 ---
 
 # The Amazon Tax

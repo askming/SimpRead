@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-18; Total 370 articles._
+_Last updated on 2026-08-23; Total 371 articles._
 
 ## 2026
 
-_81 articles_
+_82 articles_
+
+- [The Amazon tax](./Saved_Reading/The%20Amazon%20Tax.md), <sup>[Finance]</sup> _added on 2026-08-23_
 
 - [分享我知识管理 12 年来最重要的经验：INL 结构 - 少数派](./Saved_Reading/12%20Inl%20-.md), _added on 2026-08-17_
 
@@ -14,9 +16,9 @@ _81 articles_
 
 - [AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.](./Saved_Reading/Ai%20Isnt%20Outthinking%20Mathematicians%20Its%20Out-remembering%20Them.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 
-- [Ranking California high schools: Private schools that perform best on UC admissions](./Saved_Reading/Ranking%20California%20high%20schools:%20Private%20schools%20that%20perform%20best%20on%20UC%20admissions.md), _added on 2026-08-17_
-
 <details><summary>Show more</summary>
+
+- [Ranking California high schools: Private schools that perform best on UC admissions](./Saved_Reading/Ranking%20California%20high%20schools:%20Private%20schools%20that%20perform%20best%20on%20UC%20admissions.md), _added on 2026-08-17_
 
 - [How I use LLMs to learn complex topics · Laurentiu Raducu](./Saved_Reading/How%20I%20use%20LLMs%20to%20learn%20complex%20topics%20·%20Laurentiu%20Raducu.md), <sup>[Technology]</sup> _added on 2026-08-16_
 
