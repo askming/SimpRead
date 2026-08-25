@@ -3,6 +3,7 @@ title: "The Golden Rule for Becoming a Better Writer - T.R Napper"
 url: "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/"
 date: 2026-08-24
 status: read
+tags: [Health, Productivity]
 ---
 
 # The Golden Rule for Becoming a Better Writer - T.R Napper

@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-23; Total 371 articles._
+_Last updated on 2026-08-25; Total 372 articles._
 
 ## 2026
 
-_82 articles_
+_83 articles_
+
+- [The Golden Rule for Becoming a Better Writer - T.R Napper](./Saved_Reading/The%20Golden%20Rule%20for%20Becoming%20a%20Better%20Writer%20-%20T.R%20Napper.md), <sup>[Health]</sup> _added on 2026-08-24_
 
 - [The Amazon tax](./Saved_Reading/The%20Amazon%20Tax.md), <sup>[Finance]</sup> _added on 2026-08-23_
 
@@ -14,9 +16,9 @@ _82 articles_
 
 - [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](./Saved_Reading/Abdominal%20Fat%20Predicts%20Heart%20Disease%20Risk%20Better%20Than%20Bmi.md), <sup>[Health]</sup> _added on 2026-08-17_
 
-- [AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.](./Saved_Reading/Ai%20Isnt%20Outthinking%20Mathematicians%20Its%20Out-remembering%20Them.md), <sup>[Productivity]</sup> _added on 2026-08-17_
-
 <details><summary>Show more</summary>
+
+- [AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.](./Saved_Reading/Ai%20Isnt%20Outthinking%20Mathematicians%20Its%20Out-remembering%20Them.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 
 - [Ranking California high schools: Private schools that perform best on UC admissions](./Saved_Reading/Ranking%20California%20high%20schools:%20Private%20schools%20that%20perform%20best%20on%20UC%20admissions.md), _added on 2026-08-17_
 
