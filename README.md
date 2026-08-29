@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-08-25; Total 372 articles._
+_Last updated on 2026-08-29; Total 373 articles._
 
 ## 2026
 
-_83 articles_
+_84 articles_
+
+- [LLMs reward expertise](./Saved_Reading/Llms%20Reward%20Expertise.md), <sup>[Technology]</sup> _added on 2026-08-29_
 
 - [The Golden Rule for Becoming a Better Writer - T.R Napper](./Saved_Reading/The%20Golden%20Rule%20for%20Becoming%20a%20Better%20Writer%20-%20T.R%20Napper.md), <sup>[Health]</sup> _added on 2026-08-24_
 
@@ -14,9 +16,9 @@ _83 articles_
 
 - [Habitat Chronicles:   You can't tell people anything](./Saved_Reading/Habitat%20Chronicles%20You%20Cant%20Tell%20People%20Anything.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 
-- [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](./Saved_Reading/Abdominal%20Fat%20Predicts%20Heart%20Disease%20Risk%20Better%20Than%20Bmi.md), <sup>[Health]</sup> _added on 2026-08-17_
-
 <details><summary>Show more</summary>
+
+- [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](./Saved_Reading/Abdominal%20Fat%20Predicts%20Heart%20Disease%20Risk%20Better%20Than%20Bmi.md), <sup>[Health]</sup> _added on 2026-08-17_
 
 - [AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.](./Saved_Reading/Ai%20Isnt%20Outthinking%20Mathematicians%20Its%20Out-remembering%20Them.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 

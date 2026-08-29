@@ -3,6 +3,7 @@ saved_date: 2026-08-29T20:06:58.260Z
 title: "LLMs reward expertise"
 url: "https://www.seangoedecke.com/llms-reward-expertise/"
 word_count: 917
+tags: [Technology, Science]
 ---
 
 # Llms Reward Expertise
