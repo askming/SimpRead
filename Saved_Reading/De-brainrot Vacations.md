@@ -7,6 +7,7 @@ description: "– Some cows in the fields.
 Brain Fog
 My brain is not the same as it was a few years ago. When I started working as a Software Engineer, everything was novel and mentally demanding. I notably remember how during my first professional months I’d come back home and just go straight to bed due to the mental exhaustion of learning so much stuff and trying to solve software engineering problems that were mostly alien to me at that point in my career."
 word_count: 938
+tags: [Health, Productivity, Technology, Science]
 ---
 
 # De-brainrot Vacations
