@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-09-17; Total 374 articles._
+_Last updated on 2026-09-19; Total 375 articles._
 
 ## 2026
 
-_85 articles_
+_86 articles_
+
+- [The Real Luxuries In Life](./Saved_Reading/The%20Real%20Luxuries%20In%20Life.md), <sup>[Health]</sup> _added on 2026-09-18_
 
 - [De-Brainrot Vacations](./Saved_Reading/De-brainrot%20Vacations.md), <sup>[Health]</sup> _added on 2026-09-16_
 
@@ -14,9 +16,9 @@ _85 articles_
 
 - [The Amazon tax](./Saved_Reading/The%20Amazon%20Tax.md), <sup>[Finance]</sup> _added on 2026-08-23_
 
-- [分享我知识管理 12 年来最重要的经验：INL 结构 - 少数派](./Saved_Reading/12%20Inl%20-.md), _added on 2026-08-17_
-
 <details><summary>Show more</summary>
+
+- [分享我知识管理 12 年来最重要的经验：INL 结构 - 少数派](./Saved_Reading/12%20Inl%20-.md), _added on 2026-08-17_
 
 - [Habitat Chronicles:   You can't tell people anything](./Saved_Reading/Habitat%20Chronicles%20You%20Cant%20Tell%20People%20Anything.md), <sup>[Productivity]</sup> _added on 2026-08-17_
 

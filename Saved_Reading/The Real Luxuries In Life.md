@@ -5,6 +5,7 @@ url: "https://feld.com/archives/2026/09/the-real-luxuries-in-life/"
 author: "Brad Feld"
 description: "Labor Day weekend has always been the back to school marker for me. I'm 60, closing in on 61, and thinking a lot more about what I actually care about. Amy texted me a list yesterday."
 word_count: 139
+tags: [Health]
 ---
 
 # The Real Luxuries In Life
