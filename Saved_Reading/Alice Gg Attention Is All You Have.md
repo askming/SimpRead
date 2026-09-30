@@ -4,6 +4,7 @@ title: "Alice GG • Attention is all you have"
 url: "https://alicegg.tech/2026/09/21/attention"
 description: "The Tetris effect is one of psychology’s most easy to reproduce experiments.Simply spend a bit of time playing the eponymous game every day for a few weeks.A..."
 word_count: 629
+tags: [Productivity, Technology, Health]
 ---
 
 # Alice Gg Attention Is All You Have
