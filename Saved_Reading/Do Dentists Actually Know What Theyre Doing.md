@@ -5,6 +5,7 @@ url: "https://mapwriting.substack.com/p/dentists"
 author: "Parker Tatum"
 description: "After all, they’re just practicing"
 word_count: 3717
+tags: [Health]
 ---
 
 # Do Dentists Actually Know What Theyre Doing

@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-10-17; Total 378 articles._
+_Last updated on 2026-10-17; Total 379 articles._
 
 ## 2026
 
-_89 articles_
+_90 articles_
+
+- [Do dentists actually know what they’re doing?](./Saved_Reading/Do%20Dentists%20Actually%20Know%20What%20Theyre%20Doing.md), <sup>[Health]</sup> _added on 2026-10-17_
 
 - [How Amazon pushes up prices all across the Internet](./Saved_Reading/How%20Amazon%20Pushes%20Up%20Prices%20All%20Across%20The%20Internet.md), <sup>[Technology]</sup> _added on 2026-10-17_
 
@@ -14,9 +16,9 @@ _89 articles_
 
 - [The Real Luxuries In Life](./Saved_Reading/The%20Real%20Luxuries%20In%20Life.md), <sup>[Health]</sup> _added on 2026-09-18_
 
-- [De-Brainrot Vacations](./Saved_Reading/De-brainrot%20Vacations.md), <sup>[Health]</sup> _added on 2026-09-16_
-
 <details><summary>Show more</summary>
+
+- [De-Brainrot Vacations](./Saved_Reading/De-brainrot%20Vacations.md), <sup>[Health]</sup> _added on 2026-09-16_
 
 - [LLMs reward expertise](./Saved_Reading/Llms%20Reward%20Expertise.md), <sup>[Technology]</sup> _added on 2026-08-29_
 
