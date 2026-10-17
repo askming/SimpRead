@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-10-05; Total 377 articles._
+_Last updated on 2026-10-17; Total 378 articles._
 
 ## 2026
 
-_88 articles_
+_89 articles_
+
+- [How Amazon pushes up prices all across the Internet](./Saved_Reading/How%20Amazon%20Pushes%20Up%20Prices%20All%20Across%20The%20Internet.md), <sup>[Technology]</sup> _added on 2026-10-17_
 
 - [You Are No Longer Invited to Dinner](./Saved_Reading/You%20Are%20No%20Longer%20Invited%20To%20Dinner.md), _added on 2026-10-05_
 
@@ -14,9 +16,9 @@ _88 articles_
 
 - [De-Brainrot Vacations](./Saved_Reading/De-brainrot%20Vacations.md), <sup>[Health]</sup> _added on 2026-09-16_
 
-- [LLMs reward expertise](./Saved_Reading/Llms%20Reward%20Expertise.md), <sup>[Technology]</sup> _added on 2026-08-29_
-
 <details><summary>Show more</summary>
+
+- [LLMs reward expertise](./Saved_Reading/Llms%20Reward%20Expertise.md), <sup>[Technology]</sup> _added on 2026-08-29_
 
 - [The Golden Rule for Becoming a Better Writer - T.R Napper](./Saved_Reading/The%20Golden%20Rule%20for%20Becoming%20a%20Better%20Writer%20-%20T.R%20Napper.md), <sup>[Health]</sup> _added on 2026-08-24_
 

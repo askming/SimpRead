@@ -5,6 +5,7 @@ url: "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-intern
 author: "Amanda Shendruk"
 description: "You don’t have to shop on Amazon to pay Amazon's high prices."
 word_count: 1057
+tags: [Technology]
 ---
 
 # How Amazon Pushes Up Prices All Across The Internet
