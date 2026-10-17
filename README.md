@@ -1,10 +1,12 @@
 # Saved readings
 
-_Last updated on 2026-10-17; Total 379 articles._
+_Last updated on 2026-10-17; Total 380 articles._
 
 ## 2026
 
-_90 articles_
+_91 articles_
+
+- [Things to know if you get cancer (2026 Edition)](./Saved_Reading/Things%20To%20Know%20If%20You%20Get%20Cancer%202026%20Edition.md), _added on 2026-10-17_
 
 - [Do dentists actually know what they’re doing?](./Saved_Reading/Do%20Dentists%20Actually%20Know%20What%20Theyre%20Doing.md), <sup>[Health]</sup> _added on 2026-10-17_
 
@@ -14,9 +16,9 @@ _90 articles_
 
 - [Alice GG • Attention is all you have](./Saved_Reading/Alice%20Gg%20Attention%20Is%20All%20You%20Have.md), <sup>[Productivity]</sup> _added on 2026-09-30_
 
-- [The Real Luxuries In Life](./Saved_Reading/The%20Real%20Luxuries%20In%20Life.md), <sup>[Health]</sup> _added on 2026-09-18_
-
 <details><summary>Show more</summary>
+
+- [The Real Luxuries In Life](./Saved_Reading/The%20Real%20Luxuries%20In%20Life.md), <sup>[Health]</sup> _added on 2026-09-18_
 
 - [De-Brainrot Vacations](./Saved_Reading/De-brainrot%20Vacations.md), <sup>[Health]</sup> _added on 2026-09-16_
 
